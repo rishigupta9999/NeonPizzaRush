@@ -1,0 +1,29 @@
+TZERO_CHECK
+v6
+r1
+cCheck dependencies
+cPhaseScriptExecution CMake\ Rules /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/BULLET_PHYSICS.build/Debug/ZERO_CHECK.build/Script-AD2A3F95A8454198AD2E0E2B.sh
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/BULLET_PHYSICS.build/Debug/ZERO_CHECK.build/Script-AD2A3F95A8454198AD2E0E2B.sh
+c00000000536C065F00000000000000E7
+t1399588447
+s231
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies8124a838d91db941^decca838d91db941^---0#1#1#--18"Check dependencies36"CFEC6657-692D-4561-875A-3DF3C4630260-
+
+CPhaseScriptExecution CMake\ Rules /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/BULLET_PHYSICS.build/Debug/ZERO_CHECK.build/Script-AD2A3F95A8454198AD2E0E2B.sh
+s421386552.657536
+e421386552.721974
+r1
+xPhaseScriptExecution
+xCMake Rules
+x/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/BULLET_PHYSICS.build/Debug/ZERO_CHECK.build/Script-AD2A3F95A8454198AD2E0E2B.sh
+oecho ""
+o
+omake -f /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeScripts/ReRunCMake.make
+omake[1]: `/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/cmake.check_cache' is up to date.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Run custom shell script 'CMake Rules'118"PhaseScriptExecution CMake\ Rules build/BULLET_PHYSICS.build/Debug/ZERO_CHECK.build/Script-AD2A3F95A8454198AD2E0E2B.shb79ba838d91db941^02d4b838d91db941^-243"echo ""make -f /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeScripts/ReRunCMake.makemake[1]: `/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/cmake.check_cache' is up to date.3(21%IDEActivityLogMessage2@8"echo ""-421386552#0#8#-0#-----2@108"make -f /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeScripts/ReRunCMake.make-421386552#9#108#-0#-----2@126"make[1]: `/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/cmake.check_cache' is up to date.-421386552#117#126#-0#-----0#0#1#--356"PhaseScriptExecution CMake\ Rules build/BULLET_PHYSICS.build/Debug/ZERO_CHECK.build/Script-AD2A3F95A8454198AD2E0E2B.sh    cd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704    /bin/sh -c /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/BULLET_PHYSICS.build/Debug/ZERO_CHECK.build/Script-AD2A3F95A8454198AD2E0E2B.sh36"F7455BA0-CC4E-4261-B45B-0887FDF4173F-
+b4ADD46B8-6B3D-4064-B89C-5F60F668E03B
+

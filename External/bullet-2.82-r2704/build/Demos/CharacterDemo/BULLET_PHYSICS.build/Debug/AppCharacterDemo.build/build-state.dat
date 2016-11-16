@@ -1,0 +1,1375 @@
+TAppCharacterDemo
+v6
+r1
+cCheck dependencies
+cCompileC build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/BspConverter.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/BspDemo/BspConverter.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/BspLoader.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/BspDemo/BspLoader.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/CharacterDemo.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/DynamicCharacterController.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/main.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/Debug/AppCharacterDemo normal x86_64
+cPhaseScriptExecution CMake\ PostBuild\ Rules /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Script-8FB1DE0D7FFE4424A14F6FE7.sh
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005347D58600000000000000AA
+t1397216646
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000526733BD000000000000044C
+t1382495165
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005320FA5A00000000000001DE
+t1394670170
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AGL.framework/AGL
+c000000005320FA5A000000000000892C
+t1394670170
+s35116
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/GLUT
+c00000000526733BF00000000000135D4
+t1382495167
+s79316
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000005320FA5B000000000000BB7C
+t1394670171
+s47996
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+c000000005320FA5B00000000000211A0
+t1394670171
+s135584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+c000000005320FA5B0000000000005F00
+t1394670171
+s24320
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+c000000005320FA5C000000000000681C
+t1394670172
+s26652
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+c00000000526733C4000000000006E8B0
+t1382495172
+s452784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+c00000000526733C40000000000004734
+t1382495172
+s18228
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+c00000000526733C4000000000000FC6C
+t1382495172
+s64620
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+c00000000526733C4000000000000F6A0
+t1382495172
+s63136
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+c00000000526733C40000000000006254
+t1382495172
+s25172
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+c00000000526733C4000000000000E0F8
+t1382495172
+s57592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+c000000005320FA5C000000000000D6DC
+t1394670172
+s55004
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+c000000005320FA5C0000000000006308
+t1394670172
+s25352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+c00000000526733C40000000000004050
+t1382495172
+s16464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+c000000005320FA5C0000000000008570
+t1394670172
+s34160
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+c00000000526733C40000000000005EA0
+t1382495172
+s24224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+c00000000526733C40000000000005FAC
+t1382495172
+s24492
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+c00000000526733C40000000000004440
+t1382495172
+s17472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+c00000000526733C4000000000000AA28
+t1382495172
+s43560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+c00000000526733C40000000000003E2C
+t1382495172
+s15916
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+c000000005320FA5C0000000000030B04
+t1394670172
+s199428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+c000000005320FA5C0000000000005E54
+t1394670172
+s24148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+c000000005320FA5C0000000000006A90
+t1394670172
+s27280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+c00000000526733C400000000000178AC
+t1382495172
+s96428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+c000000005320FA5C000000000001ADC8
+t1394670172
+s110024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+c00000000526733C4000000000001028C
+t1382495172
+s66188
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+c000000005320FA5C0000000000008800
+t1394670172
+s34816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+c00000000526733C40000000000011090
+t1382495172
+s69776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+c00000000526733C4000000000000882C
+t1382495172
+s34860
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+c000000005320FA5C00000000000067AC
+t1394670172
+s26540
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+c00000000526733C40000000000008DEC
+t1382495172
+s36332
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+c000000005320FA5C0000000000004C08
+t1394670172
+s19464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+c000000005320FA5C0000000000002428
+t1394670172
+s9256
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+c00000000526733C4000000000000439C
+t1382495172
+s17308
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+c00000000526733C40000000000006768
+t1382495172
+s26472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+c000000005320FA5C00000000000172F4
+t1394670172
+s94964
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+c000000005347D5740000000000001770
+t1397216628
+s6000
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/BspDemo/BspConverter.cpp
+c00000000536B5001000000000000163F
+t1399541761
+s5695
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/BspDemo/BspConverter.h
+c00000000536B50010000000000000609
+t1399541761
+s1545
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/BspDemo/BspLoader.cpp
+c00000000536B50010000000000003CBD
+t1399541761
+s15549
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/BspDemo/BspLoader.h
+c00000000536B50010000000000001760
+t1399541761
+s5984
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.cpp
+c00000000536D747E0000000000003263
+t1399682174
+s12899
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.h
+c00000000536B50010000000000000FEC
+t1399541761
+s4076
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.cpp
+c00000000536B500100000000000014F4
+t1399541761
+s5364
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.h
+c00000000536B5001000000000000056C
+t1399541761
+s1388
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/main.cpp
+c00000000536B500100000000000001E1
+t1399541761
+s481
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenGL/DemoApplication.h
+c00000000536B5000000000000000156A
+t1399541760
+s5482
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenGL/GLDebugDrawer.h
+c00000000536B5000000000000000041C
+t1399541760
+s1052
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenGL/GL_ShapeDrawer.h
+c00000000536B50000000000000000A3F
+t1399541760
+s2623
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenGL/GlutDemoApplication.h
+c00000000536B50000000000000000515
+t1399541760
+s1301
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenGL/GlutStuff.h
+c00000000536B50000000000000000A4A
+t1399541760
+s2634
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/AppCharacterDemo.LinkFileList
+c00000000536C07AB000000000000037E
+t1399588779
+s894
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/BspConverter.o
+t1399588779
+s81364
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/BspLoader.o
+t1399588779
+s172852
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/CharacterDemo.o
+t1399682175
+s465520
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/DynamicCharacterController.o
+t1399588779
+s205108
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/main.o
+t1399588779
+s194284
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Script-8FB1DE0D7FFE4424A14F6FE7.sh
+c00000000536C07AB000000000000010F
+t1399588779
+s271
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/Debug/AppCharacterDemo
+t1399682175
+s3595936
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenGL/Debug/libOpenGLSupport.a
+c00000000536C06600000000000235F10
+t1399588448
+s2318096
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletCollision/Debug/libBulletCollision.a
+c00000000536C06630000000000A245D0
+t1399588451
+s10634704
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletDynamics/Debug/libBulletDynamics.a
+c00000000536D745600000000006668B8
+t1399682134
+s6711480
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/Debug/libLinearMath.a
+c00000000536C066000000000000BB430
+t1399588448
+s767024
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btAxisSweep3.h
+c00000000536B4FF10000000000007E6E
+t1399541745
+s32366
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btBroadphaseInterface.h
+c00000000536B4FF10000000000000E03
+t1399541745
+s3587
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btBroadphaseProxy.h
+c00000000536B4FF10000000000001EA9
+t1399541745
+s7849
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h
+c00000000536B4FF100000000000009FE
+t1399541745
+s2558
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDbvt.h
+c00000000536B4FF10000000000007EB0
+t1399541745
+s32432
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDbvtBroadphase.h
+c00000000536B4FF1000000000000185A
+t1399541745
+s6234
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDispatcher.h
+c00000000536B4FF10000000000000E1D
+t1399541745
+s3613
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btMultiSapBroadphase.h
+c00000000536B4FF10000000000001509
+t1399541745
+s5385
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btOverlappingPairCache.h
+c00000000536B4FF100000000000030CB
+t1399541745
+s12491
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btOverlappingPairCallback.h
+c00000000536B4FF100000000000006AE
+t1399541745
+s1710
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btQuantizedBvh.h
+c00000000536B4FF100000000000047B7
+t1399541745
+s18359
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btSimpleBroadphase.h
+c00000000536B4FF100000000000014F2
+t1399541745
+s5362
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btActivatingCollisionAlgorithm.h
+c00000000536B4FF10000000000000693
+t1399541745
+s1683
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionConfiguration.h
+c00000000536B4FF10000000000000675
+t1399541745
+s1653
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h
+c00000000536B4FF100000000000006C4
+t1399541745
+s1732
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionDispatcher.h
+c00000000536B4FF1000000000000149A
+t1399541745
+s5274
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionObject.h
+c00000000536B4FF10000000000003B4F
+t1399541745
+s15183
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionObjectWrapper.h
+c00000000536B4FF1000000000000067E
+t1399541745
+s1662
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionWorld.h
+c00000000536B4FF10000000000004907
+t1399541745
+s18695
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btDefaultCollisionConfiguration.h
+c00000000536B4FF10000000000001374
+t1399541745
+s4980
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btGhostObject.h
+c00000000536B4FF10000000000001604
+t1399541745
+s5636
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btManifoldResult.h
+c00000000536B4FF10000000000001131
+t1399541745
+s4401
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btSphereSphereCollisionAlgorithm.h
+c00000000536B4FF10000000000000BE0
+t1399541745
+s3040
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btBoxShape.h
+c00000000536B4FF00000000000002061
+t1399541744
+s8289
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btBvhTriangleMeshShape.h
+c00000000536B4FF0000000000000149D
+t1399541744
+s5277
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCapsuleShape.h
+c00000000536B4FF0000000000000177D
+t1399541744
+s6013
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCollisionMargin.h
+c00000000536B4FF00000000000000595
+t1399541744
+s1429
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCollisionShape.h
+c00000000536B4FF000000000000012EB
+t1399541744
+s4843
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCompoundShape.h
+c00000000536B4FF000000000000019D2
+t1399541744
+s6610
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConcaveShape.h
+c00000000536B4FF0000000000000084D
+t1399541744
+s2125
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConeShape.h
+c00000000536B4FF000000000000012CE
+t1399541744
+s4814
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexHullShape.h
+c00000000536B4FF000000000000010CF
+t1399541744
+s4303
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexInternalShape.h
+c00000000536B4FF000000000000019D4
+t1399541744
+s6612
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexShape.h
+c00000000536B4FF00000000000000C9A
+t1399541744
+s3226
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexTriangleMeshShape.h
+c00000000536B4FF00000000000000E4F
+t1399541744
+s3663
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCylinderShape.h
+c00000000536B4FF0000000000000186C
+t1399541744
+s6252
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btEmptyShape.h
+c00000000536B4FF000000000000008B2
+t1399541744
+s2226
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btHeightfieldTerrainShape.h
+c00000000536B4FF00000000000001A0A
+t1399541744
+s6666
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btMultiSphereShape.h
+c00000000536B4FF00000000000000C40
+t1399541744
+s3136
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btOptimizedBvh.h
+c00000000536B4FF00000000000000951
+t1399541744
+s2385
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btPolyhedralConvexShape.h
+c00000000536B4FF00000000000000E79
+t1399541744
+s3705
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btScaledBvhTriangleMeshShape.h
+c00000000536B4FF00000000000000DE0
+t1399541744
+s3552
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btShapeHull.h
+c00000000536B4FF00000000000000851
+t1399541744
+s2129
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btSphereShape.h
+c00000000536B4FF00000000000000A84
+t1399541744
+s2692
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btStaticPlaneShape.h
+c00000000536B4FF00000000000000D00
+t1399541744
+s3328
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btStridingMeshInterface.h
+c00000000536B4FF00000000000001552
+t1399541744
+s5458
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTetrahedronShape.h
+c00000000536B4FF000000000000009DF
+t1399541744
+s2527
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleCallback.h
+c00000000536B4FF000000000000006AB
+t1399541744
+s1707
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleIndexVertexArray.h
+c00000000536B4FF000000000000014AF
+t1399541744
+s5295
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleInfoMap.h
+c00000000536B4FF000000000000020D0
+t1399541744
+s8400
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleMesh.h
+c00000000536B4FF00000000000000C10
+t1399541744
+s3088
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleMeshShape.h
+c00000000536B4FF00000000000000AF5
+t1399541744
+s2805
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btUniformScalingShape.h
+c00000000536B4FF00000000000000C18
+t1399541744
+s3096
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h
+c00000000536B4FF10000000000000C96
+t1399541745
+s3222
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btManifoldPoint.h
+c00000000536B4FF10000000000001183
+t1399541745
+s4483
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btPersistentManifold.h
+c00000000536B4FF10000000000001ED0
+t1399541745
+s7888
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Character/btCharacterControllerInterface.h
+c00000000536B4FF000000000000007AD
+t1399541744
+s1965
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Character/btKinematicCharacterController.h
+c00000000536B4FF000000000000017A8
+t1399541744
+s6056
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btConeTwistConstraint.h
+c00000000536B4FF0000000000000284E
+t1399541744
+s10318
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btConstraintSolver.h
+c00000000536B4FF00000000000000852
+t1399541744
+s2130
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btContactSolverInfo.h
+c00000000536B4FF0000000000000154E
+t1399541744
+s5454
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btFixedConstraint.h
+c00000000536B4FF0000000000000069E
+t1399541744
+s1694
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btGearConstraint.h
+c00000000536B4FF00000000000001074
+t1399541744
+s4212
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btGeneric6DofConstraint.h
+c00000000536B4FF00000000000004C07
+t1399541744
+s19463
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btGeneric6DofSpringConstraint.h
+c00000000536B4FF000000000000012B5
+t1399541744
+s4789
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btHinge2Constraint.h
+c00000000536B4FF00000000000000954
+t1399541744
+s2388
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btHingeConstraint.h
+c00000000536B4FF0000000000000302A
+t1399541744
+s12330
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btJacobianEntry.h
+c00000000536B4FF0000000000000151F
+t1399541744
+s5407
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btPoint2PointConstraint.h
+c00000000536B4FF00000000000001558
+t1399541744
+s5464
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btSequentialImpulseConstraintSolver.h
+c00000000536B4FF00000000000001E5D
+t1399541744
+s7773
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btSliderConstraint.h
+c00000000536B4FF000000000000035F7
+t1399541744
+s13815
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btSolverBody.h
+c00000000536B4FF00000000000001E8E
+t1399541744
+s7822
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btSolverConstraint.h
+c00000000536B4FF0000000000000095C
+t1399541744
+s2396
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btTypedConstraint.h
+c00000000536B4FF00000000000003631
+t1399541744
+s13873
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btUniversalConstraint.h
+c00000000536B4FF00000000000000A91
+t1399541744
+s2705
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btActionInterface.h
+c00000000536B4FF000000000000005FC
+t1399541744
+s1532
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btDiscreteDynamicsWorld.h
+c00000000536B4FF00000000000001C8D
+t1399541744
+s7309
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btDynamicsWorld.h
+c00000000536B4FF00000000000001679
+t1399541744
+s5753
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btRigidBody.h
+c00000000536B4FF000000000000046F5
+t1399541744
+s18165
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btSimpleDynamicsWorld.h
+c00000000536B4FF00000000000000C28
+t1399541744
+s3112
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Vehicle/btRaycastVehicle.h
+c00000000536B4FF00000000000001614
+t1399541744
+s5652
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Vehicle/btVehicleRaycaster.h
+c00000000536B4FF00000000000000409
+t1399541744
+s1033
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Vehicle/btWheelInfo.h
+c00000000536B4FF00000000000000D61
+t1399541744
+s3425
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAabbUtil2.h
+c00000000536B4FF10000000000002154
+t1399541745
+s8532
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedAllocator.h
+c00000000536B4FF1000000000000114F
+t1399541745
+s4431
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedObjectArray.h
+c00000000536B4FF10000000000002BCB
+t1399541745
+s11211
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btDefaultMotionState.h
+c00000000536B4FF100000000000004FA
+t1399541745
+s1274
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btGeometryUtil.h
+c00000000536B4FF1000000000000075E
+t1399541745
+s1886
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btHashMap.h
+c00000000536B4FF100000000000024A8
+t1399541745
+s9384
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btIDebugDraw.h
+c00000000536B4FF1000000000000410A
+t1399541745
+s16650
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMatrix3x3.h
+c00000000536B4FF1000000000000ADC0
+t1399541745
+s44480
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMinMax.h
+c00000000536B4FF100000000000006C6
+t1399541745
+s1734
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMotionState.h
+c00000000536B4FF1000000000000063D
+t1399541745
+s1597
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuadWord.h
+c00000000536B4FF10000000000001C89
+t1399541745
+s7305
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuaternion.h
+c00000000536B4FF10000000000006E31
+t1399541745
+s28209
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuickprof.h
+c00000000536B4FF10000000000001410
+t1399541745
+s5136
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btScalar.h
+c00000000536B4FF100000000000053B9
+t1399541745
+s21433
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btSerializer.h
+c00000000536B4FF10000000000003413
+t1399541745
+s13331
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btTransform.h
+c00000000536B4FF10000000000002241
+t1399541745
+s8769
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btTransformUtil.h
+c00000000536B4FF10000000000001C3F
+t1399541745
+s7231
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btVector3.h
+c00000000536B4FF10000000000009D3C
+t1399541745
+s40252
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/btBulletCollisionCommon.h
+c00000000536B4FF10000000000000D48
+t1399541745
+s3400
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/btBulletDynamicsCommon.h
+c00000000536B4FF100000000000008A4
+t1399541745
+s2212
+
+CBuild AST from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/BspDemo/BspConverter.cpp
+r0
+
+CBuild AST from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/BspDemo/BspLoader.cpp
+r0
+
+CBuild AST from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.cpp
+r0
+
+CBuild AST from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.cpp
+r0
+
+CBuild AST from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies14d1bf38d91db941^fef0bf38d91db941^---0#1#1#--18"Check dependencies36"C09A0D05-B647-44F0-B68E-6AF507098A20-
+
+CCompileC build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/BspConverter.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/BspDemo/BspConverter.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s421281579.483505
+e421281579.622607
+r1
+xCompileC
+xbuild/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/BspConverter.o
+x/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/BspDemo/BspConverter.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/BspDemo/BspConverter.cpp
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/BspDemo/BspConverter.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btVector3.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btScalar.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMinMax.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedAllocator.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedObjectArray.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/BspDemo/BspLoader.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btGeometryUtil.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/BspDemo/BspConverter.cpp214"CompileC build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/BspConverter.o Demos/BspDemo/BspConverter.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerc7d67b2b3f1cb941^512da22b3f1cb941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/BspDemo/BspConverter.cpp0000000000000000^2834"CompileC build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/BspConverter.o Demos/BspDemo/BspConverter.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/Debug/include -I/usr/local/include -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenGL -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/DerivedSources/x86_64 -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/BspConverter.d --serialize-diagnostics /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/BspConverter.dia -c /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/BspDemo/BspConverter.cpp -o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/BspConverter.o36"4D6B873A-4305-490C-AF75-B3842A59484C-
+b14C4A55A-9E58-4EE0-AA7A-64ECABAFFC6E
+
+CCompileC build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/BspLoader.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/BspDemo/BspLoader.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s421281579.483722
+e421281579.677443
+r1
+xCompileC
+xbuild/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/BspLoader.o
+x/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/BspDemo/BspLoader.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/BspDemo/BspLoader.cpp
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/BspDemo/BspLoader.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedObjectArray.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btScalar.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedAllocator.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/BspDemo/BspLoader.cpp208"CompileC build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/BspLoader.o Demos/BspDemo/BspLoader.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler19e37b2b3f1cb941^4d48af2b3f1cb941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/BspDemo/BspLoader.cpp0000000000000000^2816"CompileC build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/BspLoader.o Demos/BspDemo/BspLoader.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/Debug/include -I/usr/local/include -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenGL -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/DerivedSources/x86_64 -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/BspLoader.d --serialize-diagnostics /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/BspLoader.dia -c /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/BspDemo/BspLoader.cpp -o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/BspLoader.o36"669DDACF-5B3F-46F9-962E-226A556B5F69-
+b14C4A55A-9E58-4EE0-AA7A-64ECABAFFC6E
+
+CCompileC build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/CharacterDemo.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s421374975.216389
+e421374975.772422
+r1
+xCompileC
+xbuild/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/CharacterDemo.o
+x/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.cpp
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/btBulletDynamicsCommon.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/btBulletCollisionCommon.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionWorld.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btVector3.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btScalar.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMinMax.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedAllocator.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btTransform.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMatrix3x3.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuaternion.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuadWord.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionObject.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMotionState.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedObjectArray.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionDispatcher.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDispatcher.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btPersistentManifold.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btManifoldPoint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btTransformUtil.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btManifoldResult.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionObjectWrapper.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btBroadphaseProxy.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btOverlappingPairCache.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btBroadphaseInterface.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btOverlappingPairCallback.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btBoxShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btPolyhedralConvexShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexInternalShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCollisionShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCollisionMargin.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAabbUtil2.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btSphereShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCapsuleShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCylinderShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConeShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btStaticPlaneShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConcaveShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleCallback.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexHullShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleMesh.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleIndexVertexArray.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btStridingMeshInterface.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexTriangleMeshShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btBvhTriangleMeshShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleMeshShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btOptimizedBvh.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btQuantizedBvh.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleInfoMap.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btHashMap.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btSerializer.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btScaledBvhTriangleMeshShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCompoundShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTetrahedronShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btEmptyShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btMultiSphereShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btUniformScalingShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btSphereSphereCollisionAlgorithm.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btActivatingCollisionAlgorithm.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btDefaultCollisionConfiguration.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionConfiguration.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btSimpleBroadphase.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btAxisSweep3.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDbvtBroadphase.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDbvt.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btMultiSapBroadphase.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btDefaultMotionState.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuickprof.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btIDebugDraw.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btDiscreteDynamicsWorld.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btDynamicsWorld.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btContactSolverInfo.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btSimpleDynamicsWorld.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btRigidBody.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btPoint2PointConstraint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btJacobianEntry.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btTypedConstraint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btSolverConstraint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btSolverBody.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btHingeConstraint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btConeTwistConstraint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btGeneric6DofConstraint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btSliderConstraint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btGeneric6DofSpringConstraint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btUniversalConstraint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btHinge2Constraint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btGearConstraint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btFixedConstraint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btSequentialImpulseConstraintSolver.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btConstraintSolver.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Vehicle/btRaycastVehicle.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Vehicle/btVehicleRaycaster.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Vehicle/btWheelInfo.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btActionInterface.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btHeightfieldTerrainShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btGhostObject.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenGL/GLDebugDrawer.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenGL/GL_ShapeDrawer.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btShapeHull.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenGL/GlutStuff.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenGL/GlutDemoApplication.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenGL/DemoApplication.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/BspDemo/BspLoader.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/BspDemo/BspConverter.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Character/btKinematicCharacterController.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Character/btCharacterControllerInterface.h
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.cpp:16:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/btBulletDynamicsCommon.h:20:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/btBulletCollisionCommon.h:32:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexHullShape.h:76:15: warning: 'btConvexHullShape::project' hides overloaded virtual function [-Woverloaded-virtual]
+o        virtual void project(const btTransform& trans, const btVector3& dir, btScalar& minProj, btScalar& maxProj, btVector3& witnesPtMin,btVector3& witnesPtMax) const;
+o                     ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.cpp:16:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/btBulletDynamicsCommon.h:20:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/btBulletCollisionCommon.h:26:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btBoxShape.h:19:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btPolyhedralConvexShape.h:20:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexInternalShape.h:19:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexShape.h:55:15: note: hidden overloaded virtual function 'btConvexShape::project' declared here: different number of parameters (4 vs 6)
+o        virtual void project(const btTransform& trans, const btVector3& dir, btScalar& min, btScalar& max) const;
+o                     ^
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.cpp:274:7: warning: unused variable 'numSimSteps' [-Wunused-variable]
+o                int numSimSteps = m_dynamicsWorld->stepSimulation(dt,maxSimSubSteps);
+o                    ^
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.cpp:318:2: warning: 'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutSwapBuffers();
+o        ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.cpp:25:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenGL/GlutStuff.h:27:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:448:22: note: 'glutSwapBuffers' declared here
+oextern void APIENTRY glutSwapBuffers(void) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.cpp:337:2: warning: 'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutSwapBuffers();
+o        ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.cpp:25:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenGL/GlutStuff.h:27:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:448:22: note: 'glutSwapBuffers' declared here
+oextern void APIENTRY glutSwapBuffers(void) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.cpp:476:5: warning: 'gluLookAt' is deprecated: first deprecated in OS X 10.9 - "Use GLKMatrix4MakeLookAt" [-Wdeprecated-declarations]
+o    gluLookAt(m_cameraPosition[0],m_cameraPosition[1],m_cameraPosition[2],
+o    ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.cpp:25:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenGL/GlutStuff.h:26:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h:265:13: note: 'gluLookAt' declared here
+oextern void gluLookAt (GLdouble eyeX, GLdouble eyeY, GLdouble eyeZ, GLdouble centerX, GLdouble centerY, GLdouble centerZ, GLdouble upX, GLdouble upY, GLdouble upZ) OPENGL_DEPRECATED_MSG(10_0, 10_9, "Use GLKMatrix4MakeLookAt");
+o            ^
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.cpp:33:11: warning: unused variable 'maxProxies' [-Wunused-const-variable]
+oconst int maxProxies = 32766;
+o          ^
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.cpp:34:11: warning: unused variable 'maxOverlap' [-Wunused-const-variable]
+oconst int maxOverlap = 65535;
+o          ^
+o7 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.cpp222"CompileC build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/CharacterDemo.o Demos/CharacterDemo/CharacterDemo.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler107537ffab1db941^9433c8ffab1db941^-5288"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.cpp:16:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/btBulletDynamicsCommon.h:20:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/btBulletCollisionCommon.h:32:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexHullShape.h:76:15: warning: 'btConvexHullShape::project' hides overloaded virtual function [-Woverloaded-virtual]        virtual void project(const btTransform& trans, const btVector3& dir, btScalar& minProj, btScalar& maxProj, btVector3& witnesPtMin,btVector3& witnesPtMax) const;                     ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.cpp:16:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/btBulletDynamicsCommon.h:20:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/btBulletCollisionCommon.h:26:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btBoxShape.h:19:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btPolyhedralConvexShape.h:20:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexInternalShape.h:19:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexShape.h:55:15: note: hidden overloaded virtual function 'btConvexShape::project' declared here: different number of parameters (4 vs 6)        virtual void project(const btTransform& trans, const btVector3& dir, btScalar& min, btScalar& max) const;                     ^/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.cpp:274:7: warning: unused variable 'numSimSteps' [-Wunused-variable]                int numSimSteps = m_dynamicsWorld->stepSimulation(dt,maxSimSubSteps);                    ^/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.cpp:318:2: warning: 'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutSwapBuffers();        ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.cpp:25:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenGL/GlutStuff.h:27:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:448:22: note: 'glutSwapBuffers' declared hereextern void APIENTRY glutSwapBuffers(void) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.cpp:337:2: warning: 'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutSwapBuffers();        ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.cpp:25:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenGL/GlutStuff.h:27:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:448:22: note: 'glutSwapBuffers' declared hereextern void APIENTRY glutSwapBuffers(void) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.cpp:476:5: warning: 'gluLookAt' is deprecated: first deprecated in OS X 10.9 - "Use GLKMatrix4MakeLookAt" [-Wdeprecated-declarations]    gluLookAt(m_cameraPosition[0],m_cameraPosition[1],m_cameraPosition[2],    ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.cpp:25:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenGL/GlutStuff.h:26:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h:265:13: note: 'gluLookAt' declared hereextern void gluLookAt (GLdouble eyeX, GLdouble eyeY, GLdouble eyeZ, GLdouble centerX, GLdouble centerY, GLdouble centerZ, GLdouble upX, GLdouble upY, GLdouble upZ) OPENGL_DEPRECATED_MSG(10_0, 10_9, "Use GLKMatrix4MakeLookAt");            ^/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.cpp:33:11: warning: unused variable 'maxProxies' [-Wunused-const-variable]const int maxProxies = 32766;          ^/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.cpp:34:11: warning: unused variable 'maxOverlap' [-Wunused-const-variable]const int maxOverlap = 65535;          ^7 warnings generated.7(36%IDEClangDiagnosticActivityLogMessage2@62"'btConvexHullShape::project' hides overloaded virtual function-421374975#18446744073709551615#0#4(2@128"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.cpp:16:-421374975#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@109"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.cpp0000000000000000^15#9#15#9#956#0#21"Apple LLVM 5.1 Notice--2@119"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/btBulletDynamicsCommon.h:20:-421374975#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@100"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/btBulletDynamicsCommon.h0000000000000000^19#9#19#9#1106#0#21"Apple LLVM 5.1 Notice--2@120"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/btBulletCollisionCommon.h:32:-421374975#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@101"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/btBulletCollisionCommon.h0000000000000000^31#9#31#9#1659#0#21"Apple LLVM 5.1 Notice--2@114"Hidden overloaded virtual function 'btConvexShape::project' declared here: different number of parameters (4 vs 6)-421374975#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@123"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexShape.h0000000000000000^54#14#54#14#2228#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@127"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexHullShape.h0000000000000000^75#14#75#14#2899#0#14"Semantic Issue--2@29"Unused variable 'numSimSteps'-421374975#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@109"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.cpp0000000000000000^273#6#273#6#7867#0#19"Unused Entity Issue--2@62"'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9-421374975#18446744073709551615#0#1(2@31"'glutSwapBuffers' declared here-421374975#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h0000000000000000^447#21#447#21#13979#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@109"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.cpp0000000000000000^317#1#317#1#8622#0#12"Deprecations--2@62"'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9-421374975#18446744073709551615#0#1(2@31"'glutSwapBuffers' declared here-421374975#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h0000000000000000^447#21#447#21#13979#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@109"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.cpp0000000000000000^336#1#336#1#8893#0#12"Deprecations--2@85"'gluLookAt' is deprecated: first deprecated in OS X 10.9 - "Use GLKMatrix4MakeLookAt"-421374975#18446744073709551615#0#1(2@25"'gluLookAt' declared here-421374975#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@162"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h0000000000000000^264#12#264#12#14161#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@109"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.cpp0000000000000000^475#4#475#4#11659#0#12"Deprecations--2@28"Unused variable 'maxProxies'-421374975#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@109"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.cpp0000000000000000^32#10#32#10#1430#0#19"Unused Entity Issue--2@28"Unused variable 'maxOverlap'-421374975#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@109"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.cpp0000000000000000^33#10#33#10#1460#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@109"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.cpp0000000000000000^2852"CompileC build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/CharacterDemo.o Demos/CharacterDemo/CharacterDemo.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/Debug/include -I/usr/local/include -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenGL -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/DerivedSources/x86_64 -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/CharacterDemo.d --serialize-diagnostics /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/CharacterDemo.dia -c /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.cpp -o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/CharacterDemo.o36"C6733873-14E2-48C5-B15F-46C28CB4FFD9-
+b3132CC4B-4651-4F6D-A9F0-7B624EF634C0
+
+CCompileC build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/DynamicCharacterController.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s421281579.484154
+e421281579.763422
+r1
+xCompileC
+xbuild/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/DynamicCharacterController.o
+x/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.cpp
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btMultiSphereShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexInternalShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCollisionShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btTransform.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMatrix3x3.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btVector3.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btScalar.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMinMax.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedAllocator.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuaternion.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuadWord.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btBroadphaseProxy.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCollisionMargin.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAabbUtil2.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedObjectArray.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btRigidBody.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionObject.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMotionState.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionWorld.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionDispatcher.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDispatcher.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btPersistentManifold.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btManifoldPoint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btTransformUtil.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btManifoldResult.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionObjectWrapper.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btOverlappingPairCache.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btBroadphaseInterface.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btOverlappingPairCallback.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btDefaultMotionState.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Character/btCharacterControllerInterface.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btActionInterface.h
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.cpp:5:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.h:36:15: warning: 'DynamicCharacterController::reset' hides overloaded virtual function [-Woverloaded-virtual]
+o        virtual void reset ();
+o                     ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.cpp:5:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.h:6:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Character/btCharacterControllerInterface.h:34:15: note: hidden overloaded virtual function 'btCharacterControllerInterface::reset' declared here: different number of parameters (1 vs 0)
+o        virtual void    reset ( btCollisionWorld* collisionWorld ) = 0;
+o                        ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.cpp:5:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.h:42:7: warning: 'DynamicCharacterController::preStep' hides overloaded virtual function [-Woverloaded-virtual]
+o        void preStep (const btCollisionWorld* collisionWorld);
+o             ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.cpp:5:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.h:6:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Character/btCharacterControllerInterface.h:37:15: note: hidden overloaded virtual function 'btCharacterControllerInterface::preStep' declared here: type mismatch at 1st parameter ('btCollisionWorld *' vs 'const btCollisionWorld *')
+o        virtual void    preStep ( btCollisionWorld* collisionWorld) = 0;
+o                        ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.cpp:5:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.h:43:7: warning: 'DynamicCharacterController::playerStep' hides overloaded virtual function [-Woverloaded-virtual]
+o        void playerStep (const btCollisionWorld* collisionWorld,btScalar dt,
+o             ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.cpp:5:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.h:6:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Character/btCharacterControllerInterface.h:38:15: note: hidden overloaded virtual function 'btCharacterControllerInterface::playerStep' declared here: different number of parameters (2 vs 7)
+o        virtual void    playerStep (btCollisionWorld* collisionWorld, btScalar dt) = 0;
+o                        ^
+o3 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.cpp248"CompileC build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/DynamicCharacterController.o Demos/CharacterDemo/DynamicCharacterController.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerfa087c2b3f1cb941^6d6fc32b3f1cb941^-3355"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.cpp:5:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.h:36:15: warning: 'DynamicCharacterController::reset' hides overloaded virtual function [-Woverloaded-virtual]        virtual void reset ();                     ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.cpp:5:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.h:6:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Character/btCharacterControllerInterface.h:34:15: note: hidden overloaded virtual function 'btCharacterControllerInterface::reset' declared here: different number of parameters (1 vs 0)        virtual void    reset ( btCollisionWorld* collisionWorld ) = 0;                        ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.cpp:5:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.h:42:7: warning: 'DynamicCharacterController::preStep' hides overloaded virtual function [-Woverloaded-virtual]        void preStep (const btCollisionWorld* collisionWorld);             ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.cpp:5:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.h:6:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Character/btCharacterControllerInterface.h:37:15: note: hidden overloaded virtual function 'btCharacterControllerInterface::preStep' declared here: type mismatch at 1st parameter ('btCollisionWorld *' vs 'const btCollisionWorld *')        virtual void    preStep ( btCollisionWorld* collisionWorld) = 0;                        ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.cpp:5:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.h:43:7: warning: 'DynamicCharacterController::playerStep' hides overloaded virtual function [-Woverloaded-virtual]        void playerStep (const btCollisionWorld* collisionWorld,btScalar dt,             ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.cpp:5:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.h:6:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Character/btCharacterControllerInterface.h:38:15: note: hidden overloaded virtual function 'btCharacterControllerInterface::playerStep' declared here: different number of parameters (2 vs 7)        virtual void    playerStep (btCollisionWorld* collisionWorld, btScalar dt) = 0;                        ^3 warnings generated.3(36%IDEClangDiagnosticActivityLogMessage2@69"'DynamicCharacterController::reset' hides overloaded virtual function-421281579#18446744073709551615#0#2(2@140"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.cpp:5:-421281579#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@122"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.cpp0000000000000000^4#9#4#9#231#0#21"Apple LLVM 5.0 Notice--2@129"Hidden overloaded virtual function 'btCharacterControllerInterface::reset' declared here: different number of parameters (1 vs 0)-421281579#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@133"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Character/btCharacterControllerInterface.h0000000000000000^33#14#33#14#1525#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@120"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.h0000000000000000^35#14#35#14#879#0#14"Semantic Issue--2@71"'DynamicCharacterController::preStep' hides overloaded virtual function-421281579#18446744073709551615#0#2(2@140"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.cpp:5:-421281579#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@122"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.cpp0000000000000000^4#9#4#9#231#0#21"Apple LLVM 5.0 Notice--2@175"Hidden overloaded virtual function 'btCharacterControllerInterface::preStep' declared here: type mismatch at 1st parameter ('btCollisionWorld *' vs 'const btCollisionWorld *')-421281579#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@133"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Character/btCharacterControllerInterface.h0000000000000000^36#14#36#14#1638#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@120"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.h0000000000000000^41#6#41#6#1103#0#14"Semantic Issue--2@74"'DynamicCharacterController::playerStep' hides overloaded virtual function-421281579#18446744073709551615#0#2(2@140"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.cpp:5:-421281579#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@122"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.cpp0000000000000000^4#9#4#9#231#0#21"Apple LLVM 5.0 Notice--2@134"Hidden overloaded virtual function 'btCharacterControllerInterface::playerStep' declared here: different number of parameters (2 vs 7)-421281579#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@133"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Character/btCharacterControllerInterface.h0000000000000000^37#14#37#14#1701#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@120"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.h0000000000000000^42#6#42#6#1159#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@122"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.cpp0000000000000000^2930"CompileC build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/DynamicCharacterController.o Demos/CharacterDemo/DynamicCharacterController.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/Debug/include -I/usr/local/include -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenGL -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/DerivedSources/x86_64 -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/DynamicCharacterController.d --serialize-diagnostics /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/DynamicCharacterController.dia -c /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/DynamicCharacterController.cpp -o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/DynamicCharacterController.o36"AF4E6627-9A2D-4DAE-AEBC-200D77046E19-
+b14C4A55A-9E58-4EE0-AA7A-64ECABAFFC6E
+
+CCompileC build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/main.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s421281579.484381
+e421281579.886872
+r1
+xCompileC
+xbuild/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/main.o
+x/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/main.cpp
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexHullShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btPolyhedralConvexShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMatrix3x3.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btVector3.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btScalar.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMinMax.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedAllocator.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuaternion.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuadWord.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexInternalShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCollisionShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btTransform.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btBroadphaseProxy.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCollisionMargin.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAabbUtil2.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedObjectArray.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenGL/GlutDemoApplication.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenGL/DemoApplication.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenGL/GlutStuff.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenGL/GL_ShapeDrawer.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btShapeHull.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuickprof.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/BspDemo/BspLoader.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/BspDemo/BspConverter.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenGL/GLDebugDrawer.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btIDebugDraw.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/btBulletDynamicsCommon.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/btBulletCollisionCommon.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionWorld.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionObject.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMotionState.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionDispatcher.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDispatcher.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btPersistentManifold.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btManifoldPoint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btTransformUtil.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btManifoldResult.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionObjectWrapper.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btOverlappingPairCache.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btBroadphaseInterface.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btOverlappingPairCallback.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btBoxShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btSphereShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCapsuleShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCylinderShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConeShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btStaticPlaneShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConcaveShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleCallback.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleMesh.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleIndexVertexArray.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btStridingMeshInterface.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexTriangleMeshShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btBvhTriangleMeshShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleMeshShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btOptimizedBvh.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btQuantizedBvh.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleInfoMap.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btHashMap.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btSerializer.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btScaledBvhTriangleMeshShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCompoundShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTetrahedronShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btEmptyShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btMultiSphereShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btUniformScalingShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btSphereSphereCollisionAlgorithm.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btActivatingCollisionAlgorithm.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btDefaultCollisionConfiguration.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionConfiguration.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btSimpleBroadphase.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btAxisSweep3.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDbvtBroadphase.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDbvt.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btMultiSapBroadphase.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btDefaultMotionState.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btDiscreteDynamicsWorld.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btDynamicsWorld.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btContactSolverInfo.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btSimpleDynamicsWorld.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btRigidBody.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btPoint2PointConstraint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btJacobianEntry.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btTypedConstraint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btSolverConstraint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btSolverBody.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btHingeConstraint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btConeTwistConstraint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btGeneric6DofConstraint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btSliderConstraint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btGeneric6DofSpringConstraint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btUniversalConstraint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btHinge2Constraint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btGearConstraint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btFixedConstraint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btSequentialImpulseConstraintSolver.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btConstraintSolver.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Vehicle/btRaycastVehicle.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Vehicle/btVehicleRaycaster.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Vehicle/btWheelInfo.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btActionInterface.h
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/main.cpp:2:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.h:22:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexHullShape.h:76:15: warning: 'btConvexHullShape::project' hides overloaded virtual function [-Woverloaded-virtual]
+o        virtual void project(const btTransform& trans, const btVector3& dir, btScalar& minProj, btScalar& maxProj, btVector3& witnesPtMin,btVector3& witnesPtMax) const;
+o                     ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/main.cpp:2:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.h:22:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexHullShape.h:19:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btPolyhedralConvexShape.h:20:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexInternalShape.h:19:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexShape.h:55:15: note: hidden overloaded virtual function 'btConvexShape::project' declared here: different number of parameters (4 vs 6)
+o        virtual void project(const btTransform& trans, const btVector3& dir, btScalar& min, btScalar& max) const;
+o                     ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/main.cpp204"CompileC build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/main.o Demos/CharacterDemo/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerb70c7c2b3f1cb941^6309e32b3f1cb941^-1761"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/main.cpp:2:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.h:22:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexHullShape.h:76:15: warning: 'btConvexHullShape::project' hides overloaded virtual function [-Woverloaded-virtual]        virtual void project(const btTransform& trans, const btVector3& dir, btScalar& minProj, btScalar& maxProj, btVector3& witnesPtMin,btVector3& witnesPtMax) const;                     ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/main.cpp:2:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.h:22:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexHullShape.h:19:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btPolyhedralConvexShape.h:20:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexInternalShape.h:19:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexShape.h:55:15: note: hidden overloaded virtual function 'btConvexShape::project' declared here: different number of parameters (4 vs 6)        virtual void project(const btTransform& trans, const btVector3& dir, btScalar& min, btScalar& max) const;                     ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@62"'btConvexHullShape::project' hides overloaded virtual function-421281579#18446744073709551615#0#3(2@118"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/main.cpp:2:-421281579#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@100"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/main.cpp0000000000000000^1#9#1#9#10#0#21"Apple LLVM 5.0 Notice--2@126"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.h:22:-421281579#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@107"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/CharacterDemo.h0000000000000000^21#9#21#9#1126#0#21"Apple LLVM 5.0 Notice--2@114"Hidden overloaded virtual function 'btConvexShape::project' declared here: different number of parameters (4 vs 6)-421281579#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@123"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexShape.h0000000000000000^54#14#54#14#2228#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@127"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexHullShape.h0000000000000000^75#14#75#14#2899#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@100"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/main.cpp0000000000000000^2798"CompileC build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/main.o Demos/CharacterDemo/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/Debug/include -I/usr/local/include -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenGL -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/DerivedSources/x86_64 -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/main.dia -c /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/CharacterDemo/main.cpp -o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/main.o36"C1B8ACD8-830F-475C-A45A-E2AF5C6C9F35-
+b14C4A55A-9E58-4EE0-AA7A-64ECABAFFC6E
+
+CLd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/Debug/AppCharacterDemo normal x86_64
+s421374975.773746
+e421374975.846801
+r1
+xLd
+x/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/Debug/AppCharacterDemo
+xnormal
+xx86_64
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/AppCharacterDemo.LinkFileList
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/BspConverter.o
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/BspLoader.o
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/CharacterDemo.o
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/DynamicCharacterController.o
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/main.o
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenGL/Debug/libOpenGLSupport.a
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletDynamics/Debug/libBulletDynamics.a
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletCollision/Debug/libBulletCollision.a
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/Debug/libLinearMath.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/GLUT
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AGL.framework/AGL
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Link /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/Debug/AppCharacterDemo65"Ld build/Demos/CharacterDemo/Debug/AppCharacterDemo normal x86_644221c6ffab1db941^8ac8d8ffab1db941^---0#0#1#--1736"Ld build/Demos/CharacterDemo/Debug/AppCharacterDemo normal x86_64    cd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/Debug -F/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/Debug -filelist /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/AppCharacterDemo.LinkFileList -mmacosx-version-min=10.9 -Wl,-search_paths_first -Wl,-headerpad_max_install_names /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenGL/Debug/libOpenGLSupport.a /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletDynamics/Debug/libBulletDynamics.a /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletCollision/Debug/libBulletCollision.a /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/Debug/libLinearMath.a -framework GLUT -framework OpenGL -framework AGL -Xlinker -dependency_info -Xlinker /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Objects-normal/x86_64/AppCharacterDemo_dependency_info.dat -o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/Debug/AppCharacterDemo36"20773E7F-6242-46E3-B0D9-4E47FCA5D6AD-
+b3132CC4B-4651-4F6D-A9F0-7B624EF634C0
+
+CPhaseScriptExecution CMake\ PostBuild\ Rules /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Script-8FB1DE0D7FFE4424A14F6FE7.sh
+s421386552.753294
+e421386552.768694
+r1
+xPhaseScriptExecution
+xCMake PostBuild Rules
+x/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Script-8FB1DE0D7FFE4424A14F6FE7.sh
+o/Applications/CMake\ 2.8-12.app/Contents/bin/cmake -E copy_if_different /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/BspDemo.bsp /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Run custom shell script 'CMake PostBuild Rules'155"PhaseScriptExecution CMake\ PostBuild\ Rules build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Script-8FB1DE0D7FFE4424A14F6FE7.sh0c1fc138d91db941^75c9c438d91db941^-240"/Applications/CMake\ 2.8-12.app/Contents/bin/cmake -E copy_if_different /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/BspDemo.bsp /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo1(21%IDEActivityLogMessage2@240"/Applications/CMake\ 2.8-12.app/Contents/bin/cmake -E copy_if_different /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/BspDemo.bsp /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo-421386552#0#240#-0#-----0#0#1#--419"PhaseScriptExecution CMake\ PostBuild\ Rules build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Script-8FB1DE0D7FFE4424A14F6FE7.sh    cd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704    /bin/sh -c /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/CharacterDemo/BULLET_PHYSICS.build/Debug/AppCharacterDemo.build/Script-8FB1DE0D7FFE4424A14F6FE7.sh36"4C86669C-4FAA-430E-A7F5-370B8AB9927F-
+b99AAFA02-048E-4185-A9F4-05E5504ABC44
+

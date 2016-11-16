@@ -1,0 +1,681 @@
+TBulletSoftBody
+v6
+r1
+cCheck dependencies
+cCompileC build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btDefaultSoftBodySolver.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btDefaultSoftBodySolver.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftBody.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftBodyConcaveCollisionAlgorithm.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyConcaveCollisionAlgorithm.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftBodyHelpers.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyHelpers.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftBodyRigidBodyCollisionConfiguration.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyRigidBodyCollisionConfiguration.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftRigidCollisionAlgorithm.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidCollisionAlgorithm.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftRigidDynamicsWorld.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidDynamicsWorld.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftSoftCollisionAlgorithm.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftSoftCollisionAlgorithm.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/Debug/libBulletSoftBody.a normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005347D58600000000000000AA
+t1397216646
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000526733BD000000000000044C
+t1382495165
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005320FA5A00000000000001DE
+t1394670170
+s478
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/BulletSoftBody.LinkFileList
+c00000000536C06AD00000000000005E7
+t1399588525
+s1511
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btDefaultSoftBodySolver.o
+t1399588526
+s188256
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftBody.o
+t1399588527
+s1526636
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftBodyConcaveCollisionAlgorithm.o
+t1399588526
+s389480
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftBodyHelpers.o
+t1399588526
+s435088
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftBodyRigidBodyCollisionConfiguration.o
+t1399588525
+s96756
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftRigidCollisionAlgorithm.o
+t1399588526
+s182588
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftRigidDynamicsWorld.o
+t1399588526
+s299396
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftSoftCollisionAlgorithm.o
+t1399588526
+s185224
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/Debug/libBulletSoftBody.a
+t2
+s0
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btDefaultSoftBodySolver.cpp
+c00000000536B4FF00000000000001498
+t1399541744
+s5272
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.cpp
+c00000000536B4FF0000000000001647B
+t1399541744
+s91259
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyConcaveCollisionAlgorithm.cpp
+c00000000536B4FF0000000000000324A
+t1399541744
+s12874
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyHelpers.cpp
+c00000000536B4FF00000000000006E6D
+t1399541744
+s28269
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyRigidBodyCollisionConfiguration.cpp
+c00000000536B4FF00000000000001529
+t1399541744
+s5417
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidCollisionAlgorithm.cpp
+c00000000536B4FF00000000000000D2D
+t1399541744
+s3373
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidDynamicsWorld.cpp
+c00000000536B4FF00000000000002C54
+t1399541744
+s11348
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftSoftCollisionAlgorithm.cpp
+c00000000536B4FF00000000000000930
+t1399541744
+s2352
+
+CBuild AST from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btDefaultSoftBodySolver.cpp
+r0
+
+CBuild AST from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.cpp
+r0
+
+CBuild AST from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyConcaveCollisionAlgorithm.cpp
+r0
+
+CBuild AST from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyHelpers.cpp
+r0
+
+CBuild AST from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyRigidBodyCollisionConfiguration.cpp
+r0
+
+CBuild AST from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidCollisionAlgorithm.cpp
+r0
+
+CBuild AST from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidDynamicsWorld.cpp
+r0
+
+CBuild AST from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftSoftCollisionAlgorithm.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies8e23b62d3e1cb941^2b68b62d3e1cb941^---0#1#1#--18"Check dependencies36"63D120CE-AEFD-4DBB-B8A0-856A828FDAAA-
+
+CCompileC build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btDefaultSoftBodySolver.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btDefaultSoftBodySolver.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s421281325.712888
+e421281326.056050
+r1
+xCompileC
+xbuild/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btDefaultSoftBodySolver.o
+x/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btDefaultSoftBodySolver.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btDefaultSoftBodySolver.cpp
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleIndexVertexArray.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btStridingMeshInterface.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btVector3.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btScalar.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMinMax.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedAllocator.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleCallback.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConcaveShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCollisionShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btTransform.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMatrix3x3.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuaternion.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuadWord.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btBroadphaseProxy.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedObjectArray.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionObject.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMotionState.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btDefaultSoftBodySolver.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodySolvers.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodySolverVertexBuffer.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCapsuleShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexInternalShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCollisionMargin.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAabbUtil2.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btIDebugDraw.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btRigidBody.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btGjkEpa2.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDbvt.h
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btDefaultSoftBodySolver.cpp:22:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h:27:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h:188:8: warning: unused variable 'sz' [-Wunused-variable]
+o                        int sz = sizeof(Cell);
+o                            ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btDefaultSoftBodySolver.cpp238"CompileC build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btDefaultSoftBodySolver.o src/BulletSoftBody/btDefaultSoftBodySolver.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler4b93b62d3e1cb941^0664232e3e1cb941^-514"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btDefaultSoftBodySolver.cpp:22:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h:27:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h:188:8: warning: unused variable 'sz' [-Wunused-variable]                        int sz = sizeof(Cell);                            ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@20"Unused variable 'sz'-421281326#18446744073709551615#0#2(2@137"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btDefaultSoftBodySolver.cpp:22:-421281326#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@118"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btDefaultSoftBodySolver.cpp0000000000000000^21#9#21#9#1255#0#21"Apple LLVM 5.0 Notice--2@122"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h:27:-421281326#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@103"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h0000000000000000^26#9#26#9#1352#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@104"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h0000000000000000^187#7#187#7#4360#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@118"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btDefaultSoftBodySolver.cpp0000000000000000^2810"CompileC build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btDefaultSoftBodySolver.o src/BulletSoftBody/btDefaultSoftBodySolver.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/Debug/include -I/usr/local/include -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/DerivedSources/x86_64 -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btDefaultSoftBodySolver.d --serialize-diagnostics /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btDefaultSoftBodySolver.dia -c /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btDefaultSoftBodySolver.cpp -o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btDefaultSoftBodySolver.o36"868D1D8A-6386-49F9-855C-C4BFD449097C-
+bE30A4457-57A3-455E-8AD3-80C401D677F2
+
+CCompileC build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftBody.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s421281325.713161
+e421281327.162187
+r1
+xCompileC
+xbuild/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftBody.o
+x/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.cpp
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyInternals.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedObjectArray.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btScalar.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedAllocator.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btTransform.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMatrix3x3.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btVector3.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMinMax.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuaternion.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuadWord.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btIDebugDraw.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btRigidBody.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btBroadphaseProxy.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionObject.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMotionState.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConcaveShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCollisionShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleCallback.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btGjkEpa2.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCollisionMargin.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDbvt.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAabbUtil2.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuickprof.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btPolarDecomposition.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btBroadphaseInterface.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionDispatcher.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDispatcher.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btPersistentManifold.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btManifoldPoint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btTransformUtil.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btManifoldResult.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionObjectWrapper.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexInternalShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodySolvers.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleIndexVertexArray.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btStridingMeshInterface.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyData.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btSerializer.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btHashMap.h
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.cpp:17:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyInternals.h:20:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h:27:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h:188:8: warning: unused variable 'sz' [-Wunused-variable]
+o                        int sz = sizeof(Cell);
+o                            ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.cpp212"CompileC build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftBody.o src/BulletSoftBody/btSoftBody.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerfca8b62d3e1cb941^6a85292f3e1cb941^-633"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.cpp:17:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyInternals.h:20:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h:27:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h:188:8: warning: unused variable 'sz' [-Wunused-variable]                        int sz = sizeof(Cell);                            ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@20"Unused variable 'sz'-421281327#18446744073709551615#0#3(2@124"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.cpp:17:-421281327#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@105"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.cpp0000000000000000^16#9#16#9#1006#0#21"Apple LLVM 5.0 Notice--2@131"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyInternals.h:20:-421281327#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@112"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyInternals.h0000000000000000^19#9#19#9#1075#0#21"Apple LLVM 5.0 Notice--2@122"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h:27:-421281327#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@103"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h0000000000000000^26#9#26#9#1352#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@104"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h0000000000000000^187#7#187#7#4360#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@105"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.cpp0000000000000000^2732"CompileC build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftBody.o src/BulletSoftBody/btSoftBody.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/Debug/include -I/usr/local/include -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/DerivedSources/x86_64 -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftBody.d --serialize-diagnostics /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftBody.dia -c /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.cpp -o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftBody.o36"5241AC90-CAC2-457A-85C0-C126C8942E6E-
+bE30A4457-57A3-455E-8AD3-80C401D677F2
+
+CCompileC build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftBodyConcaveCollisionAlgorithm.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyConcaveCollisionAlgorithm.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s421281325.713485
+e421281326.201148
+r1
+xCompileC
+xbuild/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftBodyConcaveCollisionAlgorithm.o
+x/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyConcaveCollisionAlgorithm.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyConcaveCollisionAlgorithm.cpp
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyConcaveCollisionAlgorithm.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btScalar.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedObjectArray.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedAllocator.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDispatcher.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btBroadphaseInterface.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btBroadphaseProxy.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btVector3.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMinMax.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleCallback.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btPersistentManifold.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btTransform.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMatrix3x3.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuaternion.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuadWord.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btManifoldPoint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btTransformUtil.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btHashMap.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btQuantizedBvh.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionObject.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMotionState.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btMultiSphereShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexInternalShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCollisionShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCollisionMargin.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAabbUtil2.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConcaveShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btManifoldResult.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionObjectWrapper.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btRaycastCallback.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btBoxShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btPolyhedralConvexShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btSphereShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTetrahedronShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexHullShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btIDebugDraw.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btSubSimplexConvexCast.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btConvexCast.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btSimplexSolverInterface.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btVoronoiSimplexSolver.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btRigidBody.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btGjkEpa2.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDbvt.h
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyConcaveCollisionAlgorithm.cpp:27:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexHullShape.h:76:15: warning: 'btConvexHullShape::project' hides overloaded virtual function [-Woverloaded-virtual]
+o        virtual void project(const btTransform& trans, const btVector3& dir, btScalar& minProj, btScalar& maxProj, btVector3& witnesPtMin,btVector3& witnesPtMax) const;
+o                     ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyConcaveCollisionAlgorithm.cpp:19:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btMultiSphereShape.h:19:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexInternalShape.h:19:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexShape.h:55:15: note: hidden overloaded virtual function 'btConvexShape::project' declared here: different number of parameters (4 vs 6)
+o        virtual void project(const btTransform& trans, const btVector3& dir, btScalar& min, btScalar& max) const;
+o                     ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyConcaveCollisionAlgorithm.cpp:33:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h:27:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h:188:8: warning: unused variable 'sz' [-Wunused-variable]
+o                        int sz = sizeof(Cell);
+o                            ^
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Compile /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyConcaveCollisionAlgorithm.cpp262"CompileC build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftBodyConcaveCollisionAlgorithm.o src/BulletSoftBody/btSoftBodyConcaveCollisionAlgorithm.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilere3c5b62d3e1cb941^0b7e332e3e1cb941^-1923"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyConcaveCollisionAlgorithm.cpp:27:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexHullShape.h:76:15: warning: 'btConvexHullShape::project' hides overloaded virtual function [-Woverloaded-virtual]        virtual void project(const btTransform& trans, const btVector3& dir, btScalar& minProj, btScalar& maxProj, btVector3& witnesPtMin,btVector3& witnesPtMax) const;                     ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyConcaveCollisionAlgorithm.cpp:19:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btMultiSphereShape.h:19:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexInternalShape.h:19:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexShape.h:55:15: note: hidden overloaded virtual function 'btConvexShape::project' declared here: different number of parameters (4 vs 6)        virtual void project(const btTransform& trans, const btVector3& dir, btScalar& min, btScalar& max) const;                     ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyConcaveCollisionAlgorithm.cpp:33:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h:27:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h:188:8: warning: unused variable 'sz' [-Wunused-variable]                        int sz = sizeof(Cell);                            ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@62"'btConvexHullShape::project' hides overloaded virtual function-421281326#18446744073709551615#0#2(2@149"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyConcaveCollisionAlgorithm.cpp:27:-421281326#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@130"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyConcaveCollisionAlgorithm.cpp0000000000000000^26#9#26#9#1580#0#21"Apple LLVM 5.0 Notice--2@114"Hidden overloaded virtual function 'btConvexShape::project' declared here: different number of parameters (4 vs 6)-421281326#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@123"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexShape.h0000000000000000^54#14#54#14#2228#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@127"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexHullShape.h0000000000000000^75#14#75#14#2899#0#14"Semantic Issue--2@20"Unused variable 'sz'-421281326#18446744073709551615#0#2(2@149"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyConcaveCollisionAlgorithm.cpp:33:-421281326#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@130"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyConcaveCollisionAlgorithm.cpp0000000000000000^32#9#32#9#1827#0#21"Apple LLVM 5.0 Notice--2@122"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h:27:-421281326#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@103"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h0000000000000000^26#9#26#9#1352#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@104"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h0000000000000000^187#7#187#7#4360#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@130"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyConcaveCollisionAlgorithm.cpp0000000000000000^2882"CompileC build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftBodyConcaveCollisionAlgorithm.o src/BulletSoftBody/btSoftBodyConcaveCollisionAlgorithm.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/Debug/include -I/usr/local/include -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/DerivedSources/x86_64 -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftBodyConcaveCollisionAlgorithm.d --serialize-diagnostics /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftBodyConcaveCollisionAlgorithm.dia -c /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyConcaveCollisionAlgorithm.cpp -o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftBodyConcaveCollisionAlgorithm.o36"6B805BA0-8B2D-46A0-979B-8938C71C440B-
+bE30A4457-57A3-455E-8AD3-80C401D677F2
+
+CCompileC build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftBodyHelpers.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyHelpers.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s421281325.713861
+e421281326.280271
+r1
+xCompileC
+xbuild/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftBodyHelpers.o
+x/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyHelpers.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyHelpers.cpp
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyInternals.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedObjectArray.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btScalar.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedAllocator.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btTransform.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMatrix3x3.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btVector3.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMinMax.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuaternion.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuadWord.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btIDebugDraw.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btRigidBody.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btBroadphaseProxy.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionObject.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMotionState.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConcaveShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCollisionShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleCallback.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btGjkEpa2.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCollisionMargin.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDbvt.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAabbUtil2.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuickprof.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btPolarDecomposition.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btBroadphaseInterface.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionDispatcher.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDispatcher.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btPersistentManifold.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btManifoldPoint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btTransformUtil.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btManifoldResult.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionObjectWrapper.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexInternalShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyHelpers.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btConvexHull.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btConvexHullComputer.h
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyHelpers.cpp:17:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyInternals.h:20:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h:27:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h:188:8: warning: unused variable 'sz' [-Wunused-variable]
+o                        int sz = sizeof(Cell);
+o                            ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyHelpers.cpp:17:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyInternals.h:425:20: warning: unused function 'ImplicitSolve' [-Wunused-function]
+ostatic btScalar                         ImplicitSolve(  btSoftBody::ImplicitFn* fn,
+o                                        ^
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyInternals.h:507:17: warning: unused function 'EvaluateMedium' [-Wunused-function]
+ostatic void                                     EvaluateMedium( const btSoftBodyWorldInfo* wfi,
+o                                                ^
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyHelpers.cpp:127:25: warning: unused function 'tetravolume' [-Wunused-function]
+ostatic inline btScalar          tetravolume(const btVector3& x0,
+o                                ^
+o4 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Compile /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyHelpers.cpp226"CompileC build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftBodyHelpers.o src/BulletSoftBody/btSoftBodyHelpers.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler80d8b62d3e1cb941^94bf472e3e1cb941^-1668"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyHelpers.cpp:17:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyInternals.h:20:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h:27:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h:188:8: warning: unused variable 'sz' [-Wunused-variable]                        int sz = sizeof(Cell);                            ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyHelpers.cpp:17:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyInternals.h:425:20: warning: unused function 'ImplicitSolve' [-Wunused-function]static btScalar                         ImplicitSolve(  btSoftBody::ImplicitFn* fn,                                        ^/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyInternals.h:507:17: warning: unused function 'EvaluateMedium' [-Wunused-function]static void                                     EvaluateMedium( const btSoftBodyWorldInfo* wfi,                                                ^/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyHelpers.cpp:127:25: warning: unused function 'tetravolume' [-Wunused-function]static inline btScalar          tetravolume(const btVector3& x0,                                ^4 warnings generated.4(36%IDEClangDiagnosticActivityLogMessage2@20"Unused variable 'sz'-421281326#18446744073709551615#0#3(2@131"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyHelpers.cpp:17:-421281326#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@112"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyHelpers.cpp0000000000000000^16#9#16#9#1002#0#21"Apple LLVM 5.0 Notice--2@131"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyInternals.h:20:-421281326#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@112"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyInternals.h0000000000000000^19#9#19#9#1075#0#21"Apple LLVM 5.0 Notice--2@122"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h:27:-421281326#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@103"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h0000000000000000^26#9#26#9#1352#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@104"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h0000000000000000^187#7#187#7#4360#0#19"Unused Entity Issue--2@31"Unused function 'ImplicitSolve'-421281326#18446744073709551615#0#1(2@131"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyHelpers.cpp:17:-421281326#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@112"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyHelpers.cpp0000000000000000^16#9#16#9#1002#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@112"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyInternals.h0000000000000000^424#19#424#19#10797#0#19"Unused Entity Issue--2@32"Unused function 'EvaluateMedium'-421281326#18446744073709551615#0#1(2@131"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyHelpers.cpp:17:-421281326#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@112"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyHelpers.cpp0000000000000000^16#9#16#9#1002#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@112"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyInternals.h0000000000000000^506#16#506#16#12662#0#19"Unused Entity Issue--2@29"Unused function 'tetravolume'-421281326#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@112"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyHelpers.cpp0000000000000000^126#24#126#24#3892#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@112"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyHelpers.cpp0000000000000000^2774"CompileC build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftBodyHelpers.o src/BulletSoftBody/btSoftBodyHelpers.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/Debug/include -I/usr/local/include -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/DerivedSources/x86_64 -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftBodyHelpers.d --serialize-diagnostics /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftBodyHelpers.dia -c /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyHelpers.cpp -o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftBodyHelpers.o36"9A9C9FDF-8459-44D7-8BF9-23C129BFB027-
+bE30A4457-57A3-455E-8AD3-80C401D677F2
+
+CCompileC build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftBodyRigidBodyCollisionConfiguration.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyRigidBodyCollisionConfiguration.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s421281325.714246
+e421281325.968800
+r1
+xCompileC
+xbuild/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftBodyRigidBodyCollisionConfiguration.o
+x/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyRigidBodyCollisionConfiguration.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyRigidBodyCollisionConfiguration.cpp
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyRigidBodyCollisionConfiguration.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btDefaultCollisionConfiguration.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionConfiguration.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidCollisionAlgorithm.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btScalar.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedObjectArray.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedAllocator.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btBroadphaseProxy.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btVector3.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMinMax.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionDispatcher.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDispatcher.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btPersistentManifold.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btTransform.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMatrix3x3.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuaternion.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuadWord.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btManifoldPoint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btTransformUtil.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btManifoldResult.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionObjectWrapper.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionObject.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMotionState.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyConcaveCollisionAlgorithm.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btBroadphaseInterface.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleCallback.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btHashMap.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btQuantizedBvh.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftSoftCollisionAlgorithm.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btPoolAllocator.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Compile /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyRigidBodyCollisionConfiguration.cpp274"CompileC build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftBodyRigidBodyCollisionConfiguration.o src/BulletSoftBody/btSoftBodyRigidBodyCollisionConfiguration.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler56f1b62d3e1cb941^a856232e3e1cb941^---0#0#1#-19%DVTDocumentLocation2@136"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyRigidBodyCollisionConfiguration.cpp0000000000000000^2918"CompileC build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftBodyRigidBodyCollisionConfiguration.o src/BulletSoftBody/btSoftBodyRigidBodyCollisionConfiguration.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/Debug/include -I/usr/local/include -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/DerivedSources/x86_64 -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftBodyRigidBodyCollisionConfiguration.d --serialize-diagnostics /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftBodyRigidBodyCollisionConfiguration.dia -c /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyRigidBodyCollisionConfiguration.cpp -o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftBodyRigidBodyCollisionConfiguration.o36"B124143B-6168-4DF8-9215-4211959D365D-
+bE30A4457-57A3-455E-8AD3-80C401D677F2
+
+CCompileC build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftRigidCollisionAlgorithm.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidCollisionAlgorithm.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s421281325.714709
+e421281326.044995
+r1
+xCompileC
+xbuild/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftRigidCollisionAlgorithm.o
+x/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidCollisionAlgorithm.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidCollisionAlgorithm.cpp
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidCollisionAlgorithm.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btScalar.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedObjectArray.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedAllocator.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btBroadphaseProxy.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btVector3.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMinMax.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionDispatcher.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDispatcher.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btPersistentManifold.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btTransform.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMatrix3x3.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuaternion.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuadWord.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btManifoldPoint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btTransformUtil.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btManifoldResult.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionObjectWrapper.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionObject.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMotionState.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btSphereShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexInternalShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCollisionShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCollisionMargin.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAabbUtil2.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btBoxShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btPolyhedralConvexShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btIDebugDraw.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btRigidBody.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConcaveShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleCallback.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btGjkEpa2.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDbvt.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodySolvers.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleIndexVertexArray.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btStridingMeshInterface.h
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidCollisionAlgorithm.cpp:21:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h:27:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h:188:8: warning: unused variable 'sz' [-Wunused-variable]
+o                        int sz = sizeof(Cell);
+o                            ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidCollisionAlgorithm.cpp:16:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidCollisionAlgorithm.h:34:17: warning: private field 'm_softBody' is not used [-Wunused-private-field]
+o        btSoftBody*                             m_softBody;
+o                                                ^
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidCollisionAlgorithm.h:35:22: warning: private field 'm_rigidCollisionObject' is not used [-Wunused-private-field]
+o        btCollisionObject*              m_rigidCollisionObject;
+o                                        ^
+o3 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Compile /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidCollisionAlgorithm.cpp250"CompileC build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftRigidCollisionAlgorithm.o src/BulletSoftBody/btSoftRigidCollisionAlgorithm.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerc216b72d3e1cb941^2860232e3e1cb941^-1285"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidCollisionAlgorithm.cpp:21:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h:27:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h:188:8: warning: unused variable 'sz' [-Wunused-variable]                        int sz = sizeof(Cell);                            ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidCollisionAlgorithm.cpp:16:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidCollisionAlgorithm.h:34:17: warning: private field 'm_softBody' is not used [-Wunused-private-field]        btSoftBody*                             m_softBody;                                                ^/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidCollisionAlgorithm.h:35:22: warning: private field 'm_rigidCollisionObject' is not used [-Wunused-private-field]        btCollisionObject*              m_rigidCollisionObject;                                        ^3 warnings generated.3(36%IDEClangDiagnosticActivityLogMessage2@20"Unused variable 'sz'-421281326#18446744073709551615#0#2(2@143"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidCollisionAlgorithm.cpp:21:-421281326#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@124"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidCollisionAlgorithm.cpp0000000000000000^20#9#20#9#1250#0#21"Apple LLVM 5.0 Notice--2@122"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h:27:-421281326#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@103"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h0000000000000000^26#9#26#9#1352#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@104"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h0000000000000000^187#7#187#7#4360#0#19"Unused Entity Issue--2@38"Private field 'm_softBody' is not used-421281326#18446744073709551615#0#1(2@143"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidCollisionAlgorithm.cpp:16:-421281326#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@124"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidCollisionAlgorithm.cpp0000000000000000^15#9#15#9#958#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@122"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidCollisionAlgorithm.h0000000000000000^33#16#33#16#1644#0#19"Unused Entity Issue--2@50"Private field 'm_rigidCollisionObject' is not used-421281326#18446744073709551615#0#1(2@143"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidCollisionAlgorithm.cpp:16:-421281326#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@124"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidCollisionAlgorithm.cpp0000000000000000^15#9#15#9#958#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@122"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidCollisionAlgorithm.h0000000000000000^34#21#34#21#1677#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@124"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidCollisionAlgorithm.cpp0000000000000000^2846"CompileC build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftRigidCollisionAlgorithm.o src/BulletSoftBody/btSoftRigidCollisionAlgorithm.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/Debug/include -I/usr/local/include -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/DerivedSources/x86_64 -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftRigidCollisionAlgorithm.d --serialize-diagnostics /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftRigidCollisionAlgorithm.dia -c /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidCollisionAlgorithm.cpp -o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftRigidCollisionAlgorithm.o36"143EF95E-1BE0-497F-8B06-6B9A622DDFD7-
+bE30A4457-57A3-455E-8AD3-80C401D677F2
+
+CCompileC build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftRigidDynamicsWorld.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidDynamicsWorld.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s421281325.715039
+e421281326.178350
+r1
+xCompileC
+xbuild/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftRigidDynamicsWorld.o
+x/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidDynamicsWorld.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidDynamicsWorld.cpp
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidDynamicsWorld.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btDiscreteDynamicsWorld.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btDynamicsWorld.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionWorld.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btVector3.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btScalar.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMinMax.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedAllocator.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btTransform.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMatrix3x3.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuaternion.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuadWord.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionObject.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMotionState.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedObjectArray.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionDispatcher.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDispatcher.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btPersistentManifold.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btManifoldPoint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btTransformUtil.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btManifoldResult.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionObjectWrapper.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btBroadphaseProxy.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btOverlappingPairCache.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btBroadphaseInterface.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btOverlappingPairCallback.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btContactSolverInfo.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btIDebugDraw.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btRigidBody.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConcaveShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCollisionShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleCallback.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btGjkEpa2.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCollisionMargin.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDbvt.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAabbUtil2.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuickprof.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyHelpers.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodySolvers.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleIndexVertexArray.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btStridingMeshInterface.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btDefaultSoftBodySolver.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodySolverVertexBuffer.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btSerializer.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btHashMap.h
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidDynamicsWorld.cpp:17:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidDynamicsWorld.h:20:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h:27:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h:188:8: warning: unused variable 'sz' [-Wunused-variable]
+o                        int sz = sizeof(Cell);
+o                            ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Compile /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidDynamicsWorld.cpp240"CompileC build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftRigidDynamicsWorld.o src/BulletSoftBody/btSoftRigidDynamicsWorld.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler242bb72d3e1cb941^c1a72d2e3e1cb941^-652"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidDynamicsWorld.cpp:17:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidDynamicsWorld.h:20:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h:27:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h:188:8: warning: unused variable 'sz' [-Wunused-variable]                        int sz = sizeof(Cell);                            ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@20"Unused variable 'sz'-421281326#18446744073709551615#0#3(2@138"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidDynamicsWorld.cpp:17:-421281326#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@119"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidDynamicsWorld.cpp0000000000000000^16#9#16#9#959#0#21"Apple LLVM 5.0 Notice--2@136"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidDynamicsWorld.h:20:-421281326#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@117"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidDynamicsWorld.h0000000000000000^19#9#19#9#1098#0#21"Apple LLVM 5.0 Notice--2@122"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h:27:-421281326#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@103"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h0000000000000000^26#9#26#9#1352#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@104"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h0000000000000000^187#7#187#7#4360#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@119"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidDynamicsWorld.cpp0000000000000000^2816"CompileC build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftRigidDynamicsWorld.o src/BulletSoftBody/btSoftRigidDynamicsWorld.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/Debug/include -I/usr/local/include -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/DerivedSources/x86_64 -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftRigidDynamicsWorld.d --serialize-diagnostics /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftRigidDynamicsWorld.dia -c /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidDynamicsWorld.cpp -o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftRigidDynamicsWorld.o36"C8A54741-2C8F-4D95-B104-67D3DEE9D653-
+bE30A4457-57A3-455E-8AD3-80C401D677F2
+
+CCompileC build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftSoftCollisionAlgorithm.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftSoftCollisionAlgorithm.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s421281325.715595
+e421281326.066103
+r1
+xCompileC
+xbuild/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftSoftCollisionAlgorithm.o
+x/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftSoftCollisionAlgorithm.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftSoftCollisionAlgorithm.cpp
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftSoftCollisionAlgorithm.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btScalar.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedObjectArray.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedAllocator.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btBroadphaseProxy.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btVector3.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMinMax.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDispatcher.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionDispatcher.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btPersistentManifold.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btTransform.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMatrix3x3.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuaternion.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuadWord.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btManifoldPoint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btTransformUtil.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btManifoldResult.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionObjectWrapper.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionObject.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMotionState.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btBoxShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btPolyhedralConvexShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexInternalShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCollisionShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCollisionMargin.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAabbUtil2.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodySolvers.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleIndexVertexArray.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btStridingMeshInterface.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleCallback.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConcaveShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btIDebugDraw.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btRigidBody.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btGjkEpa2.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDbvt.h
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftSoftCollisionAlgorithm.cpp:21:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h:27:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h:188:8: warning: unused variable 'sz' [-Wunused-variable]
+o                        int sz = sizeof(Cell);
+o                            ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftSoftCollisionAlgorithm.cpp:16:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftSoftCollisionAlgorithm.h:33:14: warning: private field 'm_softBody0' is not used [-Wunused-private-field]
+o        btSoftBody*     m_softBody0;
+o                        ^
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftSoftCollisionAlgorithm.h:34:14: warning: private field 'm_softBody1' is not used [-Wunused-private-field]
+o        btSoftBody*     m_softBody1;
+o                        ^
+o3 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Compile /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftSoftCollisionAlgorithm.cpp248"CompileC build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftSoftCollisionAlgorithm.o src/BulletSoftBody/btSoftSoftCollisionAlgorithm.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler5247b72d3e1cb941^ec69232e3e1cb941^-1181"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftSoftCollisionAlgorithm.cpp:21:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h:27:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h:188:8: warning: unused variable 'sz' [-Wunused-variable]                        int sz = sizeof(Cell);                            ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftSoftCollisionAlgorithm.cpp:16:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftSoftCollisionAlgorithm.h:33:14: warning: private field 'm_softBody0' is not used [-Wunused-private-field]        btSoftBody*     m_softBody0;                        ^/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftSoftCollisionAlgorithm.h:34:14: warning: private field 'm_softBody1' is not used [-Wunused-private-field]        btSoftBody*     m_softBody1;                        ^3 warnings generated.3(36%IDEClangDiagnosticActivityLogMessage2@20"Unused variable 'sz'-421281326#18446744073709551615#0#2(2@142"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftSoftCollisionAlgorithm.cpp:21:-421281326#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@123"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftSoftCollisionAlgorithm.cpp0000000000000000^20#9#20#9#1236#0#21"Apple LLVM 5.0 Notice--2@122"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h:27:-421281326#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@103"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h0000000000000000^26#9#26#9#1352#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@104"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h0000000000000000^187#7#187#7#4360#0#19"Unused Entity Issue--2@39"Private field 'm_softBody0' is not used-421281326#18446744073709551615#0#1(2@142"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftSoftCollisionAlgorithm.cpp:16:-421281326#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@123"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftSoftCollisionAlgorithm.cpp0000000000000000^15#9#15#9#958#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@121"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftSoftCollisionAlgorithm.h0000000000000000^32#13#32#13#1545#0#19"Unused Entity Issue--2@39"Private field 'm_softBody1' is not used-421281326#18446744073709551615#0#1(2@142"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftSoftCollisionAlgorithm.cpp:16:-421281326#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@123"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftSoftCollisionAlgorithm.cpp0000000000000000^15#9#15#9#958#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@121"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftSoftCollisionAlgorithm.h0000000000000000^33#13#33#13#1571#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@123"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftSoftCollisionAlgorithm.cpp0000000000000000^2840"CompileC build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftSoftCollisionAlgorithm.o src/BulletSoftBody/btSoftSoftCollisionAlgorithm.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/Debug/include -I/usr/local/include -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/DerivedSources/x86_64 -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftSoftCollisionAlgorithm.d --serialize-diagnostics /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftSoftCollisionAlgorithm.dia -c /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftSoftCollisionAlgorithm.cpp -o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/btSoftSoftCollisionAlgorithm.o36"038BEB1B-EF30-40A0-9F56-7E66476AA648-
+bE30A4457-57A3-455E-8AD3-80C401D677F2
+
+CLibtool /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/Debug/libBulletSoftBody.a normal x86_64
+s421281327.162875
+e421281327.174552
+r1
+xLibtool
+x/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/Debug/libBulletSoftBody.a
+xnormal
+xx86_64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Libtool build/src/BulletSoftBody/Debug/libBulletSoftBody.a normal x86_6472"Libtool build/src/BulletSoftBody/Debug/libBulletSoftBody.a normal x86_64e0bb292f3e1cb941^08b02c2f3e1cb941^---0#0#1#--837"Libtool build/src/BulletSoftBody/Debug/libBulletSoftBody.a normal x86_64    cd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only x86_64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/Debug -filelist /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/BULLET_PHYSICS.build/Debug/BulletSoftBody.build/Objects-normal/x86_64/BulletSoftBody.LinkFileList -o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/Debug/libBulletSoftBody.a36"8F6D6A33-990E-45C9-A53A-F8F236452CD0-
+bE30A4457-57A3-455E-8AD3-80C401D677F2
+

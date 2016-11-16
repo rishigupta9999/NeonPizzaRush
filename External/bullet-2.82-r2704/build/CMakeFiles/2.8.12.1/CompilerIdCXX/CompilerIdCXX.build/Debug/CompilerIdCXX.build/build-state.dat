@@ -1,0 +1,122 @@
+TCompilerIdCXX
+v6
+r1
+cCheck dependencies
+cCompileC CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/i386/CMakeCXXCompilerId.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/2.8.12.1/CompilerIdCXX/CMakeCXXCompilerId.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/2.8.12.1/CompilerIdCXX/CompilerIdCXX normal i386
+cPhaseScriptExecution Run\ Script /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/2.8.12.1/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005347D58600000000000000AA
+t1397216646
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000526733BD000000000000044C
+t1382495165
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005320FA5A00000000000001DE
+t1394670170
+s478
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/2.8.12.1/CompilerIdCXX/CMakeCXXCompilerId.cpp
+c00000000536C04CA0000000000002E45
+t1399588042
+s11845
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/2.8.12.1/CompilerIdCXX/CompilerIdCXX
+t2
+s0
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/2.8.12.1/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/i386/CMakeCXXCompilerId.o
+t1399588042
+s3468
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/2.8.12.1/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/i386/CompilerIdCXX.LinkFileList
+c00000000536C04CA00000000000000C0
+t1399588042
+s192
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/2.8.12.1/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+c00000000536C04CA000000000000002A
+t1399588042
+s42
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies8522b54a3c1cb941^444dbc4a3c1cb941^---0#1#1#--18"Check dependencies36"9DC68441-C4D7-4C98-A934-C7A769CD351C-
+
+CCompileC CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/i386/CMakeCXXCompilerId.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/2.8.12.1/CompilerIdCXX/CMakeCXXCompilerId.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s421280842.737540
+e421280842.753651
+r1
+xCompileC
+xCompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/i386/CMakeCXXCompilerId.o
+x/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/2.8.12.1/CompilerIdCXX/CMakeCXXCompilerId.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/2.8.12.1/CompilerIdCXX/CMakeCXXCompilerId.cpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"Compile /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/2.8.12.1/CompilerIdCXX/CMakeCXXCompilerId.cpp178"CompileC CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/i386/CMakeCXXCompilerId.o CMakeCXXCompilerId.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler4fe5bc4a3c1cb941^d5edc04a3c1cb941^---0#0#1#-19%DVTDocumentLocation2@134"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/2.8.12.1/CompilerIdCXX/CMakeCXXCompilerId.cpp0000000000000000^2972"CompileC CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/i386/CMakeCXXCompilerId.o CMakeCXXCompilerId.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/2.8.12.1/CompilerIdCXX    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/2.8.12.1/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/CompilerIdCXX.hmap -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/2.8.12.1/CompilerIdCXX/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/2.8.12.1/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/DerivedSources/i386 -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/2.8.12.1/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/DerivedSources -F/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/2.8.12.1/CompilerIdCXX -MMD -MT dependencies -MF /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/2.8.12.1/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/i386/CMakeCXXCompilerId.d --serialize-diagnostics /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/2.8.12.1/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/i386/CMakeCXXCompilerId.dia -c /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/2.8.12.1/CompilerIdCXX/CMakeCXXCompilerId.cpp -o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/2.8.12.1/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/i386/CMakeCXXCompilerId.o36"998380F7-B5C2-4130-A8E2-704519A7A017-
+bB39F30F5-B609-46B6-9374-21D8E661BF71
+
+CLd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/2.8.12.1/CompilerIdCXX/CompilerIdCXX normal i386
+s421280842.754145
+e421280842.770539
+r1
+xLd
+x/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/2.8.12.1/CompilerIdCXX/CompilerIdCXX
+xnormal
+xi386
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/2.8.12.1/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/i386/CompilerIdCXX.LinkFileList
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/2.8.12.1/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/i386/CMakeCXXCompilerId.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.eprintf.a
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Link /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/2.8.12.1/CompilerIdCXX/CompilerIdCXX28"Ld CompilerIdCXX normal i386b91ac14a3c1cb941^8142c54a3c1cb941^---0#0#1#--1211"Ld CompilerIdCXX normal i386    cd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/2.8.12.1/CompilerIdCXX    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/2.8.12.1/CompilerIdCXX -F/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/2.8.12.1/CompilerIdCXX -filelist /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/2.8.12.1/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/i386/CompilerIdCXX.LinkFileList -mmacosx-version-min=10.9 -Xlinker -dependency_info -Xlinker /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/2.8.12.1/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Objects-normal/i386/CompilerIdCXX_dependency_info.dat -o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/2.8.12.1/CompilerIdCXX/CompilerIdCXX36"54998278-F5A6-4010-99F9-F77136EACE52-
+bB39F30F5-B609-46B6-9374-21D8E661BF71
+
+CPhaseScriptExecution Run\ Script /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/2.8.12.1/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+s421280842.771401
+e421280842.780132
+r1
+xPhaseScriptExecution
+xRun Script
+x/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/2.8.12.1/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh
+oGCC_VERSION=com.apple.compilers.llvm.clang.1_0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Run custom shell script 'Run Script'113"PhaseScriptExecution Run\ Script CompilerIdCXX.build/Debug/CompilerIdCXX.build/Script-2C8FEB8E15DC1A1A00E56A5D.shddb4c54a3c1cb941^edb6c74a3c1cb941^-47"GCC_VERSION=com.apple.compilers.llvm.clang.1_01(21%IDEActivityLogMessage2@47"GCC_VERSION=com.apple.compilers.llvm.clang.1_0-421280842#0#47#-0#-----0#0#1#--427"PhaseScriptExecution Run\ Script CompilerIdCXX.build/Debug/CompilerIdCXX.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh    cd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/2.8.12.1/CompilerIdCXX    /bin/sh -c /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/CMakeFiles/2.8.12.1/CompilerIdCXX/CompilerIdCXX.build/Debug/CompilerIdCXX.build/Script-2C8FEB8E15DC1A1A00E56A5D.sh36"F4A740CE-F621-4C78-806B-0AAF7DF51BAA-
+bB39F30F5-B609-46B6-9374-21D8E661BF71
+

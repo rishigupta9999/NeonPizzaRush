@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>69120768-3B72-4AE0-975E-17A4455D43E7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BULLET_PHYSICS</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8657C9AF-396B-44A3-B9E5-03F9409CCA2B</key>
+		<string>http://subversion.assembla.com/svn/neon21/Users</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>rishi_gupta/Physics/bullet-2.82-r2704/build/BULLET_PHYSICS.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8657C9AF-396B-44A3-B9E5-03F9409CCA2B</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>8657C9AF-396B-44A3-B9E5-03F9409CCA2B</key>
+		<string>http://subversion.assembla.com/svn/neon21</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://subversion.assembla.com/svn/neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/BULLET_PHYSICS.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8657C9AF-396B-44A3-B9E5-03F9409CCA2B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8657C9AF-396B-44A3-B9E5-03F9409CCA2B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Users</string>
+		</dict>
+	</array>
+</dict>
+</plist>

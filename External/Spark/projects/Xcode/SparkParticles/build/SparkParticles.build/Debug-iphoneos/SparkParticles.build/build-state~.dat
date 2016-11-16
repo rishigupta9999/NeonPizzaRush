@@ -1,0 +1,467 @@
+TSparkParticles
+v6
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist build/Debug-iphoneos/SparkParticles.app/ResourceRules.plist
+cProcessPCH++ /var/folders/tp/8pytqx5s745dmb8g8v7ch30w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/SparkParticles-Prefix-dnmffqluxtircvbtfwsaaxluqeru/SparkParticles-Prefix.pch.pch SparkParticles/SparkParticles-Prefix.pch normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/tp/8pytqx5s745dmb8g8v7ch30w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/SparkParticles-Prefix-fqpqqbqsgpymrphfbtaxnomuxquq/SparkParticles-Prefix.pch.pch SparkParticles/SparkParticles-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Zone.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Zone.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Registerable.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Registerable.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Model.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Model.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Group.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Group.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Transformable.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Transformable.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Particle.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Particle.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Modifier.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Modifier.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_System.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_System.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Renderer.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Renderer.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+c000000005320F9E80000000000000096
+t1394670056
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c000000005320F9E8000000000000036B
+t1394670056
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005320F9E9000000000000019E
+t1394670057
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c000000005320FA5C0000000000000ADC
+t1394670172
+s2780
+
+N/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/SparkParticles/SparkParticles-Prefix.pch
+c0000000053A4AD090000000000000158
+t1403301129
+s344
+
+N/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/Debug-iphoneos/SparkParticles.app/ResourceRules.plist
+t2
+s0
+
+N/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Group.o
+t2
+s0
+
+N/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Model.o
+t2
+s0
+
+N/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Modifier.o
+t2
+s0
+
+N/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Particle.o
+t2
+s0
+
+N/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Registerable.o
+t2
+s0
+
+N/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Renderer.o
+t2
+s0
+
+N/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_System.o
+t2
+s0
+
+N/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Transformable.o
+t2
+s0
+
+N/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Zone.o
+t2
+s0
+
+N/Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Group.cpp
+c000000004D8031800000000000005419
+t1300246912
+s21529
+
+N/Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Model.cpp
+c000000004C7F164A00000000000021B4
+t1283397194
+s8628
+
+N/Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Modifier.cpp
+c000000004D8030340000000000000C9E
+t1300246580
+s3230
+
+N/Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Particle.cpp
+c000000004B161C6E0000000000001E47
+t1259740270
+s7751
+
+N/Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Registerable.cpp
+c000000004C7F19140000000000000E00
+t1283397908
+s3584
+
+N/Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Renderer.cpp
+c000000004AEE6CC40000000000000633
+t1257139396
+s1587
+
+N/Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_System.cpp
+c000000004D803034000000000000223D
+t1300246580
+s8765
+
+N/Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Transformable.cpp
+c000000004D803180000000000000195D
+t1300246912
+s6493
+
+N/Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Zone.cpp
+c000000004AEE6CC400000000000005F8
+t1257139396
+s1528
+
+N/var/folders/tp/8pytqx5s745dmb8g8v7ch30w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/SparkParticles-Prefix-dnmffqluxtircvbtfwsaaxluqeru/SparkParticles-Prefix.pch.pch
+t1403301171
+s219668
+
+N/var/folders/tp/8pytqx5s745dmb8g8v7ch30w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/SparkParticles-Prefix-fqpqqbqsgpymrphfbtaxnomuxquq/SparkParticles-Prefix.pch.pch
+t2
+s0
+
+CBuild AST from /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/SparkParticles/AppDelegate.m
+r0
+
+CBuild AST from /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/SparkParticles/ViewController.m
+r0
+
+CBuild AST from /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/SparkParticles/main.m
+r0
+
+CBuild AST from /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_BufferHandler.cpp
+r0
+
+CBuild AST from /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_DEF.cpp
+r0
+
+CBuild AST from /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Emitter.cpp
+r0
+
+CBuild AST from /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Factory.cpp
+r0
+
+CBuild AST from /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Group.cpp
+r0
+
+CBuild AST from /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Interpolator.cpp
+r0
+
+CBuild AST from /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Model.cpp
+r0
+
+CBuild AST from /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Modifier.cpp
+r0
+
+CBuild AST from /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Particle.cpp
+r0
+
+CBuild AST from /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Registerable.cpp
+r0
+
+CBuild AST from /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Renderer.cpp
+r0
+
+CBuild AST from /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_System.cpp
+r0
+
+CBuild AST from /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Transformable.cpp
+r0
+
+CBuild AST from /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Vector3D.cpp
+r0
+
+CBuild AST from /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Zone.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies3e5cceb3e454b941^3d0edfb3e454b941^---0#1#1#--18"Check dependencies36"6717248E-937A-469D-826E-E76D229875A7-
+
+CCodeSign /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/Debug-iphoneos/SparkParticles.app
+r0
+
+CCompileAssetCatalog /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/Debug-iphoneos/SparkParticles.app /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/SparkParticles/Images.xcassets
+r0
+
+CCompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/AppDelegate.o /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/SparkParticles/AppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_BufferHandler.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_BufferHandler.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_DEF.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_DEF.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Emitter.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Emitter.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Factory.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Factory.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Group.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Group.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s424993972.517759
+e424993972.633465
+r0
+xCompileC
+xbuild/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Group.o
+x/Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Group.cpp
+xnormal
+xarm64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Group.cpp:23:10: fatal error: 'Core/SPK_Group.h' file not found
+o#include "Core/SPK_Group.h"
+o         ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Group.cpp224"CompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Group.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Group.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler419f84b4e454b941^282ba2b4e454b941^-171"/Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Group.cpp:23:10: fatal error: 'Core/SPK_Group.h' file not found#include "Core/SPK_Group.h"         ^1 error generated.-0#0#1#-19%DVTDocumentLocation2@65"file:///Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Group.cpp0000000000000000^3796"CompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Group.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Group.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/rishig/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-generated-files.hmap -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-own-target-headers.hmap -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-all-target-headers.hmap -iquote /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-project-headers.hmap -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/DerivedSources/arm64 -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/DerivedSources -F/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/Debug-iphoneos -include /var/folders/tp/8pytqx5s745dmb8g8v7ch30w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/SparkParticles-Prefix-dnmffqluxtircvbtfwsaaxluqeru/SparkParticles-Prefix.pch -MMD -MT dependencies -MF /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Group.d --serialize-diagnostics /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Group.dia -c /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Group.cpp -o /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Group.o36"4BB8BFC6-F9F9-4349-85AB-21E4F467DA57-
+b4E41EDC0-B837-4C0B-BD90-1A36A48DF17D
+
+CCompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Interpolator.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Interpolator.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Model.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Model.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s424993972.517457
+e424993972.533203
+r0
+xCompileC
+xbuild/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Model.o
+x/Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Model.cpp
+xnormal
+xarm64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Model.cpp:23:10: fatal error: 'Core/SPK_Model.h' file not found
+o#include "Core/SPK_Model.h"
+o         ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Model.cpp224"CompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Model.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Model.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler878784b4e454b941^d97888b4e454b941^-171"/Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Model.cpp:23:10: fatal error: 'Core/SPK_Model.h' file not found#include "Core/SPK_Model.h"         ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@33"'Core/SPK_Model.h' file not found-424993972#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@65"file:///Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Model.cpp0000000000000000^22#9#22#9#1322#0#29"Lexical or Preprocessor Issue--0#0#1#-19%DVTDocumentLocation4@65"file:///Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Model.cpp0000000000000000^3796"CompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Model.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Model.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/rishig/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-generated-files.hmap -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-own-target-headers.hmap -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-all-target-headers.hmap -iquote /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-project-headers.hmap -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/DerivedSources/arm64 -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/DerivedSources -F/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/Debug-iphoneos -include /var/folders/tp/8pytqx5s745dmb8g8v7ch30w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/SparkParticles-Prefix-dnmffqluxtircvbtfwsaaxluqeru/SparkParticles-Prefix.pch -MMD -MT dependencies -MF /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Model.d --serialize-diagnostics /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Model.dia -c /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Model.cpp -o /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Model.o36"8DDF24C0-B608-4AED-A66A-8568A289EA72-
+b4E41EDC0-B837-4C0B-BD90-1A36A48DF17D
+
+CCompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Modifier.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Modifier.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s424993972.518803
+e424993972.533378
+r0
+xCompileC
+xbuild/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Modifier.o
+x/Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Modifier.cpp
+xnormal
+xarm64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Modifier.cpp:22:10: fatal error: 'Core/SPK_Modifier.h' file not found
+o#include "Core/SPK_Modifier.h"
+o         ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Modifier.cpp230"CompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Modifier.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Modifier.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler7dea84b4e454b941^dfa588b4e454b941^-180"/Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Modifier.cpp:22:10: fatal error: 'Core/SPK_Modifier.h' file not found#include "Core/SPK_Modifier.h"         ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@36"'Core/SPK_Modifier.h' file not found-424993972#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@68"file:///Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Modifier.cpp0000000000000000^21#9#21#9#1320#0#29"Lexical or Preprocessor Issue--0#0#1#-19%DVTDocumentLocation4@68"file:///Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Modifier.cpp0000000000000000^3814"CompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Modifier.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Modifier.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/rishig/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-generated-files.hmap -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-own-target-headers.hmap -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-all-target-headers.hmap -iquote /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-project-headers.hmap -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/DerivedSources/arm64 -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/DerivedSources -F/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/Debug-iphoneos -include /var/folders/tp/8pytqx5s745dmb8g8v7ch30w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/SparkParticles-Prefix-dnmffqluxtircvbtfwsaaxluqeru/SparkParticles-Prefix.pch -MMD -MT dependencies -MF /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Modifier.d --serialize-diagnostics /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Modifier.dia -c /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Modifier.cpp -o /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Modifier.o36"F832D857-3683-4158-80BF-CFD8EE919BDB-
+b4E41EDC0-B837-4C0B-BD90-1A36A48DF17D
+
+CCompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Particle.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Particle.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s424993972.518374
+e424993972.533327
+r0
+xCompileC
+xbuild/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Particle.o
+x/Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Particle.cpp
+xnormal
+xarm64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Particle.cpp:23:10: fatal error: 'Core/SPK_Particle.h' file not found
+o#include "Core/SPK_Particle.h"
+o         ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Particle.cpp230"CompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Particle.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Particle.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler68d084b4e454b941^87a288b4e454b941^-180"/Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Particle.cpp:23:10: fatal error: 'Core/SPK_Particle.h' file not found#include "Core/SPK_Particle.h"         ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@36"'Core/SPK_Particle.h' file not found-424993972#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@68"file:///Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Particle.cpp0000000000000000^22#9#22#9#1322#0#29"Lexical or Preprocessor Issue--0#0#1#-19%DVTDocumentLocation4@68"file:///Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Particle.cpp0000000000000000^3814"CompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Particle.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Particle.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/rishig/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-generated-files.hmap -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-own-target-headers.hmap -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-all-target-headers.hmap -iquote /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-project-headers.hmap -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/DerivedSources/arm64 -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/DerivedSources -F/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/Debug-iphoneos -include /var/folders/tp/8pytqx5s745dmb8g8v7ch30w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/SparkParticles-Prefix-dnmffqluxtircvbtfwsaaxluqeru/SparkParticles-Prefix.pch -MMD -MT dependencies -MF /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Particle.d --serialize-diagnostics /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Particle.dia -c /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Particle.cpp -o /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Particle.o36"EB489EC2-17F9-42C9-93D1-5AD75DD1F064-
+b4E41EDC0-B837-4C0B-BD90-1A36A48DF17D
+
+CCompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Registerable.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Registerable.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s424993972.517197
+e424993972.533224
+r0
+xCompileC
+xbuild/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Registerable.o
+x/Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Registerable.cpp
+xnormal
+xarm64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Registerable.cpp:23:10: fatal error: 'Core/SPK_Registerable.h' file not found
+o#include "Core/SPK_Registerable.h"
+o         ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Registerable.cpp238"CompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Registerable.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Registerable.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler8a7784b4e454b941^bd8e88b4e454b941^-192"/Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Registerable.cpp:23:10: fatal error: 'Core/SPK_Registerable.h' file not found#include "Core/SPK_Registerable.h"         ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@40"'Core/SPK_Registerable.h' file not found-424993972#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@72"file:///Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Registerable.cpp0000000000000000^22#9#22#9#1322#0#29"Lexical or Preprocessor Issue--0#0#1#-19%DVTDocumentLocation4@72"file:///Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Registerable.cpp0000000000000000^3838"CompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Registerable.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Registerable.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/rishig/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-generated-files.hmap -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-own-target-headers.hmap -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-all-target-headers.hmap -iquote /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-project-headers.hmap -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/DerivedSources/arm64 -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/DerivedSources -F/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/Debug-iphoneos -include /var/folders/tp/8pytqx5s745dmb8g8v7ch30w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/SparkParticles-Prefix-dnmffqluxtircvbtfwsaaxluqeru/SparkParticles-Prefix.pch -MMD -MT dependencies -MF /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Registerable.d --serialize-diagnostics /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Registerable.dia -c /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Registerable.cpp -o /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Registerable.o36"222EFC56-1F66-40AF-8391-B8A1BBE94499-
+b4E41EDC0-B837-4C0B-BD90-1A36A48DF17D
+
+CCompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Renderer.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Renderer.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s424993972.519663
+e424993972.533261
+r0
+xCompileC
+xbuild/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Renderer.o
+x/Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Renderer.cpp
+xnormal
+xarm64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Renderer.cpp:23:10: fatal error: 'Core/SPK_Renderer.h' file not found
+o#include "Core/SPK_Renderer.h"
+o         ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Renderer.cpp230"CompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Renderer.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Renderer.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compilera31f85b4e454b941^466088b4e454b941^-180"/Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Renderer.cpp:23:10: fatal error: 'Core/SPK_Renderer.h' file not found#include "Core/SPK_Renderer.h"         ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@36"'Core/SPK_Renderer.h' file not found-424993972#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@68"file:///Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Renderer.cpp0000000000000000^22#9#22#9#1322#0#29"Lexical or Preprocessor Issue--0#0#1#-19%DVTDocumentLocation4@68"file:///Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Renderer.cpp0000000000000000^3814"CompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Renderer.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Renderer.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/rishig/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-generated-files.hmap -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-own-target-headers.hmap -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-all-target-headers.hmap -iquote /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-project-headers.hmap -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/DerivedSources/arm64 -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/DerivedSources -F/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/Debug-iphoneos -include /var/folders/tp/8pytqx5s745dmb8g8v7ch30w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/SparkParticles-Prefix-dnmffqluxtircvbtfwsaaxluqeru/SparkParticles-Prefix.pch -MMD -MT dependencies -MF /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Renderer.d --serialize-diagnostics /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Renderer.dia -c /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Renderer.cpp -o /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Renderer.o36"D9012169-B28E-4B90-9A9E-C0FB69E2D9F7-
+b4E41EDC0-B837-4C0B-BD90-1A36A48DF17D
+
+CCompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_System.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_System.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s424993972.519271
+e424993972.533267
+r0
+xCompileC
+xbuild/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_System.o
+x/Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_System.cpp
+xnormal
+xarm64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_System.cpp:23:10: fatal error: 'Core/SPK_System.h' file not found
+o#include "Core/SPK_System.h"
+o         ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_System.cpp226"CompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_System.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_System.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler140685b4e454b941^0e9f88b4e454b941^-174"/Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_System.cpp:23:10: fatal error: 'Core/SPK_System.h' file not found#include "Core/SPK_System.h"         ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@34"'Core/SPK_System.h' file not found-424993972#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@66"file:///Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_System.cpp0000000000000000^22#9#22#9#1322#0#29"Lexical or Preprocessor Issue--0#0#1#-19%DVTDocumentLocation4@66"file:///Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_System.cpp0000000000000000^3802"CompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_System.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_System.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/rishig/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-generated-files.hmap -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-own-target-headers.hmap -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-all-target-headers.hmap -iquote /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-project-headers.hmap -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/DerivedSources/arm64 -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/DerivedSources -F/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/Debug-iphoneos -include /var/folders/tp/8pytqx5s745dmb8g8v7ch30w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/SparkParticles-Prefix-dnmffqluxtircvbtfwsaaxluqeru/SparkParticles-Prefix.pch -MMD -MT dependencies -MF /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_System.d --serialize-diagnostics /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_System.dia -c /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_System.cpp -o /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_System.o36"DB598CC5-EF6D-4828-8DDB-5D225B53C329-
+b4E41EDC0-B837-4C0B-BD90-1A36A48DF17D
+
+CCompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Transformable.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Transformable.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s424993972.518103
+e424993972.533217
+r0
+xCompileC
+xbuild/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Transformable.o
+x/Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Transformable.cpp
+xnormal
+xarm64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Transformable.cpp:23:10: fatal error: 'Core/SPK_Transformable.h' file not found
+o#include "Core/SPK_Transformable.h"
+o         ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Transformable.cpp240"CompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Transformable.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Transformable.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler39b484b4e454b941^fa7c88b4e454b941^-195"/Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Transformable.cpp:23:10: fatal error: 'Core/SPK_Transformable.h' file not found#include "Core/SPK_Transformable.h"         ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@41"'Core/SPK_Transformable.h' file not found-424993972#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@73"file:///Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Transformable.cpp0000000000000000^22#9#22#9#1322#0#29"Lexical or Preprocessor Issue--0#0#1#-19%DVTDocumentLocation4@73"file:///Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Transformable.cpp0000000000000000^3844"CompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Transformable.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Transformable.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/rishig/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-generated-files.hmap -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-own-target-headers.hmap -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-all-target-headers.hmap -iquote /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-project-headers.hmap -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/DerivedSources/arm64 -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/DerivedSources -F/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/Debug-iphoneos -include /var/folders/tp/8pytqx5s745dmb8g8v7ch30w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/SparkParticles-Prefix-dnmffqluxtircvbtfwsaaxluqeru/SparkParticles-Prefix.pch -MMD -MT dependencies -MF /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Transformable.d --serialize-diagnostics /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Transformable.dia -c /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Transformable.cpp -o /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Transformable.o36"08236333-C341-4A92-BB30-8FC970589746-
+b4E41EDC0-B837-4C0B-BD90-1A36A48DF17D
+
+CCompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Vector3D.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Vector3D.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Zone.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Zone.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s424993972.516993
+e424993972.532560
+r0
+xCompileC
+xbuild/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Zone.o
+x/Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Zone.cpp
+xnormal
+xarm64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Zone.cpp:23:10: fatal error: 'Core/SPK_Zone.h' file not found
+o#include "Core/SPK_Zone.h"
+o         ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Zone.cpp222"CompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Zone.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Zone.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler666c84b4e454b941^605a88b4e454b941^-168"/Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Zone.cpp:23:10: fatal error: 'Core/SPK_Zone.h' file not found#include "Core/SPK_Zone.h"         ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@32"'Core/SPK_Zone.h' file not found-424993972#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@64"file:///Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Zone.cpp0000000000000000^22#9#22#9#1322#0#29"Lexical or Preprocessor Issue--0#0#1#-19%DVTDocumentLocation4@64"file:///Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Zone.cpp0000000000000000^3790"CompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Zone.o /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Zone.cpp normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/rishig/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-generated-files.hmap -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-own-target-headers.hmap -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-all-target-headers.hmap -iquote /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-project-headers.hmap -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/DerivedSources/arm64 -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/DerivedSources -F/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/Debug-iphoneos -include /var/folders/tp/8pytqx5s745dmb8g8v7ch30w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/SparkParticles-Prefix-dnmffqluxtircvbtfwsaaxluqeru/SparkParticles-Prefix.pch -MMD -MT dependencies -MF /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Zone.d --serialize-diagnostics /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Zone.dia -c /Users/rishig/Downloads/SPARK-1.5.5/src/Core/SPK_Zone.cpp -o /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/SPK_Zone.o36"9B981FA1-2E3D-4D57-9A2D-ADC1ECD3334D-
+b4E41EDC0-B837-4C0B-BD90-1A36A48DF17D
+
+CCompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/ViewController.o /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/SparkParticles/ViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/Objects-normal/arm64/main.o /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/SparkParticles/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileStoryboard /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/SparkParticles/Base.lproj/Main_iPad.storyboard
+r0
+
+CCompileStoryboard /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/SparkParticles/Base.lproj/Main_iPhone.storyboard
+r0
+
+CCopyStringsFile /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/Debug-iphoneos/SparkParticles.app/en.lproj/InfoPlist.strings SparkParticles/en.lproj/InfoPlist.strings
+r0
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist build/Debug-iphoneos/SparkParticles.app/ResourceRules.plist
+s424993971.872049
+e424993971.872803
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+xbuild/Debug-iphoneos/SparkParticles.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy build/Debug-iphoneos/SparkParticles.app/ResourceRules.plist192"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist build/Debug-iphoneos/SparkParticles.app/ResourceRules.plist304bdfb3e454b941^e695dfb3e454b941^---0#0#1#-19%DVTDocumentLocation2@132"file:///Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/Debug-iphoneos/SparkParticles.app/ResourceRules.plist0034ac9fdeffdf42^794"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist build/Debug-iphoneos/SparkParticles.app/ResourceRules.plist    cd /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/Debug-iphoneos/SparkParticles.app36"3E2F3961-4FB9-4096-A124-E4ECA050A1AD-
+b4E41EDC0-B837-4C0B-BD90-1A36A48DF17D
+
+CCpResource SparkParticles/Shaders/Shader.fsh build/Debug-iphoneos/SparkParticles.app/Shader.fsh
+r0
+
+CCpResource SparkParticles/Shaders/Shader.vsh build/Debug-iphoneos/SparkParticles.app/Shader.vsh
+r0
+
+CGenerateDSYMFile /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/Debug-iphoneos/SparkParticles.app.dSYM /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/Debug-iphoneos/SparkParticles.app/SparkParticles
+r0
+
+CLd /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/Debug-iphoneos/SparkParticles.app/SparkParticles normal arm64
+r0
+
+CProcessInfoPlistFile /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/Debug-iphoneos/SparkParticles.app/Info.plist /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/SparkParticles/SparkParticles-Info.plist
+r0
+
+CProcessPCH /Users/rishig/Library/Developer/Xcode/DerivedData/SparkParticles-dgtlrueqapribtfheioirbppuemh/Index/PrecompiledHeaders/SparkParticles-Prefix-bmerxrbkhlyerbfetilldpwjgekc_ast/SparkParticles-Prefix.pch.pch SparkParticles/SparkParticles-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/tp/8pytqx5s745dmb8g8v7ch30w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/SparkParticles-Prefix-fqpqqbqsgpymrphfbtaxnomuxquq/SparkParticles-Prefix.pch.pch SparkParticles/SparkParticles-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424993971.873690
+e424993972.516405
+r1
+xProcessPCH
+x/var/folders/tp/8pytqx5s745dmb8g8v7ch30w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/SparkParticles-Prefix-fqpqqbqsgpymrphfbtaxnomuxquq/SparkParticles-Prefix.pch.pch
+xSparkParticles/SparkParticles-Prefix.pch
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/SparkParticles/SparkParticles-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Precompile SparkParticles/SparkParticles-Prefix.pch319"ProcessPCH /var/folders/tp/8pytqx5s745dmb8g8v7ch30w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/SparkParticles-Prefix-fqpqqbqsgpymrphfbtaxnomuxquq/SparkParticles-Prefix.pch.pch SparkParticles/SparkParticles-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilere4c0dfb3e454b941^a43384b4e454b941^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/SparkParticles/SparkParticles-Prefix.pch0000000000000000^3939"ProcessPCH /var/folders/tp/8pytqx5s745dmb8g8v7ch30w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/SparkParticles-Prefix-fqpqqbqsgpymrphfbtaxnomuxquq/SparkParticles-Prefix.pch.pch SparkParticles/SparkParticles-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/rishig/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-generated-files.hmap -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-own-target-headers.hmap -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-all-target-headers.hmap -iquote /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-project-headers.hmap -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/DerivedSources/arm64 -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/DerivedSources -F/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/Debug-iphoneos --serialize-diagnostics /var/folders/tp/8pytqx5s745dmb8g8v7ch30w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/SparkParticles-Prefix-fqpqqbqsgpymrphfbtaxnomuxquq/SparkParticles-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/tp/8pytqx5s745dmb8g8v7ch30w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/SparkParticles-Prefix-fqpqqbqsgpymrphfbtaxnomuxquq/SparkParticles-Prefix.pch.d -c /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/SparkParticles/SparkParticles-Prefix.pch -o /var/folders/tp/8pytqx5s745dmb8g8v7ch30w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/SparkParticles-Prefix-fqpqqbqsgpymrphfbtaxnomuxquq/SparkParticles-Prefix.pch.pch36"24B194BB-DD18-494D-BDB8-BBC4D74D18E9-
+b4E41EDC0-B837-4C0B-BD90-1A36A48DF17D
+
+CProcessPCH++ /Users/rishig/Library/Developer/Xcode/DerivedData/SparkParticles-dgtlrueqapribtfheioirbppuemh/Index/PrecompiledHeaders/SparkParticles-Prefix-gmdkoffvsfhtjnctxboefxsouukd_ast/SparkParticles-Prefix.pch.pch SparkParticles/SparkParticles-Prefix.pch normal arm64 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/tp/8pytqx5s745dmb8g8v7ch30w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/SparkParticles-Prefix-dnmffqluxtircvbtfwsaaxluqeru/SparkParticles-Prefix.pch.pch SparkParticles/SparkParticles-Prefix.pch normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s424993971.873283
+e424993971.889466
+r1
+xProcessPCH++
+x/var/folders/tp/8pytqx5s745dmb8g8v7ch30w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/SparkParticles-Prefix-dnmffqluxtircvbtfwsaaxluqeru/SparkParticles-Prefix.pch.pch
+xSparkParticles/SparkParticles-Prefix.pch
+xnormal
+xarm64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/SparkParticles/SparkParticles-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Precompile SparkParticles/SparkParticles-Prefix.pch313"ProcessPCH++ /var/folders/tp/8pytqx5s745dmb8g8v7ch30w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/SparkParticles-Prefix-dnmffqluxtircvbtfwsaaxluqeru/SparkParticles-Prefix.pch.pch SparkParticles/SparkParticles-Prefix.pch normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler65a7dfb3e454b941^4eb4e3b3e454b941^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/SparkParticles/SparkParticles-Prefix.pch0000000000000000^3843"ProcessPCH++ /var/folders/tp/8pytqx5s745dmb8g8v7ch30w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/SparkParticles-Prefix-dnmffqluxtircvbtfwsaaxluqeru/SparkParticles-Prefix.pch.pch SparkParticles/SparkParticles-Prefix.pch normal arm64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/rishig/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-generated-files.hmap -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-own-target-headers.hmap -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-all-target-headers.hmap -iquote /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles-project-headers.hmap -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/DerivedSources/arm64 -I/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/DerivedSources -F/Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/Debug-iphoneos --serialize-diagnostics /var/folders/tp/8pytqx5s745dmb8g8v7ch30w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/SparkParticles-Prefix-dnmffqluxtircvbtfwsaaxluqeru/SparkParticles-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/tp/8pytqx5s745dmb8g8v7ch30w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/SparkParticles-Prefix-dnmffqluxtircvbtfwsaaxluqeru/SparkParticles-Prefix.pch.d -c /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/SparkParticles/SparkParticles-Prefix.pch -o /var/folders/tp/8pytqx5s745dmb8g8v7ch30w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/SparkParticles-Prefix-dnmffqluxtircvbtfwsaaxluqeru/SparkParticles-Prefix.pch.pch36"AFD9A370-6606-4CEC-8580-01156F11BBEE-
+b4E41EDC0-B837-4C0B-BD90-1A36A48DF17D
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/SparkParticles.build/Debug-iphoneos/SparkParticles.build/SparkParticles.xcent
+r0
+
+CProcessProductPackaging /Users/rishig/Library/MobileDevice/Provisioning\ Profiles/83035738-3A88-4E65-937E-EB3746D8E5BB.mobileprovision /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/Debug-iphoneos/SparkParticles.app/embedded.mobileprovision
+r0
+
+CTouch /Users/rishig/Downloads/SPARK-1.5.5/projects/Xcode/SparkParticles/build/Debug-iphoneos/SparkParticles.app
+r0
+

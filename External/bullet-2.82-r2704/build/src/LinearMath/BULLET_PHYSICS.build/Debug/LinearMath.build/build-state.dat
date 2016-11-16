@@ -1,0 +1,369 @@
+TLinearMath
+v6
+r1
+cCheck dependencies
+cCompileC build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btAlignedAllocator.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedAllocator.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btConvexHull.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btConvexHull.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btConvexHullComputer.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btConvexHullComputer.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btGeometryUtil.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btGeometryUtil.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btPolarDecomposition.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btPolarDecomposition.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btQuickprof.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuickprof.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btSerializer.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btSerializer.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btVector3.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btVector3.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/Debug/libLinearMath.a normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005347D58600000000000000AA
+t1397216646
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000526733BD000000000000044C
+t1382495165
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005320FA5A00000000000001DE
+t1394670170
+s478
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/LinearMath.LinkFileList
+c00000000536C065F000000000000054C
+t1399588447
+s1356
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btAlignedAllocator.o
+t1399588447
+s9520
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btConvexHull.o
+t1399588447
+s271132
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btConvexHullComputer.o
+t1399588447
+s274064
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btGeometryUtil.o
+t1399588447
+s46316
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btPolarDecomposition.o
+t1399588447
+s58856
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btQuickprof.o
+t1399588447
+s34620
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btSerializer.o
+t1399588447
+s22352
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btVector3.o
+t1399588448
+s30164
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/Debug/libLinearMath.a
+t1399588448
+s767024
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedAllocator.cpp
+c00000000536B4FF1000000000000113A
+t1399541745
+s4410
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedAllocator.h
+c00000000536B4FF1000000000000114F
+t1399541745
+s4431
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedObjectArray.h
+c00000000536B4FF10000000000002BCB
+t1399541745
+s11211
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btConvexHull.cpp
+c00000000536B4FF10000000000006E5D
+t1399541745
+s28253
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btConvexHull.h
+c00000000536B4FF10000000000001D20
+t1399541745
+s7456
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btConvexHullComputer.cpp
+c00000000536B4FF1000000000000DFDA
+t1399541745
+s57306
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btConvexHullComputer.h
+c00000000536B4FF10000000000000DA6
+t1399541745
+s3494
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btGeometryUtil.cpp
+c00000000536B4FF100000000000013EE
+t1399541745
+s5102
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btGeometryUtil.h
+c00000000536B4FF1000000000000075E
+t1399541745
+s1886
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMatrix3x3.h
+c00000000536B4FF1000000000000ADC0
+t1399541745
+s44480
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMinMax.h
+c00000000536B4FF100000000000006C6
+t1399541745
+s1734
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btPolarDecomposition.cpp
+c00000000536B4FF10000000000000A81
+t1399541745
+s2689
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btPolarDecomposition.h
+c00000000536B4FF10000000000000A2D
+t1399541745
+s2605
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuadWord.h
+c00000000536B4FF10000000000001C89
+t1399541745
+s7305
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuaternion.h
+c00000000536B4FF10000000000006E31
+t1399541745
+s28209
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuickprof.cpp
+c00000000536B4FF10000000000004100
+t1399541745
+s16640
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuickprof.h
+c00000000536B4FF10000000000001410
+t1399541745
+s5136
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btScalar.h
+c00000000536B4FF100000000000053B9
+t1399541745
+s21433
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btSerializer.cpp
+c00000000536B4FF1000000000002CD2E
+t1399541745
+s183598
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btVector3.cpp
+c00000000536B4FF100000000000110EF
+t1399541745
+s69871
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btVector3.h
+c00000000536B4FF10000000000009D3C
+t1399541745
+s40252
+
+CBuild AST from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedAllocator.cpp
+r0
+
+CBuild AST from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btConvexHull.cpp
+r0
+
+CBuild AST from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btConvexHullComputer.cpp
+r0
+
+CBuild AST from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btGeometryUtil.cpp
+r0
+
+CBuild AST from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btPolarDecomposition.cpp
+r0
+
+CBuild AST from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuickprof.cpp
+r0
+
+CBuild AST from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btSerializer.cpp
+r0
+
+CBuild AST from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btVector3.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies8467ba38d91db941^4c8bba38d91db941^---0#1#1#--18"Check dependencies36"16BFC26C-2424-4F33-AF0F-FF4868EB2DF6-
+
+CCompileC build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btAlignedAllocator.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedAllocator.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s421281247.200474
+e421281247.305072
+r1
+xCompileC
+xbuild/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btAlignedAllocator.o
+x/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedAllocator.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedAllocator.cpp
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedAllocator.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btScalar.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedAllocator.cpp216"CompileC build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btAlignedAllocator.o src/LinearMath/btAlignedAllocator.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler516633df3d1cb941^721a4edf3d1cb941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedAllocator.cpp0000000000000000^2716"CompileC build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btAlignedAllocator.o src/LinearMath/btAlignedAllocator.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/Debug/include -I/usr/local/include -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/DerivedSources/x86_64 -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btAlignedAllocator.d --serialize-diagnostics /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btAlignedAllocator.dia -c /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedAllocator.cpp -o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btAlignedAllocator.o36"94F30691-EF29-460E-A55E-23F20548E809-
+bFBED4D07-F518-4EFF-B1AD-72333E3A4C8D
+
+CCompileC build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btConvexHull.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btConvexHull.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s421281247.201084
+e421281247.757329
+r1
+xCompileC
+xbuild/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btConvexHull.o
+x/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btConvexHull.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btConvexHull.cpp
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btConvexHull.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btVector3.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btScalar.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMinMax.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedAllocator.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedObjectArray.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btConvexHull.cpp204"CompileC build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btConvexHull.o src/LinearMath/btConvexHull.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler969433df3d1cb941^8bdec1df3d1cb941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btConvexHull.cpp0000000000000000^2680"CompileC build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btConvexHull.o src/LinearMath/btConvexHull.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/Debug/include -I/usr/local/include -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/DerivedSources/x86_64 -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btConvexHull.d --serialize-diagnostics /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btConvexHull.dia -c /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btConvexHull.cpp -o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btConvexHull.o36"D6C3F4CA-4129-486A-A9D3-AC0C91B7F3C7-
+bFBED4D07-F518-4EFF-B1AD-72333E3A4C8D
+
+CCompileC build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btConvexHullComputer.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btConvexHullComputer.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s421281247.201425
+e421281247.721188
+r1
+xCompileC
+xbuild/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btConvexHullComputer.o
+x/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btConvexHullComputer.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btConvexHullComputer.cpp
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btConvexHullComputer.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btVector3.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btScalar.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMinMax.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedAllocator.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedObjectArray.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btConvexHullComputer.cpp220"CompileC build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btConvexHullComputer.o src/LinearMath/btConvexHullComputer.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler07b533df3d1cb941^37a5b8df3d1cb941^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btConvexHullComputer.cpp0000000000000000^2728"CompileC build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btConvexHullComputer.o src/LinearMath/btConvexHullComputer.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/Debug/include -I/usr/local/include -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/DerivedSources/x86_64 -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btConvexHullComputer.d --serialize-diagnostics /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btConvexHullComputer.dia -c /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btConvexHullComputer.cpp -o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btConvexHullComputer.o36"EE18AE7C-2354-4BF4-A056-5EB1467AAE04-
+bFBED4D07-F518-4EFF-B1AD-72333E3A4C8D
+
+CCompileC build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btGeometryUtil.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btGeometryUtil.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s421281247.202024
+e421281247.416667
+r1
+xCompileC
+xbuild/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btGeometryUtil.o
+x/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btGeometryUtil.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btGeometryUtil.cpp
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btGeometryUtil.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btVector3.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btScalar.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMinMax.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedAllocator.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedObjectArray.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btGeometryUtil.cpp208"CompileC build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btGeometryUtil.o src/LinearMath/btGeometryUtil.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler86e533df3d1cb941^daac6adf3d1cb941^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btGeometryUtil.cpp0000000000000000^2692"CompileC build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btGeometryUtil.o src/LinearMath/btGeometryUtil.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/Debug/include -I/usr/local/include -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/DerivedSources/x86_64 -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btGeometryUtil.d --serialize-diagnostics /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btGeometryUtil.dia -c /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btGeometryUtil.cpp -o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btGeometryUtil.o36"7354A247-4F61-4F9A-B87A-1B3D166EEC46-
+bFBED4D07-F518-4EFF-B1AD-72333E3A4C8D
+
+CCompileC build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btPolarDecomposition.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btPolarDecomposition.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s421281247.417093
+e421281247.644810
+r1
+xCompileC
+xbuild/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btPolarDecomposition.o
+x/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btPolarDecomposition.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btPolarDecomposition.cpp
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btPolarDecomposition.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMatrix3x3.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btVector3.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btScalar.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMinMax.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedAllocator.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuaternion.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuadWord.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btPolarDecomposition.cpp220"CompileC build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btPolarDecomposition.o src/LinearMath/btPolarDecomposition.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler12de6adf3d1cb941^8812a5df3d1cb941^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btPolarDecomposition.cpp0000000000000000^2728"CompileC build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btPolarDecomposition.o src/LinearMath/btPolarDecomposition.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/Debug/include -I/usr/local/include -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/DerivedSources/x86_64 -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btPolarDecomposition.d --serialize-diagnostics /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btPolarDecomposition.dia -c /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btPolarDecomposition.cpp -o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btPolarDecomposition.o36"214B20B1-66C2-4FC9-BAF8-BB655700AE3E-
+bFBED4D07-F518-4EFF-B1AD-72333E3A4C8D
+
+CCompileC build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btQuickprof.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuickprof.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s421281247.722453
+e421281247.876692
+r1
+xCompileC
+xbuild/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btQuickprof.o
+x/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuickprof.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuickprof.cpp
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuickprof.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btScalar.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedAllocator.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuickprof.cpp202"CompileC build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btQuickprof.o src/LinearMath/btQuickprof.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerc64db9df3d1cb941^172de0df3d1cb941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuickprof.cpp0000000000000000^2674"CompileC build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btQuickprof.o src/LinearMath/btQuickprof.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/Debug/include -I/usr/local/include -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/DerivedSources/x86_64 -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btQuickprof.d --serialize-diagnostics /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btQuickprof.dia -c /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuickprof.cpp -o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btQuickprof.o36"0C511697-29C7-453B-9A8A-0B548117D367-
+bFBED4D07-F518-4EFF-B1AD-72333E3A4C8D
+
+CCompileC build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btSerializer.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btSerializer.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s421281247.853460
+e421281247.981800
+r1
+xCompileC
+xbuild/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btSerializer.o
+x/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btSerializer.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btSerializer.cpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btSerializer.cpp204"CompileC build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btSerializer.o src/LinearMath/btSerializer.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler3e92dadf3d1cb941^4f57fbdf3d1cb941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btSerializer.cpp0000000000000000^2680"CompileC build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btSerializer.o src/LinearMath/btSerializer.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/Debug/include -I/usr/local/include -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/DerivedSources/x86_64 -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btSerializer.d --serialize-diagnostics /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btSerializer.dia -c /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btSerializer.cpp -o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btSerializer.o36"DD04A880-55C0-4D84-AD97-6ACBC8B26E41-
+bFBED4D07-F518-4EFF-B1AD-72333E3A4C8D
+
+CCompileC build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btVector3.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btVector3.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s421281247.982049
+e421281248.159183
+r1
+xCompileC
+xbuild/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btVector3.o
+x/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btVector3.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btVector3.cpp
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btVector3.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btScalar.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMinMax.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedAllocator.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btVector3.cpp198"CompileC build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btVector3.o src/LinearMath/btVector3.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerf67efbdf3d1cb941^76c128e03d1cb941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btVector3.cpp0000000000000000^2662"CompileC build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btVector3.o src/LinearMath/btVector3.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/Debug/include -I/usr/local/include -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/DerivedSources/x86_64 -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btVector3.d --serialize-diagnostics /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btVector3.dia -c /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btVector3.cpp -o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/btVector3.o36"7CD81C99-8027-4A88-BA36-E1B790DC6E83-
+bFBED4D07-F518-4EFF-B1AD-72333E3A4C8D
+
+CLibtool /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/Debug/libLinearMath.a normal x86_64
+s421281248.256255
+e421281248.269761
+r1
+xLibtool
+x/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/Debug/libLinearMath.a
+xnormal
+xx86_64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Libtool build/src/LinearMath/Debug/libLinearMath.a normal x86_6464"Libtool build/src/LinearMath/Debug/libLinearMath.a normal x86_6450aa41e03d1cb941^f51045e03d1cb941^---0#0#1#--805"Libtool build/src/LinearMath/Debug/libLinearMath.a normal x86_64    cd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only x86_64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/Debug -filelist /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/BULLET_PHYSICS.build/Debug/LinearMath.build/Objects-normal/x86_64/LinearMath.LinkFileList -o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/Debug/libLinearMath.a36"00D17564-6075-4058-A57F-7B84A839B6AC-
+bFBED4D07-F518-4EFF-B1AD-72333E3A4C8D
+

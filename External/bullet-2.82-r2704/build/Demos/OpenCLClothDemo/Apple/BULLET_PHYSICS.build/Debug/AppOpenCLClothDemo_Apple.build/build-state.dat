@@ -1,0 +1,1437 @@
+TAppOpenCLClothDemo_Apple
+v6
+r1
+cCheck dependencies
+cCompileC build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/cl_cloth_demo.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cl_cloth_demo.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/clstuff.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/clstuff.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/gl_win.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/btOpenCLUtils.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/Debug/AppOpenCLClothDemo_Apple normal x86_64
+cPhaseScriptExecution CMake\ PostBuild\ Rules /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Script-3EC6B7B1F1FC46F584143D86.sh
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005347D58600000000000000AA
+t1397216646
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000526733BD000000000000044C
+t1382495165
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005320FA5A00000000000001DE
+t1394670170
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AGL.framework/AGL
+c000000005320FA5A000000000000892C
+t1394670170
+s35116
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/GLUT
+c00000000526733BF00000000000135D4
+t1382495167
+s79316
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenCL.framework/OpenCL
+c000000005320FA5B0000000000012944
+t1394670171
+s76100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000005320FA5B000000000000BB7C
+t1394670171
+s47996
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+c000000005320FA5B00000000000211A0
+t1394670171
+s135584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+c000000005320FA5B0000000000005F00
+t1394670171
+s24320
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+c000000005320FA5C000000000000681C
+t1394670172
+s26652
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+c00000000526733C4000000000006E8B0
+t1382495172
+s452784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libpthread.dylib
+c000000005320FA5C000000000000681C
+t1394670172
+s26652
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+c00000000526733C40000000000004734
+t1382495172
+s18228
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+c00000000526733C4000000000000FC6C
+t1382495172
+s64620
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+c00000000526733C4000000000000F6A0
+t1382495172
+s63136
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+c00000000526733C40000000000006254
+t1382495172
+s25172
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+c00000000526733C4000000000000E0F8
+t1382495172
+s57592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+c000000005320FA5C000000000000D6DC
+t1394670172
+s55004
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+c000000005320FA5C0000000000006308
+t1394670172
+s25352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+c00000000526733C40000000000004050
+t1382495172
+s16464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+c000000005320FA5C0000000000008570
+t1394670172
+s34160
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+c00000000526733C40000000000005EA0
+t1382495172
+s24224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+c00000000526733C40000000000005FAC
+t1382495172
+s24492
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+c00000000526733C40000000000004440
+t1382495172
+s17472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+c00000000526733C4000000000000AA28
+t1382495172
+s43560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+c00000000526733C40000000000003E2C
+t1382495172
+s15916
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+c000000005320FA5C0000000000030B04
+t1394670172
+s199428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+c000000005320FA5C0000000000005E54
+t1394670172
+s24148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+c000000005320FA5C0000000000006A90
+t1394670172
+s27280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+c00000000526733C400000000000178AC
+t1382495172
+s96428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+c000000005320FA5C000000000001ADC8
+t1394670172
+s110024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+c00000000526733C4000000000001028C
+t1382495172
+s66188
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+c000000005320FA5C0000000000008800
+t1394670172
+s34816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+c00000000526733C40000000000011090
+t1382495172
+s69776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+c00000000526733C4000000000000882C
+t1382495172
+s34860
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+c000000005320FA5C00000000000067AC
+t1394670172
+s26540
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+c00000000526733C40000000000008DEC
+t1382495172
+s36332
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+c000000005320FA5C0000000000004C08
+t1394670172
+s19464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+c000000005320FA5C0000000000002428
+t1394670172
+s9256
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+c00000000526733C4000000000000439C
+t1382495172
+s17308
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+c00000000526733C40000000000006768
+t1382495172
+s26472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+c000000005320FA5C00000000000172F4
+t1394670172
+s94964
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+c000000005347D5740000000000001770
+t1397216628
+s6000
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cl_cloth_demo.cpp
+c00000000536B50000000000000004D59
+t1399541760
+s19801
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cloth.h
+c00000000536B50000000000000001C09
+t1399541760
+s7177
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/clstuff.cpp
+c00000000536B5000000000000000099C
+t1399541760
+s2460
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/clstuff.h
+c00000000536B50000000000000000102
+t1399541760
+s258
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp
+c00000000536B50000000000000001641
+t1399541760
+s5697
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.h
+c00000000536B500000000000000005E9
+t1399541760
+s1513
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenGL/GLDebugDrawer.h
+c00000000536B5000000000000000041C
+t1399541760
+s1052
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenGL/stb_image.h
+c00000000536B500000000000000037C8
+t1399541760
+s14280
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLInclude.h
+c00000000536B5001000000000000058F
+t1399541761
+s1423
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.cpp
+c00000000536B500100000000000067CA
+t1399541761
+s26570
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.h
+c00000000536B5001000000000000119A
+t1399541761
+s4506
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/AppOpenCLClothDemo_Apple.LinkFileList
+c00000000536C06C100000000000002FF
+t1399588545
+s767
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/btOpenCLUtils.o
+t1399588545
+s32480
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/cl_cloth_demo.o
+t1399588545
+s600244
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/clstuff.o
+t1399588545
+s7880
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/gl_win.o
+t1399588545
+s10548
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Script-3EC6B7B1F1FC46F584143D86.sh
+c00000000536C06C10000000000000127
+t1399588545
+s295
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/Debug/AppOpenCLClothDemo_Apple
+t1399588546
+s4150568
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenGL/Debug/libOpenGLSupport.a
+c00000000536C06600000000000235F10
+t1399588448
+s2318096
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletCollision/Debug/libBulletCollision.a
+c00000000536C06630000000000A245D0
+t1399588451
+s10634704
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletDynamics/Debug/libBulletDynamics.a
+c00000000536C066200000000006668A8
+t1399588450
+s6711464
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletMultiThreaded/Debug/libBulletMultiThreaded.a
+c00000000536C06C0000000000023D0E0
+t1399588544
+s2347232
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/Debug/libBulletSoftBodySolvers_OpenCL_Apple.a
+c00000000536C06C00000000000189B80
+t1399588544
+s1612672
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/Debug/libBulletSoftBody.a
+c00000000536C06AF0000000000335D50
+t1399588527
+s3366224
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/Debug/libLinearMath.a
+c00000000536C066000000000000BB430
+t1399588448
+s767024
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btAxisSweep3.h
+c00000000536B4FF10000000000007E6E
+t1399541745
+s32366
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btBroadphaseInterface.h
+c00000000536B4FF10000000000000E03
+t1399541745
+s3587
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btBroadphaseProxy.h
+c00000000536B4FF10000000000001EA9
+t1399541745
+s7849
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h
+c00000000536B4FF100000000000009FE
+t1399541745
+s2558
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDbvt.h
+c00000000536B4FF10000000000007EB0
+t1399541745
+s32432
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDbvtBroadphase.h
+c00000000536B4FF1000000000000185A
+t1399541745
+s6234
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDispatcher.h
+c00000000536B4FF10000000000000E1D
+t1399541745
+s3613
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btMultiSapBroadphase.h
+c00000000536B4FF10000000000001509
+t1399541745
+s5385
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btOverlappingPairCache.h
+c00000000536B4FF100000000000030CB
+t1399541745
+s12491
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btOverlappingPairCallback.h
+c00000000536B4FF100000000000006AE
+t1399541745
+s1710
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btQuantizedBvh.h
+c00000000536B4FF100000000000047B7
+t1399541745
+s18359
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btSimpleBroadphase.h
+c00000000536B4FF100000000000014F2
+t1399541745
+s5362
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btActivatingCollisionAlgorithm.h
+c00000000536B4FF10000000000000693
+t1399541745
+s1683
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionConfiguration.h
+c00000000536B4FF10000000000000675
+t1399541745
+s1653
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h
+c00000000536B4FF100000000000006C4
+t1399541745
+s1732
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionDispatcher.h
+c00000000536B4FF1000000000000149A
+t1399541745
+s5274
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionObject.h
+c00000000536B4FF10000000000003B4F
+t1399541745
+s15183
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionObjectWrapper.h
+c00000000536B4FF1000000000000067E
+t1399541745
+s1662
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionWorld.h
+c00000000536B4FF10000000000004907
+t1399541745
+s18695
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btDefaultCollisionConfiguration.h
+c00000000536B4FF10000000000001374
+t1399541745
+s4980
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btManifoldResult.h
+c00000000536B4FF10000000000001131
+t1399541745
+s4401
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btSphereSphereCollisionAlgorithm.h
+c00000000536B4FF10000000000000BE0
+t1399541745
+s3040
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btBoxShape.h
+c00000000536B4FF00000000000002061
+t1399541744
+s8289
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btBvhTriangleMeshShape.h
+c00000000536B4FF0000000000000149D
+t1399541744
+s5277
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCapsuleShape.h
+c00000000536B4FF0000000000000177D
+t1399541744
+s6013
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCollisionMargin.h
+c00000000536B4FF00000000000000595
+t1399541744
+s1429
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCollisionShape.h
+c00000000536B4FF000000000000012EB
+t1399541744
+s4843
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCompoundShape.h
+c00000000536B4FF000000000000019D2
+t1399541744
+s6610
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConcaveShape.h
+c00000000536B4FF0000000000000084D
+t1399541744
+s2125
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConeShape.h
+c00000000536B4FF000000000000012CE
+t1399541744
+s4814
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexHullShape.h
+c00000000536B4FF000000000000010CF
+t1399541744
+s4303
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexInternalShape.h
+c00000000536B4FF000000000000019D4
+t1399541744
+s6612
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexShape.h
+c00000000536B4FF00000000000000C9A
+t1399541744
+s3226
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexTriangleMeshShape.h
+c00000000536B4FF00000000000000E4F
+t1399541744
+s3663
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCylinderShape.h
+c00000000536B4FF0000000000000186C
+t1399541744
+s6252
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btEmptyShape.h
+c00000000536B4FF000000000000008B2
+t1399541744
+s2226
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btMultiSphereShape.h
+c00000000536B4FF00000000000000C40
+t1399541744
+s3136
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btOptimizedBvh.h
+c00000000536B4FF00000000000000951
+t1399541744
+s2385
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btPolyhedralConvexShape.h
+c00000000536B4FF00000000000000E79
+t1399541744
+s3705
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btScaledBvhTriangleMeshShape.h
+c00000000536B4FF00000000000000DE0
+t1399541744
+s3552
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btSphereShape.h
+c00000000536B4FF00000000000000A84
+t1399541744
+s2692
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btStaticPlaneShape.h
+c00000000536B4FF00000000000000D00
+t1399541744
+s3328
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btStridingMeshInterface.h
+c00000000536B4FF00000000000001552
+t1399541744
+s5458
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTetrahedronShape.h
+c00000000536B4FF000000000000009DF
+t1399541744
+s2527
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleCallback.h
+c00000000536B4FF000000000000006AB
+t1399541744
+s1707
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleIndexVertexArray.h
+c00000000536B4FF000000000000014AF
+t1399541744
+s5295
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleInfoMap.h
+c00000000536B4FF000000000000020D0
+t1399541744
+s8400
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleMesh.h
+c00000000536B4FF00000000000000C10
+t1399541744
+s3088
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleMeshShape.h
+c00000000536B4FF00000000000000AF5
+t1399541744
+s2805
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btUniformScalingShape.h
+c00000000536B4FF00000000000000C18
+t1399541744
+s3096
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h
+c00000000536B4FF10000000000000C96
+t1399541745
+s3222
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btGjkEpa2.h
+c00000000536B4FF100000000000009D9
+t1399541745
+s2521
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btManifoldPoint.h
+c00000000536B4FF10000000000001183
+t1399541745
+s4483
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btPersistentManifold.h
+c00000000536B4FF10000000000001ED0
+t1399541745
+s7888
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btConeTwistConstraint.h
+c00000000536B4FF0000000000000284E
+t1399541744
+s10318
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btConstraintSolver.h
+c00000000536B4FF00000000000000852
+t1399541744
+s2130
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btContactSolverInfo.h
+c00000000536B4FF0000000000000154E
+t1399541744
+s5454
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btFixedConstraint.h
+c00000000536B4FF0000000000000069E
+t1399541744
+s1694
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btGearConstraint.h
+c00000000536B4FF00000000000001074
+t1399541744
+s4212
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btGeneric6DofConstraint.h
+c00000000536B4FF00000000000004C07
+t1399541744
+s19463
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btGeneric6DofSpringConstraint.h
+c00000000536B4FF000000000000012B5
+t1399541744
+s4789
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btHinge2Constraint.h
+c00000000536B4FF00000000000000954
+t1399541744
+s2388
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btHingeConstraint.h
+c00000000536B4FF0000000000000302A
+t1399541744
+s12330
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btJacobianEntry.h
+c00000000536B4FF0000000000000151F
+t1399541744
+s5407
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btPoint2PointConstraint.h
+c00000000536B4FF00000000000001558
+t1399541744
+s5464
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btSequentialImpulseConstraintSolver.h
+c00000000536B4FF00000000000001E5D
+t1399541744
+s7773
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btSliderConstraint.h
+c00000000536B4FF000000000000035F7
+t1399541744
+s13815
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btSolverBody.h
+c00000000536B4FF00000000000001E8E
+t1399541744
+s7822
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btSolverConstraint.h
+c00000000536B4FF0000000000000095C
+t1399541744
+s2396
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btTypedConstraint.h
+c00000000536B4FF00000000000003631
+t1399541744
+s13873
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btUniversalConstraint.h
+c00000000536B4FF00000000000000A91
+t1399541744
+s2705
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btActionInterface.h
+c00000000536B4FF000000000000005FC
+t1399541744
+s1532
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btDiscreteDynamicsWorld.h
+c00000000536B4FF00000000000001C8D
+t1399541744
+s7309
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btDynamicsWorld.h
+c00000000536B4FF00000000000001679
+t1399541744
+s5753
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btRigidBody.h
+c00000000536B4FF000000000000046F5
+t1399541744
+s18165
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btSimpleDynamicsWorld.h
+c00000000536B4FF00000000000000C28
+t1399541744
+s3112
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Vehicle/btRaycastVehicle.h
+c00000000536B4FF00000000000001614
+t1399541744
+s5652
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Vehicle/btVehicleRaycaster.h
+c00000000536B4FF00000000000000409
+t1399541744
+s1033
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Vehicle/btWheelInfo.h
+c00000000536B4FF00000000000000D61
+t1399541744
+s3425
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolverBuffer_OpenCL.h
+c00000000536B4FF10000000000001272
+t1399541745
+s4722
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolverLinkData_OpenCL.h
+c00000000536B4FF10000000000000CD9
+t1399541745
+s3289
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolverLinkData_OpenCLSIMDAware.h
+c00000000536B4FF1000000000000143F
+t1399541745
+s5183
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolverOutputCLtoGL.h
+c00000000536B4FF10000000000000931
+t1399541745
+s2353
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolverTriangleData_OpenCL.h
+c00000000536B4FF10000000000000C02
+t1399541745
+s3074
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolverVertexBuffer_OpenGL.h
+c00000000536B4FF100000000000012E8
+t1399541745
+s4840
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolverVertexData_OpenCL.h
+c00000000536B4FF100000000000008B5
+t1399541745
+s2229
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.h
+c00000000536B4FF1000000000000368D
+t1399541745
+s13965
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.h
+c00000000536B4FF10000000000000A2E
+t1399541745
+s2606
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/Shared/btSoftBodySolverData.h
+c00000000536B4FF10000000000004B14
+t1399541745
+s19220
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h
+c00000000536B4FF000000000000078E4
+t1399541744
+s30948
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyRigidBodyCollisionConfiguration.h
+c00000000536B4FF000000000000008DA
+t1399541744
+s2266
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodySolverVertexBuffer.h
+c00000000536B4FF00000000000000EE1
+t1399541744
+s3809
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodySolvers.h
+c00000000536B4FF0000000000000117A
+t1399541744
+s4474
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidDynamicsWorld.h
+c00000000536B4FF00000000000000E9B
+t1399541744
+s3739
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h
+c00000000536B4FF00000000000001CDE
+t1399541744
+s7390
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAabbUtil2.h
+c00000000536B4FF10000000000002154
+t1399541745
+s8532
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedAllocator.h
+c00000000536B4FF1000000000000114F
+t1399541745
+s4431
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedObjectArray.h
+c00000000536B4FF10000000000002BCB
+t1399541745
+s11211
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btDefaultMotionState.h
+c00000000536B4FF100000000000004FA
+t1399541745
+s1274
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btHashMap.h
+c00000000536B4FF100000000000024A8
+t1399541745
+s9384
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btIDebugDraw.h
+c00000000536B4FF1000000000000410A
+t1399541745
+s16650
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMatrix3x3.h
+c00000000536B4FF1000000000000ADC0
+t1399541745
+s44480
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMinMax.h
+c00000000536B4FF100000000000006C6
+t1399541745
+s1734
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMotionState.h
+c00000000536B4FF1000000000000063D
+t1399541745
+s1597
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuadWord.h
+c00000000536B4FF10000000000001C89
+t1399541745
+s7305
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuaternion.h
+c00000000536B4FF10000000000006E31
+t1399541745
+s28209
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuickprof.h
+c00000000536B4FF10000000000001410
+t1399541745
+s5136
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btScalar.h
+c00000000536B4FF100000000000053B9
+t1399541745
+s21433
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btSerializer.h
+c00000000536B4FF10000000000003413
+t1399541745
+s13331
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btTransform.h
+c00000000536B4FF10000000000002241
+t1399541745
+s8769
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btTransformUtil.h
+c00000000536B4FF10000000000001C3F
+t1399541745
+s7231
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btVector3.h
+c00000000536B4FF10000000000009D3C
+t1399541745
+s40252
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/btBulletCollisionCommon.h
+c00000000536B4FF10000000000000D48
+t1399541745
+s3400
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/btBulletDynamicsCommon.h
+c00000000536B4FF100000000000008A4
+t1399541745
+s2212
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/boolInVec.h
+c00000000536B4FF10000000000001C33
+t1399541745
+s7219
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/floatInVec.h
+c00000000536B4FF10000000000002298
+t1399541745
+s8856
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/mat_aos.h
+c00000000536B4FF100000000000123EE
+t1399541745
+s74734
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/quat_aos.h
+c00000000536B4FF10000000000004448
+t1399541745
+s17480
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vec_aos.h
+c00000000536B4FF1000000000000AA2F
+t1399541745
+s43567
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vecidx_aos.h
+c00000000536B4FF20000000000000C38
+t1399541746
+s3128
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vectormath_aos.h
+c00000000536B4FF10000000000015F8F
+t1399541745
+s89999
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h
+c00000000536B4FF20000000000000318
+t1399541746
+s792
+
+CBuild AST from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cl_cloth_demo.cpp
+r0
+
+CBuild AST from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/clstuff.cpp
+r0
+
+CBuild AST from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp
+r0
+
+CBuild AST from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies064b39093f1cb941^786339093f1cb941^---0#1#1#--18"Check dependencies36"5C32105D-D9FE-4D4F-BDDD-0FA217D91EE8-
+
+CCompileC build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/btOpenCLUtils.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s421281345.176417
+e421281345.249795
+r1
+xCompileC
+xbuild/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/btOpenCLUtils.o
+x/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.cpp
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLInclude.h
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.cpp:440:31: warning: using the result of an assignment as a condition without parentheses [-Wparentheses]
+o          for (oriptr = name; patloc = strstr(oriptr, pattern); oriptr = patloc + patlen)
+o                              ~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.cpp:440:31: note: place parentheses around the assignment to silence this warning
+o          for (oriptr = name; patloc = strstr(oriptr, pattern); oriptr = patloc + patlen)
+o                                     ^
+o                              (                               )
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.cpp:440:31: note: use '==' to turn this assignment into an equality comparison
+o          for (oriptr = name; patloc = strstr(oriptr, pattern); oriptr = patloc + patlen)
+o                                     ^
+o                                     ==
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.cpp:453:31: warning: using the result of an assignment as a condition without parentheses [-Wparentheses]
+o          for (oriptr = name; patloc = strstr(oriptr, pattern); oriptr = patloc + patlen)
+o                              ~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.cpp:453:31: note: place parentheses around the assignment to silence this warning
+o          for (oriptr = name; patloc = strstr(oriptr, pattern); oriptr = patloc + patlen)
+o                                     ^
+o                              (                               )
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.cpp:453:31: note: use '==' to turn this assignment into an equality comparison
+o          for (oriptr = name; patloc = strstr(oriptr, pattern); oriptr = patloc + patlen)
+o                                     ^
+o                                     ==
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.cpp:447:20: warning: unused function 'strip2' [-Wunused-function]
+ostatic const char* strip2(const char* name, const char* pattern,int* numOccurences=0)
+o                   ^
+o3 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.cpp237"CompileC build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/btOpenCLUtils.o Demos/SharedOpenCL/btOpenCLUtils.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerde3c2d413e1cb941^2cf23f413e1cb941^-2445"/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.cpp:440:31: warning: using the result of an assignment as a condition without parentheses [-Wparentheses]          for (oriptr = name; patloc = strstr(oriptr, pattern); oriptr = patloc + patlen)                              ~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.cpp:440:31: note: place parentheses around the assignment to silence this warning          for (oriptr = name; patloc = strstr(oriptr, pattern); oriptr = patloc + patlen)                                     ^                              (                               )/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.cpp:440:31: note: use '==' to turn this assignment into an equality comparison          for (oriptr = name; patloc = strstr(oriptr, pattern); oriptr = patloc + patlen)                                     ^                                     ==/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.cpp:453:31: warning: using the result of an assignment as a condition without parentheses [-Wparentheses]          for (oriptr = name; patloc = strstr(oriptr, pattern); oriptr = patloc + patlen)                              ~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.cpp:453:31: note: place parentheses around the assignment to silence this warning          for (oriptr = name; patloc = strstr(oriptr, pattern); oriptr = patloc + patlen)                                     ^                              (                               )/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.cpp:453:31: note: use '==' to turn this assignment into an equality comparison          for (oriptr = name; patloc = strstr(oriptr, pattern); oriptr = patloc + patlen)                                     ^                                     ==/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.cpp:447:20: warning: unused function 'strip2' [-Wunused-function]static const char* strip2(const char* name, const char* pattern,int* numOccurences=0)                   ^3 warnings generated.3(36%IDEClangDiagnosticActivityLogMessage2@68"Using the result of an assignment as a condition without parentheses-421281345#18446744073709551615#0#2(2@63"Place parentheses around the assignment to silence this warning-421281345#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@108"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.cpp0000000000000000^439#30#439#30#16826#0#14"Semantic Issue2(3@108"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.cpp0000000000000000^439#23#439#23#16819#0#3@108"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.cpp0000000000000000^439#55#439#55#16851#0#-2@60"Use '==' to turn this assignment into an equality comparison-421281345#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@108"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.cpp0000000000000000^439#30#439#30#16826#0#14"Semantic Issue1(3@108"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.cpp0000000000000000^439#30#439#31#16826#1#-1#27"com.apple.dt.IDE.diagnostic3@108"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.cpp0000000000000000^439#30#439#30#16826#0#14"Semantic Issue1(3@108"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.cpp0000000000000000^439#23#439#55#16819#31#-2@68"Using the result of an assignment as a condition without parentheses-421281345#18446744073709551615#0#2(2@63"Place parentheses around the assignment to silence this warning-421281345#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@108"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.cpp0000000000000000^452#30#452#30#17245#0#14"Semantic Issue2(3@108"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.cpp0000000000000000^452#23#452#23#17238#0#3@108"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.cpp0000000000000000^452#55#452#55#17270#0#-2@60"Use '==' to turn this assignment into an equality comparison-421281345#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@108"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.cpp0000000000000000^452#30#452#30#17245#0#14"Semantic Issue1(3@108"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.cpp0000000000000000^452#30#452#31#17245#1#-1#27"com.apple.dt.IDE.diagnostic3@108"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.cpp0000000000000000^452#30#452#30#17245#0#14"Semantic Issue1(3@108"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.cpp0000000000000000^452#23#452#55#17238#31#-2@24"Unused function 'strip2'-421281345#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@108"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.cpp0000000000000000^446#19#446#19#16983#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@108"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.cpp0000000000000000^3048"CompileC build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/btOpenCLUtils.o Demos/SharedOpenCL/btOpenCLUtils.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/Debug/include -I/usr/local/include -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenGL -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/DerivedSources/x86_64 -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/btOpenCLUtils.d --serialize-diagnostics /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/btOpenCLUtils.dia -c /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.cpp -o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/btOpenCLUtils.o36"D49E56AC-C296-4285-919D-02FE3C28AFC6-
+bF61ABEC9-6AAA-4464-A4BE-DBDD84D6C6CA
+
+CCompileC build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/cl_cloth_demo.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cl_cloth_demo.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s421281345.175732
+e421281346.001044
+r1
+xCompileC
+xbuild/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/cl_cloth_demo.o
+x/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cl_cloth_demo.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cl_cloth_demo.cpp
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/clstuff.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cloth.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenGL/stb_image.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btScalar.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenGL/GLDebugDrawer.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btIDebugDraw.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btVector3.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMinMax.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedAllocator.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btTransform.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMatrix3x3.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuaternion.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuadWord.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/btBulletDynamicsCommon.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/btBulletCollisionCommon.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionWorld.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionObject.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMotionState.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedObjectArray.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionDispatcher.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDispatcher.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btPersistentManifold.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btManifoldPoint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btTransformUtil.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btManifoldResult.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionObjectWrapper.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btBroadphaseProxy.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btOverlappingPairCache.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btBroadphaseInterface.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btOverlappingPairCallback.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btBoxShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btPolyhedralConvexShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexInternalShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCollisionShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCollisionMargin.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAabbUtil2.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btSphereShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCapsuleShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCylinderShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConeShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btStaticPlaneShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConcaveShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleCallback.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexHullShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleMesh.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleIndexVertexArray.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btStridingMeshInterface.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexTriangleMeshShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btBvhTriangleMeshShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleMeshShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btOptimizedBvh.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btQuantizedBvh.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleInfoMap.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btHashMap.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btSerializer.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btScaledBvhTriangleMeshShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCompoundShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTetrahedronShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btEmptyShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btMultiSphereShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btUniformScalingShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btSphereSphereCollisionAlgorithm.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btActivatingCollisionAlgorithm.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btDefaultCollisionConfiguration.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionConfiguration.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btSimpleBroadphase.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btAxisSweep3.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDbvtBroadphase.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDbvt.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btMultiSapBroadphase.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btDefaultMotionState.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuickprof.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btDiscreteDynamicsWorld.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btDynamicsWorld.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btContactSolverInfo.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btSimpleDynamicsWorld.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btRigidBody.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btPoint2PointConstraint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btJacobianEntry.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btTypedConstraint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btSolverConstraint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btSolverBody.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btHingeConstraint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btConeTwistConstraint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btGeneric6DofConstraint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btSliderConstraint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btGeneric6DofSpringConstraint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btUniversalConstraint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btHinge2Constraint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btGearConstraint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btFixedConstraint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btSequentialImpulseConstraintSolver.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btConstraintSolver.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Vehicle/btRaycastVehicle.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Vehicle/btVehicleRaycaster.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Vehicle/btWheelInfo.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btActionInterface.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidDynamicsWorld.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btGjkEpa2.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vectormath_aos.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vecidx_aos.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/floatInVec.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/boolInVec.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vec_aos.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/quat_aos.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/mat_aos.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodySolvers.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolverBuffer_OpenCL.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolverLinkData_OpenCL.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/Shared/btSoftBodySolverData.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolverVertexData_OpenCL.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolverTriangleData_OpenCL.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolverLinkData_OpenCLSIMDAware.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolverVertexBuffer_OpenGL.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodySolverVertexBuffer.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolverOutputCLtoGL.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyRigidBodyCollisionConfiguration.h
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cl_cloth_demo.cpp:39:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cloth.h:194:3: warning: 'gluBuild2DMipmaps' is deprecated: first deprecated in OS X 10.9 - "Use glGenerateMipmap" [-Wdeprecated-declarations]
+o                gluBuild2DMipmaps(GL_TEXTURE_2D,4,512,256,GL_RGBA,GL_UNSIGNED_BYTE,image);
+o                ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cl_cloth_demo.cpp:38:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.h:27:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h:247:14: note: 'gluBuild2DMipmaps' declared here
+oextern GLint gluBuild2DMipmaps (GLenum target, GLint internalFormat, GLsizei width, GLsizei height, GLenum format, GLenum type, const void *data) OPENGL_DEPRECATED_MSG(10_0, 10_9, "Use glGenerateMipmap");
+o             ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cl_cloth_demo.cpp:53:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/btBulletDynamicsCommon.h:20:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/btBulletCollisionCommon.h:32:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexHullShape.h:76:15: warning: 'btConvexHullShape::project' hides overloaded virtual function [-Woverloaded-virtual]
+o        virtual void project(const btTransform& trans, const btVector3& dir, btScalar& minProj, btScalar& maxProj, btVector3& witnesPtMin,btVector3& witnesPtMax) const;
+o                     ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cl_cloth_demo.cpp:53:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/btBulletDynamicsCommon.h:20:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/btBulletCollisionCommon.h:26:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btBoxShape.h:19:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btPolyhedralConvexShape.h:20:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexInternalShape.h:19:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexShape.h:55:15: note: hidden overloaded virtual function 'btConvexShape::project' declared here: different number of parameters (4 vs 6)
+o        virtual void project(const btTransform& trans, const btVector3& dir, btScalar& min, btScalar& max) const;
+o                     ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cl_cloth_demo.cpp:55:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidDynamicsWorld.h:20:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h:27:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h:188:8: warning: unused variable 'sz' [-Wunused-variable]
+o                        int sz = sizeof(Cell);
+o                            ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cl_cloth_demo.cpp:56:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h:11:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vectormath_aos.h:695:39: warning: inline function 'Vectormath::Aos::select' is not defined [-Wundefined-inline]
+oVECTORMATH_FORCE_INLINE const Vector3 select( const Vector3 &vec0, const Vector3 &vec1, const boolInVec &select1 );
+o                                      ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cl_cloth_demo.cpp:56:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h:11:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vectormath_aos.h:2543:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vec_aos.h:681:12: note: used here
+o    return select( vec0, vec1, boolInVec(select1) );
+o           ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cl_cloth_demo.cpp:56:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h:11:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vectormath_aos.h:1648:36: warning: inline function 'Vectormath::Aos::select' is not defined [-Wundefined-inline]
+oVECTORMATH_FORCE_INLINE const Quat select( const Quat &quat0, const Quat &quat1, const boolInVec &select1 );
+o                                   ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cl_cloth_demo.cpp:56:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h:11:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vectormath_aos.h:2544:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/quat_aos.h:523:12: note: used here
+o    return select( quat0, quat1, boolInVec(select1) );
+o           ^
+o5 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cl_cloth_demo.cpp240"CompileC build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/cl_cloth_demo.o Demos/OpenCLClothDemo/cl_cloth_demo.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler6f0c2d413e1cb941^e14400423e1cb941^-6096"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cl_cloth_demo.cpp:39:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cloth.h:194:3: warning: 'gluBuild2DMipmaps' is deprecated: first deprecated in OS X 10.9 - "Use glGenerateMipmap" [-Wdeprecated-declarations]                gluBuild2DMipmaps(GL_TEXTURE_2D,4,512,256,GL_RGBA,GL_UNSIGNED_BYTE,image);                ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cl_cloth_demo.cpp:38:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.h:27:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h:247:14: note: 'gluBuild2DMipmaps' declared hereextern GLint gluBuild2DMipmaps (GLenum target, GLint internalFormat, GLsizei width, GLsizei height, GLenum format, GLenum type, const void *data) OPENGL_DEPRECATED_MSG(10_0, 10_9, "Use glGenerateMipmap");             ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cl_cloth_demo.cpp:53:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/btBulletDynamicsCommon.h:20:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/btBulletCollisionCommon.h:32:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexHullShape.h:76:15: warning: 'btConvexHullShape::project' hides overloaded virtual function [-Woverloaded-virtual]        virtual void project(const btTransform& trans, const btVector3& dir, btScalar& minProj, btScalar& maxProj, btVector3& witnesPtMin,btVector3& witnesPtMax) const;                     ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cl_cloth_demo.cpp:53:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/btBulletDynamicsCommon.h:20:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/btBulletCollisionCommon.h:26:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btBoxShape.h:19:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btPolyhedralConvexShape.h:20:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexInternalShape.h:19:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexShape.h:55:15: note: hidden overloaded virtual function 'btConvexShape::project' declared here: different number of parameters (4 vs 6)        virtual void project(const btTransform& trans, const btVector3& dir, btScalar& min, btScalar& max) const;                     ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cl_cloth_demo.cpp:55:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidDynamicsWorld.h:20:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h:27:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h:188:8: warning: unused variable 'sz' [-Wunused-variable]                        int sz = sizeof(Cell);                            ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cl_cloth_demo.cpp:56:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h:11:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vectormath_aos.h:695:39: warning: inline function 'Vectormath::Aos::select' is not defined [-Wundefined-inline]VECTORMATH_FORCE_INLINE const Vector3 select( const Vector3 &vec0, const Vector3 &vec1, const boolInVec &select1 );                                      ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cl_cloth_demo.cpp:56:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h:11:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vectormath_aos.h:2543:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vec_aos.h:681:12: note: used here    return select( vec0, vec1, boolInVec(select1) );           ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cl_cloth_demo.cpp:56:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h:11:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vectormath_aos.h:1648:36: warning: inline function 'Vectormath::Aos::select' is not defined [-Wundefined-inline]VECTORMATH_FORCE_INLINE const Quat select( const Quat &quat0, const Quat &quat1, const boolInVec &select1 );                                   ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cl_cloth_demo.cpp:56:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h:11:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vectormath_aos.h:2544:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/quat_aos.h:523:12: note: used here    return select( quat0, quat1, boolInVec(select1) );           ^5 warnings generated.5(36%IDEClangDiagnosticActivityLogMessage2@89"'gluBuild2DMipmaps' is deprecated: first deprecated in OS X 10.9 - "Use glGenerateMipmap"-421281345#18446744073709551615#0#2(2@130"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cl_cloth_demo.cpp:39:-421281345#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@111"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cl_cloth_demo.cpp0000000000000000^38#9#38#9#1303#0#21"Apple LLVM 5.0 Notice--2@33"'gluBuild2DMipmaps' declared here-421281345#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@162"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h0000000000000000^246#13#246#13#12001#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@101"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cloth.h0000000000000000^193#2#193#2#5235#0#12"Deprecations--2@62"'btConvexHullShape::project' hides overloaded virtual function-421281345#18446744073709551615#0#4(2@130"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cl_cloth_demo.cpp:53:-421281345#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@111"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cl_cloth_demo.cpp0000000000000000^52#9#52#9#1544#0#21"Apple LLVM 5.0 Notice--2@119"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/btBulletDynamicsCommon.h:20:-421281345#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@100"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/btBulletDynamicsCommon.h0000000000000000^19#9#19#9#1106#0#21"Apple LLVM 5.0 Notice--2@120"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/btBulletCollisionCommon.h:32:-421281345#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@101"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/btBulletCollisionCommon.h0000000000000000^31#9#31#9#1659#0#21"Apple LLVM 5.0 Notice--2@114"Hidden overloaded virtual function 'btConvexShape::project' declared here: different number of parameters (4 vs 6)-421281346#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@123"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexShape.h0000000000000000^54#14#54#14#2228#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@127"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexHullShape.h0000000000000000^75#14#75#14#2899#0#14"Semantic Issue--2@20"Unused variable 'sz'-421281346#18446744073709551615#0#3(2@130"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cl_cloth_demo.cpp:55:-421281346#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@111"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cl_cloth_demo.cpp0000000000000000^54#9#54#9#1616#0#21"Apple LLVM 5.0 Notice--2@136"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidDynamicsWorld.h:20:-421281346#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@117"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftRigidDynamicsWorld.h0000000000000000^19#9#19#9#1098#0#21"Apple LLVM 5.0 Notice--2@122"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h:27:-421281346#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@103"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h0000000000000000^26#9#26#9#1352#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@104"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h0000000000000000^187#7#187#7#4360#0#19"Unused Entity Issue--2@56"Inline function 'Vectormath::Aos::select' is not defined-421281346#18446744073709551615#0#3(2@130"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cl_cloth_demo.cpp:56:-421281346#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@111"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cl_cloth_demo.cpp0000000000000000^55#9#55#9#1670#0#21"Apple LLVM 5.0 Notice--2@117"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h:11:-421281346#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@98"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h0000000000000000^10#11#10#11#245#0#21"Apple LLVM 5.0 Notice--2@9"Used here-421281346#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@100"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vec_aos.h0000000000000000^680#11#680#11#21725#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@107"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vectormath_aos.h0000000000000000^694#38#694#38#22736#0#14"Semantic Issue--2@56"Inline function 'Vectormath::Aos::select' is not defined-421281346#18446744073709551615#0#3(2@130"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cl_cloth_demo.cpp:56:-421281346#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@111"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cl_cloth_demo.cpp0000000000000000^55#9#55#9#1670#0#21"Apple LLVM 5.0 Notice--2@117"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h:11:-421281346#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@98"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h0000000000000000^10#11#10#11#245#0#21"Apple LLVM 5.0 Notice--2@9"Used here-421281346#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@101"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/quat_aos.h0000000000000000^522#11#522#11#16169#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@107"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vectormath_aos.h0000000000000000^1647#35#1647#35#56493#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@111"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cl_cloth_demo.cpp0000000000000000^3054"CompileC build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/cl_cloth_demo.o Demos/OpenCLClothDemo/cl_cloth_demo.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/Debug/include -I/usr/local/include -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenGL -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/DerivedSources/x86_64 -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/cl_cloth_demo.d --serialize-diagnostics /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/cl_cloth_demo.dia -c /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/cl_cloth_demo.cpp -o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/cl_cloth_demo.o36"3EFA7596-3304-4F06-B0D5-D5FC36C4FF74-
+bF61ABEC9-6AAA-4464-A4BE-DBDD84D6C6CA
+
+CCompileC build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/clstuff.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/clstuff.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s421281345.175918
+e421281345.404332
+r1
+xCompileC
+xbuild/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/clstuff.o
+x/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/clstuff.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/clstuff.cpp
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/clstuff.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLUtils.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL/btOpenCLInclude.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btScalar.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/clstuff.cpp228"CompileC build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/clstuff.o Demos/OpenCLClothDemo/clstuff.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilere7172d413e1cb941^e48267413e1cb941^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/clstuff.cpp0000000000000000^3018"CompileC build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/clstuff.o Demos/OpenCLClothDemo/clstuff.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/Debug/include -I/usr/local/include -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenGL -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/DerivedSources/x86_64 -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/clstuff.d --serialize-diagnostics /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/clstuff.dia -c /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/clstuff.cpp -o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/clstuff.o36"974E9554-8D52-4ACC-BC1A-A54C655E0981-
+bF61ABEC9-6AAA-4464-A4BE-DBDD84D6C6CA
+
+CCompileC build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/gl_win.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s421281345.176155
+e421281345.377732
+r1
+xCompileC
+xbuild/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/gl_win.o
+x/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/clstuff.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.h
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:142:2: warning: 'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutSwapBuffers();
+o        ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:18:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.h:28:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:448:22: note: 'glutSwapBuffers' declared here
+oextern void APIENTRY glutSwapBuffers(void) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:143:2: warning: 'glutPostRedisplay' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutPostRedisplay();
+o        ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:18:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.h:28:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:444:22: note: 'glutPostRedisplay' declared here
+oextern void APIENTRY glutPostRedisplay(void) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:186:3: warning: 'glutPostRedisplay' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o  glutPostRedisplay();
+o  ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:18:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.h:28:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:444:22: note: 'glutPostRedisplay' declared here
+oextern void APIENTRY glutPostRedisplay(void) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:220:2: warning: 'gluPerspective' is deprecated: first deprecated in OS X 10.9 - "Use GLKMatrix4MakePerspective" [-Wdeprecated-declarations]
+o        gluPerspective(
+o        ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:18:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.h:27:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h:278:13: note: 'gluPerspective' declared here
+oextern void gluPerspective (GLdouble fovy, GLdouble aspect, GLdouble zNear, GLdouble zFar) OPENGL_DEPRECATED_MSG(10_0, 10_9, "Use GLKMatrix4MakePerspective");
+o            ^
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:229:2: warning: 'glutMainLoop' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutMainLoop();
+o        ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:18:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.h:28:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:438:22: note: 'glutMainLoop' declared here
+oextern void APIENTRY glutMainLoop(void) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:234:2: warning: 'glutInit' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutInit( &argc, argv );
+o        ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:18:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.h:28:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:431:22: note: 'glutInit' declared here
+oextern void APIENTRY glutInit(int *argcp, char **argv) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:236:2: warning: 'glutInitDisplayMode' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutInitDisplayMode( GLUT_DOUBLE | GLUT_RGBA | GLUT_DEPTH );
+o        ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:18:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.h:28:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:432:22: note: 'glutInitDisplayMode' declared here
+oextern void APIENTRY glutInitDisplayMode(unsigned int mode) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:237:2: warning: 'glutInitWindowSize' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutInitWindowSize( windowWidth, windowHeight );    
+o        ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:18:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.h:28:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:437:22: note: 'glutInitWindowSize' declared here
+oextern void APIENTRY glutInitWindowSize(int width, int height) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:238:2: warning: 'glutCreateWindow' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutCreateWindow ("OpenCL Renderer");
+o        ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:18:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.h:28:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:441:21: note: 'glutCreateWindow' declared here
+oextern int APIENTRY glutCreateWindow(const char *title) OPENGL_DEPRECATED(10_0, 10_9);
+o                    ^
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:246:2: warning: 'glutDisplayFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutDisplayFunc(display); 
+o        ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:18:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.h:28:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:505:22: note: 'glutDisplayFunc' declared here
+oextern void APIENTRY glutDisplayFunc(void (*func)(void)) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:247:2: warning: 'glutReshapeFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutReshapeFunc(reshape);
+o        ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:18:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.h:28:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:506:22: note: 'glutReshapeFunc' declared here
+oextern void APIENTRY glutReshapeFunc(void (*func)(int width, int height)) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:248:2: warning: 'glutKeyboardFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutKeyboardFunc(keyboard);
+o        ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:18:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.h:28:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:507:22: note: 'glutKeyboardFunc' declared here
+oextern void APIENTRY glutKeyboardFunc(void (*func)(unsigned char key, int x, int y)) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:249:2: warning: 'glutMouseFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutMouseFunc(mouse);
+o        ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:18:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.h:28:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:508:22: note: 'glutMouseFunc' declared here
+oextern void APIENTRY glutMouseFunc(void (*func)(int button, int state, int x, int y)) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:250:2: warning: 'glutMotionFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutMotionFunc(motion);
+o        ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:18:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.h:28:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:509:22: note: 'glutMotionFunc' declared here
+oextern void APIENTRY glutMotionFunc(void (*func)(int x, int y)) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:54:15: warning: unused variable 'glProgram' [-Wunused-variable]
+ostatic GLuint glProgram;
+o              ^
+o15 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp226"CompileC build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/gl_win.o Demos/OpenCLClothDemo/gl_win.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilera2272d413e1cb941^1cb360413e1cb941^-11671"/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:142:2: warning: 'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutSwapBuffers();        ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:18:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.h:28:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:448:22: note: 'glutSwapBuffers' declared hereextern void APIENTRY glutSwapBuffers(void) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:143:2: warning: 'glutPostRedisplay' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutPostRedisplay();        ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:18:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.h:28:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:444:22: note: 'glutPostRedisplay' declared hereextern void APIENTRY glutPostRedisplay(void) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:186:3: warning: 'glutPostRedisplay' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]  glutPostRedisplay();  ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:18:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.h:28:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:444:22: note: 'glutPostRedisplay' declared hereextern void APIENTRY glutPostRedisplay(void) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:220:2: warning: 'gluPerspective' is deprecated: first deprecated in OS X 10.9 - "Use GLKMatrix4MakePerspective" [-Wdeprecated-declarations]        gluPerspective(        ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:18:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.h:27:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h:278:13: note: 'gluPerspective' declared hereextern void gluPerspective (GLdouble fovy, GLdouble aspect, GLdouble zNear, GLdouble zFar) OPENGL_DEPRECATED_MSG(10_0, 10_9, "Use GLKMatrix4MakePerspective");            ^/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:229:2: warning: 'glutMainLoop' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutMainLoop();        ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:18:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.h:28:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:438:22: note: 'glutMainLoop' declared hereextern void APIENTRY glutMainLoop(void) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:234:2: warning: 'glutInit' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutInit( &argc, argv );        ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:18:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.h:28:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:431:22: note: 'glutInit' declared hereextern void APIENTRY glutInit(int *argcp, char **argv) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:236:2: warning: 'glutInitDisplayMode' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutInitDisplayMode( GLUT_DOUBLE | GLUT_RGBA | GLUT_DEPTH );        ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:18:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.h:28:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:432:22: note: 'glutInitDisplayMode' declared hereextern void APIENTRY glutInitDisplayMode(unsigned int mode) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:237:2: warning: 'glutInitWindowSize' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutInitWindowSize( windowWidth, windowHeight );            ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:18:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.h:28:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:437:22: note: 'glutInitWindowSize' declared hereextern void APIENTRY glutInitWindowSize(int width, int height) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:238:2: warning: 'glutCreateWindow' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutCreateWindow ("OpenCL Renderer");        ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:18:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.h:28:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:441:21: note: 'glutCreateWindow' declared hereextern int APIENTRY glutCreateWindow(const char *title) OPENGL_DEPRECATED(10_0, 10_9);                    ^/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:246:2: warning: 'glutDisplayFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutDisplayFunc(display);         ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:18:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.h:28:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:505:22: note: 'glutDisplayFunc' declared hereextern void APIENTRY glutDisplayFunc(void (*func)(void)) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:247:2: warning: 'glutReshapeFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutReshapeFunc(reshape);        ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:18:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.h:28:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:506:22: note: 'glutReshapeFunc' declared hereextern void APIENTRY glutReshapeFunc(void (*func)(int width, int height)) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:248:2: warning: 'glutKeyboardFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutKeyboardFunc(keyboard);        ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:18:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.h:28:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:507:22: note: 'glutKeyboardFunc' declared hereextern void APIENTRY glutKeyboardFunc(void (*func)(unsigned char key, int x, int y)) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:249:2: warning: 'glutMouseFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutMouseFunc(mouse);        ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:18:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.h:28:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:508:22: note: 'glutMouseFunc' declared hereextern void APIENTRY glutMouseFunc(void (*func)(int button, int state, int x, int y)) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:250:2: warning: 'glutMotionFunc' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutMotionFunc(motion);        ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:18:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.h:28:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:509:22: note: 'glutMotionFunc' declared hereextern void APIENTRY glutMotionFunc(void (*func)(int x, int y)) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp:54:15: warning: unused variable 'glProgram' [-Wunused-variable]static GLuint glProgram;              ^15 warnings generated.15(36%IDEClangDiagnosticActivityLogMessage2@62"'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9-421281345#18446744073709551615#0#1(2@31"'glutSwapBuffers' declared here-421281345#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h0000000000000000^447#21#447#21#13979#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@104"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp0000000000000000^141#1#141#1#3416#0#12"Deprecations--2@64"'glutPostRedisplay' is deprecated: first deprecated in OS X 10.9-421281345#18446744073709551615#0#1(2@33"'glutPostRedisplay' declared here-421281345#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h0000000000000000^443#21#443#21#13749#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@104"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp0000000000000000^142#1#142#1#3437#0#12"Deprecations--2@64"'glutPostRedisplay' is deprecated: first deprecated in OS X 10.9-421281345#18446744073709551615#0#1(2@33"'glutPostRedisplay' declared here-421281345#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h0000000000000000^443#21#443#21#13749#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@104"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp0000000000000000^185#2#185#2#4163#0#12"Deprecations--2@95"'gluPerspective' is deprecated: first deprecated in OS X 10.9 - "Use GLKMatrix4MakePerspective"-421281345#18446744073709551615#0#1(2@30"'gluPerspective' declared here-421281345#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@162"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h0000000000000000^277#12#277#12#15841#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@104"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp0000000000000000^219#1#219#1#4755#0#12"Deprecations--2@59"'glutMainLoop' is deprecated: first deprecated in OS X 10.9-421281345#18446744073709551615#0#1(2@28"'glutMainLoop' declared here-421281345#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h0000000000000000^437#21#437#21#13367#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@104"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp0000000000000000^228#1#228#1#4878#0#12"Deprecations--2@55"'glutInit' is deprecated: first deprecated in OS X 10.9-421281345#18446744073709551615#0#1(2@24"'glutInit' declared here-421281345#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h0000000000000000^430#21#430#21#12845#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@104"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp0000000000000000^233#1#233#1#4944#0#12"Deprecations--2@66"'glutInitDisplayMode' is deprecated: first deprecated in OS X 10.9-421281345#18446744073709551615#0#1(2@35"'glutInitDisplayMode' declared here-421281345#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h0000000000000000^431#21#431#21#12931#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@104"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp0000000000000000^235#1#235#1#4973#0#12"Deprecations--2@65"'glutInitWindowSize' is deprecated: first deprecated in OS X 10.9-421281345#18446744073709551615#0#1(2@34"'glutInitWindowSize' declared here-421281345#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h0000000000000000^436#21#436#21#13273#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@104"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp0000000000000000^236#1#236#1#5036#0#12"Deprecations--2@63"'glutCreateWindow' is deprecated: first deprecated in OS X 10.9-421281345#18446744073709551615#0#1(2@32"'glutCreateWindow' declared here-421281345#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h0000000000000000^440#20#440#20#13465#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@104"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp0000000000000000^237#1#237#1#5091#0#12"Deprecations--2@62"'glutDisplayFunc' is deprecated: first deprecated in OS X 10.9-421281345#18446744073709551615#0#1(2@31"'glutDisplayFunc' declared here-421281345#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h0000000000000000^504#21#504#21#17474#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@104"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp0000000000000000^245#1#245#1#5239#0#12"Deprecations--2@62"'glutReshapeFunc' is deprecated: first deprecated in OS X 10.9-421281345#18446744073709551615#0#1(2@31"'glutReshapeFunc' declared here-421281345#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h0000000000000000^505#21#505#21#17562#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@104"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp0000000000000000^246#1#246#1#5268#0#12"Deprecations--2@63"'glutKeyboardFunc' is deprecated: first deprecated in OS X 10.9-421281345#18446744073709551615#0#1(2@32"'glutKeyboardFunc' declared here-421281345#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h0000000000000000^506#21#506#21#17667#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@104"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp0000000000000000^247#1#247#1#5296#0#12"Deprecations--2@60"'glutMouseFunc' is deprecated: first deprecated in OS X 10.9-421281345#18446744073709551615#0#1(2@29"'glutMouseFunc' declared here-421281345#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h0000000000000000^507#21#507#21#17783#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@104"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp0000000000000000^248#1#248#1#5326#0#12"Deprecations--2@61"'glutMotionFunc' is deprecated: first deprecated in OS X 10.9-421281345#18446744073709551615#0#1(2@30"'glutMotionFunc' declared here-421281345#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h0000000000000000^508#21#508#21#17900#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@104"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp0000000000000000^249#1#249#1#5350#0#12"Deprecations--2@27"Unused variable 'glProgram'-421281345#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@104"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp0000000000000000^53#14#53#14#1507#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@104"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp0000000000000000^3012"CompileC build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/gl_win.o Demos/OpenCLClothDemo/gl_win.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/Debug/include -I/usr/local/include -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/SharedOpenCL -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenGL -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/DerivedSources/x86_64 -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/gl_win.d --serialize-diagnostics /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/gl_win.dia -c /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/Demos/OpenCLClothDemo/gl_win.cpp -o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/gl_win.o36"20DD6659-3BD6-472A-9424-D520CD055412-
+bF61ABEC9-6AAA-4464-A4BE-DBDD84D6C6CA
+
+CLd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/Debug/AppOpenCLClothDemo_Apple normal x86_64
+s421281346.001726
+e421281346.106922
+r1
+xLd
+x/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/Debug/AppOpenCLClothDemo_Apple
+xnormal
+xx86_64
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/AppOpenCLClothDemo_Apple.LinkFileList
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/cl_cloth_demo.o
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/clstuff.o
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/gl_win.o
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/btOpenCLUtils.o
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenGL/Debug/libOpenGLSupport.a
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/Debug/libBulletSoftBodySolvers_OpenCL_Apple.a
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletMultiThreaded/Debug/libBulletMultiThreaded.a
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/Debug/libBulletSoftBody.a
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletDynamics/Debug/libBulletDynamics.a
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletCollision/Debug/libBulletCollision.a
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/Debug/libLinearMath.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenCL.framework/OpenCL
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/GLUT
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AGL.framework/AGL
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libpthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Link /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/Debug/AppOpenCLClothDemo_Apple81"Ld build/Demos/OpenCLClothDemo/Apple/Debug/AppOpenCLClothDemo_Apple normal x86_641c7d00423e1cb941^815f1b423e1cb941^---0#0#1#--2275"Ld build/Demos/OpenCLClothDemo/Apple/Debug/AppOpenCLClothDemo_Apple normal x86_64    cd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/Debug -F/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/Debug -filelist /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/AppOpenCLClothDemo_Apple.LinkFileList -mmacosx-version-min=10.9 -Wl,-search_paths_first -Wl,-headerpad_max_install_names /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenGL/Debug/libOpenGLSupport.a /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/Debug/libBulletSoftBodySolvers_OpenCL_Apple.a /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletMultiThreaded/Debug/libBulletMultiThreaded.a /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletSoftBody/Debug/libBulletSoftBody.a /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletDynamics/Debug/libBulletDynamics.a /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletCollision/Debug/libBulletCollision.a /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/LinearMath/Debug/libLinearMath.a -framework OpenCL -framework GLUT -framework OpenGL -framework AGL -lpthread -Xlinker -dependency_info -Xlinker /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Objects-normal/x86_64/AppOpenCLClothDemo_Apple_dependency_info.dat -o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/Debug/AppOpenCLClothDemo_Apple36"E9CC8988-DBF8-40FB-9435-3B63DEFAAD48-
+bF61ABEC9-6AAA-4464-A4BE-DBDD84D6C6CA
+
+CPhaseScriptExecution CMake\ PostBuild\ Rules /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Script-3EC6B7B1F1FC46F584143D86.sh
+s421281545.226900
+e421281545.243986
+r1
+xPhaseScriptExecution
+xCMake PostBuild Rules
+x/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Script-3EC6B7B1F1FC46F584143D86.sh
+o/Applications/CMake\ 2.8-12.app/Contents/bin/cmake -E copy_if_different /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/bullet_logo.png /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Run custom shell script 'CMake PostBuild Rules'171"PhaseScriptExecution CMake\ PostBuild\ Rules build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Script-3EC6B7B1F1FC46F584143D86.sh43533a093f1cb941^012f3f093f1cb941^-252"/Applications/CMake\ 2.8-12.app/Contents/bin/cmake -E copy_if_different /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/bullet_logo.png /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple1(21%IDEActivityLogMessage2@252"/Applications/CMake\ 2.8-12.app/Contents/bin/cmake -E copy_if_different /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/bullet_logo.png /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple-421281545#0#252#-0#-----0#0#1#--451"PhaseScriptExecution CMake\ PostBuild\ Rules build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Script-3EC6B7B1F1FC46F584143D86.sh    cd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704    /bin/sh -c /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/Demos/OpenCLClothDemo/Apple/BULLET_PHYSICS.build/Debug/AppOpenCLClothDemo_Apple.build/Script-3EC6B7B1F1FC46F584143D86.sh36"48478B01-1555-40D4-9849-DEC9B1F39B5D-
+b5B9E5DBD-ACAB-4213-ACA2-74F2E519C354
+

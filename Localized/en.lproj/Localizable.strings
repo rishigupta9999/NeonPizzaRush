@@ -1,0 +1,186 @@
+﻿/* 
+ Localizable.strings
+ Default: ENGLISH (.en) - PEFIGS-CJK [e]
+ Locale : ENGLISH (.en) - PEFIGS-CJK [e]
+ Project: Neon Run21
+ (c) Neon Games LLC, 2012, Sunnyvale, CA, United States
+ 
+ UTF-8 format: Use \n to start next line. \n\n to add an empty line.
+ */
+
+// ------------------------------------------ RUN 21 SKU ----------------------------------------------------------------------------------------------------------------------------------------------------
+/* 
+ Tutorials have line width 46 character, up to 6 lines total 
+ LCD Stingers are up to 8 characters: may need to expand for localization.
+ Prompts have no size limitations and should not have \n escape characters.
+ buttons have line width 7 characters, up to 2 lines total.
+ */
+
+// Configuration Options
+"LS_Options"		= "Options";
+// Sound Effects.  Can be abbreviated if commonplace as in English/Japanese
+"LS_SFX"			= "Sound\nEffects";	
+// Out of Game Extra Features
+"LS_Extras"			= "Extras";	
+// Return to the current level
+"LS_Resume"			= "Resume";
+// Leave the current level.
+"LS_Leave"			= "Leave";
+// Reattempt the current level.
+"LS_Retry"			= "Retry";	
+// As in the credits for a film or movie.
+"LS_Credits"		= "Credits";
+// Erase and Clear all progress of the game to start over.
+"LS_ClearData"		= "Clear\nData";
+// App Store Description - do not translate Neon or Run21.
+"LS_AppStoreDesc"	= "Neon Run21 simplifies blackjack (21) into an exciting new card game!";
+// A perfect game by the player [ SHORT WORD ]
+"LS_Perfect"		= "Perfect";
+// Player won the hand, [ SHORT WORD ]
+"LS_Winner"			= "Win!";
+// Ready to play the game [ SHORT WORD ]
+"LS_Ready"			= "Ready!";
+// Lost the game [ SHORT WORD ]
+"LS_Bankrupt"		= "Lost";
+// Losing a hand of blackjack [ SHORT WORD ]
+"LS_Bust"			= "Bust";
+// This is a "Simple" or "Easy" Game.
+"LS_Key_Simple"		= "Simple";
+// To go back to the pervious menu.
+"LS_Back"			= "Back";
+
+"LS_Yes"			= "Yes";
+"LS_No"				= "No";
+"LS_Music"			= "Music";
+"LS_MainMenu"		= "Main\nMenu";
+"LS_Website"		= "Website";
+
+"LS_Go"                             = "<B>Go</B>";
+"LS_Review"                         = "<B>Review</B>";
+
+
+"LS_Prompt_RateApp_Cancel"          = "Not Now";
+"LS_Prompt_RateApp_OK"              = "Sure!";
+"LS_Prompt_RateApp_Never"           = "Don't Ask Again";
+
+// In App Purchase Errors           = "Translated String."                             Store Kit Error Code               Documentation from apple developer kit
+"LS_IAP_ERROR_UNKNOWN"              = "Purchase could not be completed.";           // SKErrorUnknown                   - Indicates that an unknown or unexpected error occurred.
+"LS_IAP_ERROR_CLIENTINVALID"        = "You have already purchased this item.";      // SKErrorClientInvalid             - Indicates that the client is not allowed to perform the attempted action.
+"LS_IAP_ERROR_PAYMENTCANCELED"      = "Purchase canceled.";                         // SKErrorPaymentCancelled          - Indicates that the user cancelled a payment request.
+"LS_IAP_ERROR_PAYMENTINVALID"       = "Please revalidate your billing info.";       // SKErrorPaymentInvalid            - Indicates that one of the payment parameters was not recognized by the Apple App Store.
+"LS_IAP_ERROR_PAYMENTNOTALLOWED"    = "Account not authorized for purchases.";      // SKErrorPaymentNotAllowed         - Indicates that the user is not allowed to authorize payments.
+"LS_IAP_ERROR_PRODUCTNOTAVAILABLE"  = "Product no longer available for purchase";   // SKErrorStoreProductNotAvailable  - Indicates that the requested product is not available in the store.
+"LS_IAP_ERROR_TITLE"                = "Purchase Error";
+"LS_IAP_ERROR_RECHECKFORPRODUCTS"   = "Could not connect to the Internet. Please check your network settings, or try again later.";
+
+// iAP Strings
+"LS_IAP_PURCHASE"                   = "Purchase %@ for %@";
+"LS_IAP_SUCCESS"                    = "Successfully activated %@";
+"LS_RemoveAds"                      = "Remove Ads";                                 // iAP Title
+"LS_RemoveAllAds"                   = "Remove All Ads.";                            // Sentence Fragment for iAP
+"LS_OK"                             = "OK";
+"LS_Buy"                            = "<B>Buy</B>";
+"LS_Restore"                        = "<B>Restore</B>";
+
+"LS_Marathon_Play"                  = "Play";
+"LS_Tap_Here"                       = "Tap Here to Play FREE!";
+
+"LS_Connecting"                     = "Connecting...";
+
+"LS_Login"      = "Login";
+"LS_Logout"     = "Log Out";
+"LS_Community"  = "Community";
+
+"LS_Facebook_Relogin"               = "Your Facebook login credentials are invalid.  Please relogin to Facebook in Settings";
+
+"LS_FacebookErrorTitle" = "Error handling request";
+
+"LS_Level"                   = "Level";
+"LS_Loading"                 = "Loading...";
+
+"LS_Tip"                     = "TIP:";
+
+
+//--------------------------------------- END PATCH 1.15 -------------------------
+"LS_Overlay_Audio"           = "Turn off sound and music here";
+"LS_Overlay_Levels"          = "Tap here to go to the next group of levels";
+"LS_Overlay_EnterLevel"      = "Enter a level by tapping one of these";
+
+"LS_Tip_PerformSpin"         = "Swipe your finger over the pizza to add cheese & toppings";
+
+"LS_Store_Unlocked"          = "Unlocked after <color=0xFFE845>Level %d</color>";
+"LS_Low"                     = "Low";
+"LS_Random"                  = "Random";
+
+"LS_Powerup_Quantity"        = "<B>You have:\t<color=0xFFE845>%d</color> + <color=0xFFE845>%d</color> upgrades\n\Total: <color=0xFFE845>%@/sec</color>, <color=0xFFE845>%@</color> all-time</B>";
+"LS_Powerup_Purchase"        = "<B>Get <color=0xFFE845>%d</color>\n%@</B>";
+
+"LS_LevelSelect_Unlock_Room" = "Or beat Level %d to unlock the next room";
+"LS_LevelSelect_Unlock_Wait" = "Or wait %@ to unlock.";
+
+"LS_RestorePurchases"        = "Restore Purchases";
+"LS_RestorePurchasesText"    = "Restore your previous purchases?";
+"LS_Cancel"                  = "Cancel";
+
+"LS_AnyPurchaseRemovesAds"   = "<B>Any purchase\nremoves ads</B>";
+
+"LS_TapToContinue"           = "<b>(Tap anywhere to continue)</b>";
+
+"LS_Pizza"                   = "Pizza";
+"LS_Pizzas"                  = "Pizzas";
+
+"LS_PizzasPerSecond"         = "<B>Increase:<color=0xFFE845>%.1f</color> Pizzas/second</B>";
+"LS_TotalRegenRate"          = "per second: %@";
+
+"LS_Extras"                  = "<B>Extras</B>";
+"LS_Booster"                 = "<B>Booster</B>";
+"LS_Vault"                   = "<B>Vault</B>";
+"LS_BoosterDescription"      = "Pizzas are made <B><color=0xFFD500>4x as fast</color></B>!";
+"LS_ReviewDescription"       = "Review us and <B><color=0xFFD500>double</color></B> your pizzas.";
+
+"LS_Upgrade_Min_Quantity"    = "<B>You need <color=0xFFE845>%d %@s</color> to upgrade</B>";
+"LS_Upgrade_SpinIncrement"   = "<B><color=0xFFE845>+%.0f pizzas</color> for each one made by hand</B>";
+"LS_Upgrade_SingleMultiplier"= "<B>Each %@ makes <color=0xFFE845>%.0fx as many pizzas</color></B>";
+"LS_Upgrade_GlobalMultiplier"= "<B>Increase <color=0xFFE845>total Pizzas/second</color> by <color=0xFFE845>%2d%%</color></B>";
+"LS_Upgrade_SpinMultiplier"  = "<B><color=0xFFE845>+%d%%</color> of your Pizzas/second<color=0xFFE845> for each one made by hand</color></B>";
+
+"LS_24_Hour_Notification"    = "Your pizzas are getting cold. Come back and spin some dough!";
+
+"LS_Prompt_RateApp_Title"    = "Rate our app and double your pizzas!";
+"LS_RatingAwardMessage"      = "Thanks for rating, you doubled your pizzas!";
+
+"LS_CrystalPizza_Regen"      = "You found a Crystal Pizza!\n<B><color=0xFFFFFF>%dx</color></B> pizzas for <B><color=0xFFFFFF>%d seconds</color></B>";
+"LS_CrystalPizza_Quantity"   = "You found a Crystal Pizza!\nGot <B><color=0xFFFFFF>%ld</color></B> Pizzas";
+
+// ----------------------- Powerups ------------------------------
+"LS_Powerup_GoldenRollingPin"   = "Golden Rolling Pin";
+"LS_Powerup_GoldenRollingPin_Description" = "Keeps up with inflation!";
+
+"LS_Powerup_MarinaraRig"  = "Marinara Rig";
+"LS_Powerup_MarinaraRig_Description" = "There will be sauce.";
+
+"LS_Powerup_CowPasture"   = "Cow Pasture";
+"LS_Powerup_CowPasture_Description" = "Fair Trade cheese!";
+
+"LS_Powerup_PizzaATM"   = "Pizza ATM";
+"LS_Powerup_PizzaATM_Description" = "Free Pizzas + No Fees!";
+
+"LS_Powerup_3DPrintedPizzas" = "3D Pizza Printer";
+"LS_Powerup_3DPrintedPizzas_Description" = "Pays for itself in 80 years.";
+
+"LS_Powerup_MoonMine" = "Lunar Cheese Mine";
+"LS_Powerup_MoonMine_Description" = "When all the cows on Earth just aren't enough...";
+
+"LS_Powerup_PepperoniumAccelerator" = "Pepperonium Accelerator";
+"LS_Powerup_PepperoniumAccelerator_Description" = "Creates the fundamental pizza element from the fabric of reality";
+
+"LS_Powerup_Pizzamogrifier" = "Pizzamogrifier";
+"LS_Powerup_Pizzamogrifier_Description" = "Turns everything you own into delicious pizza";
+
+// ------------------------------------------ NEON ENGINE ----------------------------------------------------------------------------------------------------------------------------------------------------
+"LS_LANGUAGE_CODE"  = "_en";
+"LS_EmptyString"	= " ";				// An empty string
+
+// Keywords 1.7: (us) black,jack,patience,window,21,3d,club,card,happy,game,credit,sams,cool,wheel,learn,8,math,7,online,2
+// Keywords 1.8: (us) black,jack,patience,window,7,8,21,2,3d,big,credit,club,card,happy,game,go,fish,sams,wheel,fun,chase
+// ------------------------------------------ END NEON ENGINE ------------------------------------------------------------------------------------------------------------------------------------------------

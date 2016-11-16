@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>application-identifier</key>
+	<string>3586FEJHN7.neongames.SparkParticles</string>
+	<key>com.apple.developer.team-identifier</key>
+	<string>HM9BV39ST4</string>
+	<key>get-task-allow</key>
+	<true/>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>3586FEJHN7.neongames.SparkParticles</string>
+	</array>
+</dict>
+</plist>

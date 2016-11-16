@@ -1,0 +1,692 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		5737C55019552CAA00BC241D /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5737C54F19552CAA00BC241D /* Cocoa.framework */; };
+		5737C55A19552CAA00BC241D /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5737C55819552CAA00BC241D /* InfoPlist.strings */; };
+		5737C55C19552CAA00BC241D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5737C55B19552CAA00BC241D /* main.m */; };
+		5737C56019552CAA00BC241D /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 5737C55E19552CAA00BC241D /* Credits.rtf */; };
+		5737C56319552CAA00BC241D /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5737C56219552CAA00BC241D /* AppDelegate.m */; };
+		5737C56619552CAA00BC241D /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5737C56419552CAA00BC241D /* MainMenu.xib */; };
+		5737C56819552CAA00BC241D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5737C56719552CAA00BC241D /* Images.xcassets */; };
+		5737C56F19552CAA00BC241D /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5737C56E19552CAA00BC241D /* XCTest.framework */; };
+		5737C57019552CAA00BC241D /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5737C54F19552CAA00BC241D /* Cocoa.framework */; };
+		5737C57819552CAA00BC241D /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5737C57619552CAA00BC241D /* InfoPlist.strings */; };
+		5737C57A19552CAA00BC241D /* ParticleSystemMacOSXTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5737C57919552CAA00BC241D /* ParticleSystemMacOSXTests.m */; };
+		5737C5C719552D1400BC241D /* SPK_BufferHandler.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5737C58519552D1400BC241D /* SPK_BufferHandler.cpp */; };
+		5737C5C819552D1400BC241D /* SPK_DEF.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5737C58619552D1400BC241D /* SPK_DEF.cpp */; };
+		5737C5C919552D1400BC241D /* SPK_Emitter.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5737C58719552D1400BC241D /* SPK_Emitter.cpp */; };
+		5737C5CA19552D1400BC241D /* SPK_Factory.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5737C58819552D1400BC241D /* SPK_Factory.cpp */; };
+		5737C5CB19552D1400BC241D /* SPK_Group.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5737C58919552D1400BC241D /* SPK_Group.cpp */; };
+		5737C5CC19552D1400BC241D /* SPK_Interpolator.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5737C58A19552D1400BC241D /* SPK_Interpolator.cpp */; };
+		5737C5CD19552D1400BC241D /* SPK_Model.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5737C58B19552D1400BC241D /* SPK_Model.cpp */; };
+		5737C5CE19552D1400BC241D /* SPK_Modifier.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5737C58C19552D1400BC241D /* SPK_Modifier.cpp */; };
+		5737C5CF19552D1400BC241D /* SPK_Particle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5737C58D19552D1400BC241D /* SPK_Particle.cpp */; };
+		5737C5D019552D1400BC241D /* SPK_Registerable.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5737C58E19552D1400BC241D /* SPK_Registerable.cpp */; };
+		5737C5D119552D1400BC241D /* SPK_Renderer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5737C58F19552D1400BC241D /* SPK_Renderer.cpp */; };
+		5737C5D219552D1400BC241D /* SPK_System.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5737C59019552D1400BC241D /* SPK_System.cpp */; };
+		5737C5D319552D1400BC241D /* SPK_Transformable.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5737C59119552D1400BC241D /* SPK_Transformable.cpp */; };
+		5737C5D419552D1400BC241D /* SPK_Vector3D.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5737C59219552D1400BC241D /* SPK_Vector3D.cpp */; };
+		5737C5D519552D1400BC241D /* SPK_Zone.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5737C59319552D1400BC241D /* SPK_Zone.cpp */; };
+		5737C5D619552D1400BC241D /* SPK_NormalEmitter.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5737C59619552D1400BC241D /* SPK_NormalEmitter.cpp */; };
+		5737C5D719552D1400BC241D /* SPK_RandomEmitter.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5737C59719552D1400BC241D /* SPK_RandomEmitter.cpp */; };
+		5737C5D819552D1400BC241D /* SPK_SphericEmitter.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5737C59819552D1400BC241D /* SPK_SphericEmitter.cpp */; };
+		5737C5D919552D1400BC241D /* SPK_StraightEmitter.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5737C59919552D1400BC241D /* SPK_StraightEmitter.cpp */; };
+		5737C5DA19552D1400BC241D /* SPK_Collision.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5737C59B19552D1400BC241D /* SPK_Collision.cpp */; };
+		5737C5DB19552D1400BC241D /* SPK_Destroyer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5737C59C19552D1400BC241D /* SPK_Destroyer.cpp */; };
+		5737C5DC19552D1400BC241D /* SPK_LinearForce.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5737C59D19552D1400BC241D /* SPK_LinearForce.cpp */; };
+		5737C5DD19552D1400BC241D /* SPK_ModifierGroup.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5737C59E19552D1400BC241D /* SPK_ModifierGroup.cpp */; };
+		5737C5DE19552D1400BC241D /* SPK_Obstacle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5737C59F19552D1400BC241D /* SPK_Obstacle.cpp */; };
+		5737C5DF19552D1400BC241D /* SPK_PointMass.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5737C5A019552D1400BC241D /* SPK_PointMass.cpp */; };
+		5737C5E019552D1400BC241D /* SPK_Vortex.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5737C5A119552D1400BC241D /* SPK_Vortex.cpp */; };
+		5737C5E119552D1400BC241D /* SPK_Oriented3DRendererInterface.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5737C5A319552D1400BC241D /* SPK_Oriented3DRendererInterface.cpp */; };
+		5737C5E219552D1400BC241D /* SPK_QuadRendererInterface.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5737C5A419552D1400BC241D /* SPK_QuadRendererInterface.cpp */; };
+		5737C5E319552D1400BC241D /* SPK_AABox.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5737C5A619552D1400BC241D /* SPK_AABox.cpp */; };
+		5737C5E419552D1400BC241D /* SPK_Cylinder.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5737C5A719552D1400BC241D /* SPK_Cylinder.cpp */; };
+		5737C5E519552D1400BC241D /* SPK_Line.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5737C5A819552D1400BC241D /* SPK_Line.cpp */; };
+		5737C5E619552D1400BC241D /* SPK_Plane.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5737C5A919552D1400BC241D /* SPK_Plane.cpp */; };
+		5737C5E719552D1400BC241D /* SPK_Point.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5737C5AA19552D1400BC241D /* SPK_Point.cpp */; };
+		5737C5E819552D1400BC241D /* SPK_Ring.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5737C5AB19552D1400BC241D /* SPK_Ring.cpp */; };
+		5737C5E919552D1400BC241D /* SPK_Sphere.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5737C5AC19552D1400BC241D /* SPK_Sphere.cpp */; };
+		5737C5FD19552D1400BC241D /* SPK_GL_All.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5737C5C419552D1400BC241D /* SPK_GL_All.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		5737C57119552CAA00BC241D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 5737C54419552CAA00BC241D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 5737C54B19552CAA00BC241D;
+			remoteInfo = ParticleSystemMacOSX;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		5737C54C19552CAA00BC241D /* ParticleSystemMacOSX.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ParticleSystemMacOSX.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5737C54F19552CAA00BC241D /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		5737C55219552CAA00BC241D /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+		5737C55319552CAA00BC241D /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		5737C55419552CAA00BC241D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		5737C55719552CAA00BC241D /* ParticleSystemMacOSX-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ParticleSystemMacOSX-Info.plist"; sourceTree = "<group>"; };
+		5737C55919552CAA00BC241D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		5737C55B19552CAA00BC241D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		5737C55D19552CAA00BC241D /* ParticleSystemMacOSX-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ParticleSystemMacOSX-Prefix.pch"; sourceTree = "<group>"; };
+		5737C55F19552CAA00BC241D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
+		5737C56119552CAA00BC241D /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		5737C56219552CAA00BC241D /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		5737C56519552CAA00BC241D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		5737C56719552CAA00BC241D /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		5737C56D19552CAA00BC241D /* ParticleSystemMacOSXTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ParticleSystemMacOSXTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		5737C56E19552CAA00BC241D /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		5737C57519552CAA00BC241D /* ParticleSystemMacOSXTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ParticleSystemMacOSXTests-Info.plist"; sourceTree = "<group>"; };
+		5737C57719552CAA00BC241D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		5737C57919552CAA00BC241D /* ParticleSystemMacOSXTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ParticleSystemMacOSXTests.m; sourceTree = "<group>"; };
+		5737C58519552D1400BC241D /* SPK_BufferHandler.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SPK_BufferHandler.cpp; sourceTree = "<group>"; };
+		5737C58619552D1400BC241D /* SPK_DEF.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SPK_DEF.cpp; sourceTree = "<group>"; };
+		5737C58719552D1400BC241D /* SPK_Emitter.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SPK_Emitter.cpp; sourceTree = "<group>"; };
+		5737C58819552D1400BC241D /* SPK_Factory.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SPK_Factory.cpp; sourceTree = "<group>"; };
+		5737C58919552D1400BC241D /* SPK_Group.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SPK_Group.cpp; sourceTree = "<group>"; };
+		5737C58A19552D1400BC241D /* SPK_Interpolator.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SPK_Interpolator.cpp; sourceTree = "<group>"; };
+		5737C58B19552D1400BC241D /* SPK_Model.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SPK_Model.cpp; sourceTree = "<group>"; };
+		5737C58C19552D1400BC241D /* SPK_Modifier.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SPK_Modifier.cpp; sourceTree = "<group>"; };
+		5737C58D19552D1400BC241D /* SPK_Particle.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SPK_Particle.cpp; sourceTree = "<group>"; };
+		5737C58E19552D1400BC241D /* SPK_Registerable.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SPK_Registerable.cpp; sourceTree = "<group>"; };
+		5737C58F19552D1400BC241D /* SPK_Renderer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SPK_Renderer.cpp; sourceTree = "<group>"; };
+		5737C59019552D1400BC241D /* SPK_System.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SPK_System.cpp; sourceTree = "<group>"; };
+		5737C59119552D1400BC241D /* SPK_Transformable.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SPK_Transformable.cpp; sourceTree = "<group>"; };
+		5737C59219552D1400BC241D /* SPK_Vector3D.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SPK_Vector3D.cpp; sourceTree = "<group>"; };
+		5737C59319552D1400BC241D /* SPK_Zone.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SPK_Zone.cpp; sourceTree = "<group>"; };
+		5737C59619552D1400BC241D /* SPK_NormalEmitter.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SPK_NormalEmitter.cpp; sourceTree = "<group>"; };
+		5737C59719552D1400BC241D /* SPK_RandomEmitter.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SPK_RandomEmitter.cpp; sourceTree = "<group>"; };
+		5737C59819552D1400BC241D /* SPK_SphericEmitter.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SPK_SphericEmitter.cpp; sourceTree = "<group>"; };
+		5737C59919552D1400BC241D /* SPK_StraightEmitter.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SPK_StraightEmitter.cpp; sourceTree = "<group>"; };
+		5737C59B19552D1400BC241D /* SPK_Collision.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SPK_Collision.cpp; sourceTree = "<group>"; };
+		5737C59C19552D1400BC241D /* SPK_Destroyer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SPK_Destroyer.cpp; sourceTree = "<group>"; };
+		5737C59D19552D1400BC241D /* SPK_LinearForce.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SPK_LinearForce.cpp; sourceTree = "<group>"; };
+		5737C59E19552D1400BC241D /* SPK_ModifierGroup.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SPK_ModifierGroup.cpp; sourceTree = "<group>"; };
+		5737C59F19552D1400BC241D /* SPK_Obstacle.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SPK_Obstacle.cpp; sourceTree = "<group>"; };
+		5737C5A019552D1400BC241D /* SPK_PointMass.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SPK_PointMass.cpp; sourceTree = "<group>"; };
+		5737C5A119552D1400BC241D /* SPK_Vortex.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SPK_Vortex.cpp; sourceTree = "<group>"; };
+		5737C5A319552D1400BC241D /* SPK_Oriented3DRendererInterface.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SPK_Oriented3DRendererInterface.cpp; sourceTree = "<group>"; };
+		5737C5A419552D1400BC241D /* SPK_QuadRendererInterface.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SPK_QuadRendererInterface.cpp; sourceTree = "<group>"; };
+		5737C5A619552D1400BC241D /* SPK_AABox.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SPK_AABox.cpp; sourceTree = "<group>"; };
+		5737C5A719552D1400BC241D /* SPK_Cylinder.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SPK_Cylinder.cpp; sourceTree = "<group>"; };
+		5737C5A819552D1400BC241D /* SPK_Line.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SPK_Line.cpp; sourceTree = "<group>"; };
+		5737C5A919552D1400BC241D /* SPK_Plane.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SPK_Plane.cpp; sourceTree = "<group>"; };
+		5737C5AA19552D1400BC241D /* SPK_Point.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SPK_Point.cpp; sourceTree = "<group>"; };
+		5737C5AB19552D1400BC241D /* SPK_Ring.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SPK_Ring.cpp; sourceTree = "<group>"; };
+		5737C5AC19552D1400BC241D /* SPK_Sphere.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SPK_Sphere.cpp; sourceTree = "<group>"; };
+		5737C5C419552D1400BC241D /* SPK_GL_All.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SPK_GL_All.cpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5737C54919552CAA00BC241D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5737C55019552CAA00BC241D /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5737C56A19552CAA00BC241D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5737C57019552CAA00BC241D /* Cocoa.framework in Frameworks */,
+				5737C56F19552CAA00BC241D /* XCTest.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5737C54319552CAA00BC241D = {
+			isa = PBXGroup;
+			children = (
+				5737C55519552CAA00BC241D /* ParticleSystemMacOSX */,
+				5737C57319552CAA00BC241D /* ParticleSystemMacOSXTests */,
+				5737C54E19552CAA00BC241D /* Frameworks */,
+				5737C54D19552CAA00BC241D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		5737C54D19552CAA00BC241D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5737C54C19552CAA00BC241D /* ParticleSystemMacOSX.app */,
+				5737C56D19552CAA00BC241D /* ParticleSystemMacOSXTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5737C54E19552CAA00BC241D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				5737C54F19552CAA00BC241D /* Cocoa.framework */,
+				5737C56E19552CAA00BC241D /* XCTest.framework */,
+				5737C55119552CAA00BC241D /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		5737C55119552CAA00BC241D /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				5737C55219552CAA00BC241D /* AppKit.framework */,
+				5737C55319552CAA00BC241D /* CoreData.framework */,
+				5737C55419552CAA00BC241D /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		5737C55519552CAA00BC241D /* ParticleSystemMacOSX */ = {
+			isa = PBXGroup;
+			children = (
+				5737C58319552D1400BC241D /* src */,
+				5737C56119552CAA00BC241D /* AppDelegate.h */,
+				5737C56219552CAA00BC241D /* AppDelegate.m */,
+				5737C56419552CAA00BC241D /* MainMenu.xib */,
+				5737C56719552CAA00BC241D /* Images.xcassets */,
+				5737C55619552CAA00BC241D /* Supporting Files */,
+			);
+			path = ParticleSystemMacOSX;
+			sourceTree = "<group>";
+		};
+		5737C55619552CAA00BC241D /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				5737C55719552CAA00BC241D /* ParticleSystemMacOSX-Info.plist */,
+				5737C55819552CAA00BC241D /* InfoPlist.strings */,
+				5737C55B19552CAA00BC241D /* main.m */,
+				5737C55D19552CAA00BC241D /* ParticleSystemMacOSX-Prefix.pch */,
+				5737C55E19552CAA00BC241D /* Credits.rtf */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		5737C57319552CAA00BC241D /* ParticleSystemMacOSXTests */ = {
+			isa = PBXGroup;
+			children = (
+				5737C57919552CAA00BC241D /* ParticleSystemMacOSXTests.m */,
+				5737C57419552CAA00BC241D /* Supporting Files */,
+			);
+			path = ParticleSystemMacOSXTests;
+			sourceTree = "<group>";
+		};
+		5737C57419552CAA00BC241D /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				5737C57519552CAA00BC241D /* ParticleSystemMacOSXTests-Info.plist */,
+				5737C57619552CAA00BC241D /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		5737C58319552D1400BC241D /* src */ = {
+			isa = PBXGroup;
+			children = (
+				5737C58419552D1400BC241D /* Core */,
+				5737C59419552D1400BC241D /* Extensions */,
+				5737C5C419552D1400BC241D /* SPK_GL_All.cpp */,
+			);
+			name = src;
+			path = ../../../../src;
+			sourceTree = "<group>";
+		};
+		5737C58419552D1400BC241D /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				5737C58519552D1400BC241D /* SPK_BufferHandler.cpp */,
+				5737C58619552D1400BC241D /* SPK_DEF.cpp */,
+				5737C58719552D1400BC241D /* SPK_Emitter.cpp */,
+				5737C58819552D1400BC241D /* SPK_Factory.cpp */,
+				5737C58919552D1400BC241D /* SPK_Group.cpp */,
+				5737C58A19552D1400BC241D /* SPK_Interpolator.cpp */,
+				5737C58B19552D1400BC241D /* SPK_Model.cpp */,
+				5737C58C19552D1400BC241D /* SPK_Modifier.cpp */,
+				5737C58D19552D1400BC241D /* SPK_Particle.cpp */,
+				5737C58E19552D1400BC241D /* SPK_Registerable.cpp */,
+				5737C58F19552D1400BC241D /* SPK_Renderer.cpp */,
+				5737C59019552D1400BC241D /* SPK_System.cpp */,
+				5737C59119552D1400BC241D /* SPK_Transformable.cpp */,
+				5737C59219552D1400BC241D /* SPK_Vector3D.cpp */,
+				5737C59319552D1400BC241D /* SPK_Zone.cpp */,
+			);
+			path = Core;
+			sourceTree = "<group>";
+		};
+		5737C59419552D1400BC241D /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				5737C59519552D1400BC241D /* Emitters */,
+				5737C59A19552D1400BC241D /* Modifiers */,
+				5737C5A219552D1400BC241D /* Renderers */,
+				5737C5A519552D1400BC241D /* Zones */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		5737C59519552D1400BC241D /* Emitters */ = {
+			isa = PBXGroup;
+			children = (
+				5737C59619552D1400BC241D /* SPK_NormalEmitter.cpp */,
+				5737C59719552D1400BC241D /* SPK_RandomEmitter.cpp */,
+				5737C59819552D1400BC241D /* SPK_SphericEmitter.cpp */,
+				5737C59919552D1400BC241D /* SPK_StraightEmitter.cpp */,
+			);
+			path = Emitters;
+			sourceTree = "<group>";
+		};
+		5737C59A19552D1400BC241D /* Modifiers */ = {
+			isa = PBXGroup;
+			children = (
+				5737C59B19552D1400BC241D /* SPK_Collision.cpp */,
+				5737C59C19552D1400BC241D /* SPK_Destroyer.cpp */,
+				5737C59D19552D1400BC241D /* SPK_LinearForce.cpp */,
+				5737C59E19552D1400BC241D /* SPK_ModifierGroup.cpp */,
+				5737C59F19552D1400BC241D /* SPK_Obstacle.cpp */,
+				5737C5A019552D1400BC241D /* SPK_PointMass.cpp */,
+				5737C5A119552D1400BC241D /* SPK_Vortex.cpp */,
+			);
+			path = Modifiers;
+			sourceTree = "<group>";
+		};
+		5737C5A219552D1400BC241D /* Renderers */ = {
+			isa = PBXGroup;
+			children = (
+				5737C5A319552D1400BC241D /* SPK_Oriented3DRendererInterface.cpp */,
+				5737C5A419552D1400BC241D /* SPK_QuadRendererInterface.cpp */,
+			);
+			path = Renderers;
+			sourceTree = "<group>";
+		};
+		5737C5A519552D1400BC241D /* Zones */ = {
+			isa = PBXGroup;
+			children = (
+				5737C5A619552D1400BC241D /* SPK_AABox.cpp */,
+				5737C5A719552D1400BC241D /* SPK_Cylinder.cpp */,
+				5737C5A819552D1400BC241D /* SPK_Line.cpp */,
+				5737C5A919552D1400BC241D /* SPK_Plane.cpp */,
+				5737C5AA19552D1400BC241D /* SPK_Point.cpp */,
+				5737C5AB19552D1400BC241D /* SPK_Ring.cpp */,
+				5737C5AC19552D1400BC241D /* SPK_Sphere.cpp */,
+			);
+			path = Zones;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		5737C54B19552CAA00BC241D /* ParticleSystemMacOSX */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5737C57D19552CAA00BC241D /* Build configuration list for PBXNativeTarget "ParticleSystemMacOSX" */;
+			buildPhases = (
+				5737C54819552CAA00BC241D /* Sources */,
+				5737C54919552CAA00BC241D /* Frameworks */,
+				5737C54A19552CAA00BC241D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ParticleSystemMacOSX;
+			productName = ParticleSystemMacOSX;
+			productReference = 5737C54C19552CAA00BC241D /* ParticleSystemMacOSX.app */;
+			productType = "com.apple.product-type.application";
+		};
+		5737C56C19552CAA00BC241D /* ParticleSystemMacOSXTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5737C58019552CAA00BC241D /* Build configuration list for PBXNativeTarget "ParticleSystemMacOSXTests" */;
+			buildPhases = (
+				5737C56919552CAA00BC241D /* Sources */,
+				5737C56A19552CAA00BC241D /* Frameworks */,
+				5737C56B19552CAA00BC241D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				5737C57219552CAA00BC241D /* PBXTargetDependency */,
+			);
+			name = ParticleSystemMacOSXTests;
+			productName = ParticleSystemMacOSXTests;
+			productReference = 5737C56D19552CAA00BC241D /* ParticleSystemMacOSXTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		5737C54419552CAA00BC241D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0510;
+				ORGANIZATIONNAME = "Neon Games LLC";
+				TargetAttributes = {
+					5737C56C19552CAA00BC241D = {
+						TestTargetID = 5737C54B19552CAA00BC241D;
+					};
+				};
+			};
+			buildConfigurationList = 5737C54719552CAA00BC241D /* Build configuration list for PBXProject "ParticleSystemMacOSX" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 5737C54319552CAA00BC241D;
+			productRefGroup = 5737C54D19552CAA00BC241D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5737C54B19552CAA00BC241D /* ParticleSystemMacOSX */,
+				5737C56C19552CAA00BC241D /* ParticleSystemMacOSXTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		5737C54A19552CAA00BC241D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5737C55A19552CAA00BC241D /* InfoPlist.strings in Resources */,
+				5737C56819552CAA00BC241D /* Images.xcassets in Resources */,
+				5737C56019552CAA00BC241D /* Credits.rtf in Resources */,
+				5737C56619552CAA00BC241D /* MainMenu.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5737C56B19552CAA00BC241D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5737C57819552CAA00BC241D /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5737C54819552CAA00BC241D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5737C5D619552D1400BC241D /* SPK_NormalEmitter.cpp in Sources */,
+				5737C5E719552D1400BC241D /* SPK_Point.cpp in Sources */,
+				5737C5C819552D1400BC241D /* SPK_DEF.cpp in Sources */,
+				5737C5CD19552D1400BC241D /* SPK_Model.cpp in Sources */,
+				5737C5E119552D1400BC241D /* SPK_Oriented3DRendererInterface.cpp in Sources */,
+				5737C5D119552D1400BC241D /* SPK_Renderer.cpp in Sources */,
+				5737C5E019552D1400BC241D /* SPK_Vortex.cpp in Sources */,
+				5737C5CB19552D1400BC241D /* SPK_Group.cpp in Sources */,
+				5737C5C719552D1400BC241D /* SPK_BufferHandler.cpp in Sources */,
+				5737C5E419552D1400BC241D /* SPK_Cylinder.cpp in Sources */,
+				5737C56319552CAA00BC241D /* AppDelegate.m in Sources */,
+				5737C5E919552D1400BC241D /* SPK_Sphere.cpp in Sources */,
+				5737C5C919552D1400BC241D /* SPK_Emitter.cpp in Sources */,
+				5737C5E219552D1400BC241D /* SPK_QuadRendererInterface.cpp in Sources */,
+				5737C5CC19552D1400BC241D /* SPK_Interpolator.cpp in Sources */,
+				5737C5E819552D1400BC241D /* SPK_Ring.cpp in Sources */,
+				5737C5D419552D1400BC241D /* SPK_Vector3D.cpp in Sources */,
+				5737C5D019552D1400BC241D /* SPK_Registerable.cpp in Sources */,
+				5737C5DC19552D1400BC241D /* SPK_LinearForce.cpp in Sources */,
+				5737C5DD19552D1400BC241D /* SPK_ModifierGroup.cpp in Sources */,
+				5737C5DE19552D1400BC241D /* SPK_Obstacle.cpp in Sources */,
+				5737C5D519552D1400BC241D /* SPK_Zone.cpp in Sources */,
+				5737C5DF19552D1400BC241D /* SPK_PointMass.cpp in Sources */,
+				5737C5D819552D1400BC241D /* SPK_SphericEmitter.cpp in Sources */,
+				5737C5CE19552D1400BC241D /* SPK_Modifier.cpp in Sources */,
+				5737C55C19552CAA00BC241D /* main.m in Sources */,
+				5737C5FD19552D1400BC241D /* SPK_GL_All.cpp in Sources */,
+				5737C5DA19552D1400BC241D /* SPK_Collision.cpp in Sources */,
+				5737C5D219552D1400BC241D /* SPK_System.cpp in Sources */,
+				5737C5D319552D1400BC241D /* SPK_Transformable.cpp in Sources */,
+				5737C5D919552D1400BC241D /* SPK_StraightEmitter.cpp in Sources */,
+				5737C5E619552D1400BC241D /* SPK_Plane.cpp in Sources */,
+				5737C5D719552D1400BC241D /* SPK_RandomEmitter.cpp in Sources */,
+				5737C5E519552D1400BC241D /* SPK_Line.cpp in Sources */,
+				5737C5E319552D1400BC241D /* SPK_AABox.cpp in Sources */,
+				5737C5CF19552D1400BC241D /* SPK_Particle.cpp in Sources */,
+				5737C5CA19552D1400BC241D /* SPK_Factory.cpp in Sources */,
+				5737C5DB19552D1400BC241D /* SPK_Destroyer.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5737C56919552CAA00BC241D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5737C57A19552CAA00BC241D /* ParticleSystemMacOSXTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		5737C57219552CAA00BC241D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 5737C54B19552CAA00BC241D /* ParticleSystemMacOSX */;
+			targetProxy = 5737C57119552CAA00BC241D /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		5737C55819552CAA00BC241D /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5737C55919552CAA00BC241D /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		5737C55E19552CAA00BC241D /* Credits.rtf */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5737C55F19552CAA00BC241D /* en */,
+			);
+			name = Credits.rtf;
+			sourceTree = "<group>";
+		};
+		5737C56419552CAA00BC241D /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5737C56519552CAA00BC241D /* Base */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+		5737C57619552CAA00BC241D /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5737C57719552CAA00BC241D /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		5737C57B19552CAA00BC241D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+					"$(SRCROOT)/../../../include",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		5737C57C19552CAA00BC241D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+					"$(SRCROOT)/../../../include",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		5737C57E19552CAA00BC241D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ParticleSystemMacOSX/ParticleSystemMacOSX-Prefix.pch";
+				INFOPLIST_FILE = "ParticleSystemMacOSX/ParticleSystemMacOSX-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		5737C57F19552CAA00BC241D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ParticleSystemMacOSX/ParticleSystemMacOSX-Prefix.pch";
+				INFOPLIST_FILE = "ParticleSystemMacOSX/ParticleSystemMacOSX-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		5737C58119552CAA00BC241D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/ParticleSystemMacOSX.app/Contents/MacOS/ParticleSystemMacOSX";
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"$(inherited)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ParticleSystemMacOSX/ParticleSystemMacOSX-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "ParticleSystemMacOSXTests/ParticleSystemMacOSXTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		5737C58219552CAA00BC241D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/ParticleSystemMacOSX.app/Contents/MacOS/ParticleSystemMacOSX";
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"$(inherited)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ParticleSystemMacOSX/ParticleSystemMacOSX-Prefix.pch";
+				INFOPLIST_FILE = "ParticleSystemMacOSXTests/ParticleSystemMacOSXTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5737C54719552CAA00BC241D /* Build configuration list for PBXProject "ParticleSystemMacOSX" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5737C57B19552CAA00BC241D /* Debug */,
+				5737C57C19552CAA00BC241D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5737C57D19552CAA00BC241D /* Build configuration list for PBXNativeTarget "ParticleSystemMacOSX" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5737C57E19552CAA00BC241D /* Debug */,
+				5737C57F19552CAA00BC241D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		5737C58019552CAA00BC241D /* Build configuration list for PBXNativeTarget "ParticleSystemMacOSXTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5737C58119552CAA00BC241D /* Debug */,
+				5737C58219552CAA00BC241D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5737C54419552CAA00BC241D /* Project object */;
+}

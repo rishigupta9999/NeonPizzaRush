@@ -1,0 +1,704 @@
+TBulletSoftBodySolvers_OpenCL_Apple
+v6
+r1
+cCheck dependencies
+cCompileC build/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/BULLET_PHYSICS.build/Debug/BulletSoftBodySolvers_OpenCL_Apple.build/Objects-normal/x86_64/btSoftBodySolver_OpenCL.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/BULLET_PHYSICS.build/Debug/BulletSoftBodySolvers_OpenCL_Apple.build/Objects-normal/x86_64/btSoftBodySolver_OpenCLSIMDAware.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/Debug/libBulletSoftBodySolvers_OpenCL_Apple.a normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005347D58600000000000000AA
+t1397216646
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000526733BD000000000000044C
+t1382495165
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005320FA5A00000000000001DE
+t1394670170
+s478
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/BULLET_PHYSICS.build/Debug/BulletSoftBodySolvers_OpenCL_Apple.build/Objects-normal/x86_64/BulletSoftBodySolvers_OpenCL_Apple.LinkFileList
+c00000000536C06BF00000000000001EF
+t1399588543
+s495
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/BULLET_PHYSICS.build/Debug/BulletSoftBodySolvers_OpenCL_Apple.build/Objects-normal/x86_64/btSoftBodySolver_OpenCL.o
+t1399588544
+s852612
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/BULLET_PHYSICS.build/Debug/BulletSoftBodySolvers_OpenCL_Apple.build/Objects-normal/x86_64/btSoftBodySolver_OpenCLSIMDAware.o
+t1399588544
+s713580
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/Debug/libBulletSoftBodySolvers_OpenCL_Apple.a
+t1399588544
+s1612672
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btBroadphaseInterface.h
+c00000000536B4FF10000000000000E03
+t1399541745
+s3587
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btBroadphaseProxy.h
+c00000000536B4FF10000000000001EA9
+t1399541745
+s7849
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDbvt.h
+c00000000536B4FF10000000000007EB0
+t1399541745
+s32432
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDispatcher.h
+c00000000536B4FF10000000000000E1D
+t1399541745
+s3613
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h
+c00000000536B4FF100000000000006C4
+t1399541745
+s1732
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionDispatcher.h
+c00000000536B4FF1000000000000149A
+t1399541745
+s5274
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionObject.h
+c00000000536B4FF10000000000003B4F
+t1399541745
+s15183
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionObjectWrapper.h
+c00000000536B4FF1000000000000067E
+t1399541745
+s1662
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btManifoldResult.h
+c00000000536B4FF10000000000001131
+t1399541745
+s4401
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCapsuleShape.h
+c00000000536B4FF0000000000000177D
+t1399541744
+s6013
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCollisionMargin.h
+c00000000536B4FF00000000000000595
+t1399541744
+s1429
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCollisionShape.h
+c00000000536B4FF000000000000012EB
+t1399541744
+s4843
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConcaveShape.h
+c00000000536B4FF0000000000000084D
+t1399541744
+s2125
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexInternalShape.h
+c00000000536B4FF000000000000019D4
+t1399541744
+s6612
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexShape.h
+c00000000536B4FF00000000000000C9A
+t1399541744
+s3226
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btSphereShape.h
+c00000000536B4FF00000000000000A84
+t1399541744
+s2692
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btStridingMeshInterface.h
+c00000000536B4FF00000000000001552
+t1399541744
+s5458
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleCallback.h
+c00000000536B4FF000000000000006AB
+t1399541744
+s1707
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleIndexVertexArray.h
+c00000000536B4FF000000000000014AF
+t1399541744
+s5295
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h
+c00000000536B4FF10000000000000C96
+t1399541745
+s3222
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btGjkEpa2.h
+c00000000536B4FF100000000000009D9
+t1399541745
+s2521
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btManifoldPoint.h
+c00000000536B4FF10000000000001183
+t1399541745
+s4483
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btPersistentManifold.h
+c00000000536B4FF10000000000001ED0
+t1399541745
+s7888
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btRigidBody.h
+c00000000536B4FF000000000000046F5
+t1399541744
+s18165
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/ApplyForces.cl
+c00000000536B4FF10000000000000A98
+t1399541745
+s2712
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/Integrate.cl
+c00000000536B4FF100000000000003B3
+t1399541745
+s947
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/OutputToVertexArray.cl
+c00000000536B4FF100000000000006BD
+t1399541745
+s1725
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/PrepareLinks.cl
+c00000000536B4FF100000000000003F2
+t1399541745
+s1010
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/SolveCollisionsAndUpdateVelocities.cl
+c00000000536B4FF10000000000001BE3
+t1399541745
+s7139
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/SolveCollisionsAndUpdateVelocitiesSIMDBatched.cl
+c00000000536B4FF100000000000020C0
+t1399541745
+s8384
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/SolvePositions.cl
+c00000000536B4FF10000000000000561
+t1399541745
+s1377
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/SolvePositionsSIMDBatched.cl
+c00000000536B4FF100000000000014EC
+t1399541745
+s5356
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/UpdateConstants.cl
+c00000000536B4FF100000000000004E9
+t1399541745
+s1257
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/UpdateFixedVertexPositions.cl
+c00000000536B4FF10000000000000219
+t1399541745
+s537
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/UpdateNodes.cl
+c00000000536B4FF100000000000004CC
+t1399541745
+s1228
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/UpdateNormals.cl
+c00000000536B4FF10000000000000B87
+t1399541745
+s2951
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/UpdatePositions.cl
+c00000000536B4FF100000000000003FD
+t1399541745
+s1021
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/UpdatePositionsFromVelocities.cl
+c00000000536B4FF10000000000000291
+t1399541745
+s657
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/VSolveLinks.cl
+c00000000536B4FF10000000000000577
+t1399541745
+s1399
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolverBuffer_OpenCL.h
+c00000000536B4FF10000000000001272
+t1399541745
+s4722
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolverLinkData_OpenCL.h
+c00000000536B4FF10000000000000CD9
+t1399541745
+s3289
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolverLinkData_OpenCLSIMDAware.h
+c00000000536B4FF1000000000000143F
+t1399541745
+s5183
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolverTriangleData_OpenCL.h
+c00000000536B4FF10000000000000C02
+t1399541745
+s3074
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolverVertexData_OpenCL.h
+c00000000536B4FF100000000000008B5
+t1399541745
+s2229
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.cpp
+c00000000536B4FF100000000000127C1
+t1399541745
+s75713
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.h
+c00000000536B4FF1000000000000368D
+t1399541745
+s13965
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp
+c00000000536B4FF1000000000000B624
+t1399541745
+s46628
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.h
+c00000000536B4FF10000000000000A2E
+t1399541745
+s2606
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/Shared/btSoftBodySolverData.h
+c00000000536B4FF10000000000004B14
+t1399541745
+s19220
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h
+c00000000536B4FF000000000000078E4
+t1399541744
+s30948
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyInternals.h
+c00000000536B4FF00000000000005FDE
+t1399541744
+s24542
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodySolverVertexBuffer.h
+c00000000536B4FF00000000000000EE1
+t1399541744
+s3809
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodySolvers.h
+c00000000536B4FF0000000000000117A
+t1399541744
+s4474
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h
+c00000000536B4FF00000000000001CDE
+t1399541744
+s7390
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAabbUtil2.h
+c00000000536B4FF10000000000002154
+t1399541745
+s8532
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedAllocator.h
+c00000000536B4FF1000000000000114F
+t1399541745
+s4431
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedObjectArray.h
+c00000000536B4FF10000000000002BCB
+t1399541745
+s11211
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btIDebugDraw.h
+c00000000536B4FF1000000000000410A
+t1399541745
+s16650
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMatrix3x3.h
+c00000000536B4FF1000000000000ADC0
+t1399541745
+s44480
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMinMax.h
+c00000000536B4FF100000000000006C6
+t1399541745
+s1734
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMotionState.h
+c00000000536B4FF1000000000000063D
+t1399541745
+s1597
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btPolarDecomposition.h
+c00000000536B4FF10000000000000A2D
+t1399541745
+s2605
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuadWord.h
+c00000000536B4FF10000000000001C89
+t1399541745
+s7305
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuaternion.h
+c00000000536B4FF10000000000006E31
+t1399541745
+s28209
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuickprof.h
+c00000000536B4FF10000000000001410
+t1399541745
+s5136
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btScalar.h
+c00000000536B4FF100000000000053B9
+t1399541745
+s21433
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btTransform.h
+c00000000536B4FF10000000000002241
+t1399541745
+s8769
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btTransformUtil.h
+c00000000536B4FF10000000000001C3F
+t1399541745
+s7231
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btVector3.h
+c00000000536B4FF10000000000009D3C
+t1399541745
+s40252
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/boolInVec.h
+c00000000536B4FF10000000000001C33
+t1399541745
+s7219
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/floatInVec.h
+c00000000536B4FF10000000000002298
+t1399541745
+s8856
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/mat_aos.h
+c00000000536B4FF100000000000123EE
+t1399541745
+s74734
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/quat_aos.h
+c00000000536B4FF10000000000004448
+t1399541745
+s17480
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vec_aos.h
+c00000000536B4FF1000000000000AA2F
+t1399541745
+s43567
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vecidx_aos.h
+c00000000536B4FF20000000000000C38
+t1399541746
+s3128
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vectormath_aos.h
+c00000000536B4FF10000000000015F8F
+t1399541745
+s89999
+
+N/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h
+c00000000536B4FF20000000000000318
+t1399541746
+s792
+
+CBuild AST from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.cpp
+r0
+
+CBuild AST from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies66d933093f1cb941^064834093f1cb941^---0#1#1#--18"Check dependencies36"6D34C1CF-FAE9-4885-96D6-660F8AE020A0-
+
+CCompileC build/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/BULLET_PHYSICS.build/Debug/BulletSoftBodySolvers_OpenCL_Apple.build/Objects-normal/x86_64/btSoftBodySolver_OpenCL.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s421281343.099968
+e421281344.368336
+r1
+xCompileC
+xbuild/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/BULLET_PHYSICS.build/Debug/BulletSoftBodySolvers_OpenCL_Apple.build/Objects-normal/x86_64/btSoftBodySolver_OpenCL.o
+x/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.cpp
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleIndexVertexArray.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btStridingMeshInterface.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btVector3.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btScalar.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMinMax.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedAllocator.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleCallback.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConcaveShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCollisionShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btTransform.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMatrix3x3.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuaternion.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuadWord.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btBroadphaseProxy.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedObjectArray.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vectormath_aos.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vecidx_aos.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/floatInVec.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/boolInVec.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vec_aos.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/quat_aos.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/mat_aos.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodySolvers.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btIDebugDraw.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btRigidBody.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionObject.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMotionState.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btGjkEpa2.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCollisionMargin.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDbvt.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAabbUtil2.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolverBuffer_OpenCL.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolverLinkData_OpenCL.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/Shared/btSoftBodySolverData.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolverVertexData_OpenCL.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolverTriangleData_OpenCL.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodySolverVertexBuffer.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyInternals.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuickprof.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btPolarDecomposition.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btBroadphaseInterface.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionDispatcher.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDispatcher.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btPersistentManifold.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btManifoldPoint.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btTransformUtil.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btManifoldResult.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionObjectWrapper.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexInternalShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCapsuleShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btSphereShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/PrepareLinks.cl
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/UpdatePositionsFromVelocities.cl
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/SolvePositions.cl
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/UpdateNodes.cl
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/UpdatePositions.cl
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/UpdateConstants.cl
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/Integrate.cl
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/ApplyForces.cl
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/UpdateFixedVertexPositions.cl
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/UpdateNormals.cl
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/VSolveLinks.cl
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/SolveCollisionsAndUpdateVelocities.cl
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.cpp:20:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.h:23:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h:27:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h:188:8: warning: unused variable 'sz' [-Wunused-variable]
+o                        int sz = sizeof(Cell);
+o                            ^
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.cpp:623:2: warning: field 'm_defaultWorkGroupSize' will be initialized after field 'm_bUpdateAnchoredNodePos' [-Wreorder]
+o        m_defaultWorkGroupSize(BT_DEFAULT_WORKGROUPSIZE),
+o        ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.cpp:23:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyInternals.h:425:20: warning: unused function 'ImplicitSolve' [-Wunused-function]
+ostatic btScalar                         ImplicitSolve(  btSoftBody::ImplicitFn* fn,
+o                                        ^
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyInternals.h:507:17: warning: unused function 'EvaluateMedium' [-Wunused-function]
+ostatic void                                     EvaluateMedium( const btSoftBodyWorldInfo* wfi,
+o                                                ^
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.cpp:62:20: warning: unused variable 'UpdateConstantsCLString' [-Wunused-variable]
+ostatic const char* UpdateConstantsCLString = 
+o                   ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.cpp:18:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h:11:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vectormath_aos.h:695:39: warning: inline function 'Vectormath::Aos::select' is not defined [-Wundefined-inline]
+oVECTORMATH_FORCE_INLINE const Vector3 select( const Vector3 &vec0, const Vector3 &vec1, const boolInVec &select1 );
+o                                      ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.cpp:18:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h:11:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vectormath_aos.h:2543:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vec_aos.h:681:12: note: used here
+o    return select( vec0, vec1, boolInVec(select1) );
+o           ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.cpp:18:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h:11:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vectormath_aos.h:1648:36: warning: inline function 'Vectormath::Aos::select' is not defined [-Wundefined-inline]
+oVECTORMATH_FORCE_INLINE const Quat select( const Quat &quat0, const Quat &quat1, const boolInVec &select1 );
+o                                   ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.cpp:18:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h:11:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vectormath_aos.h:2544:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/quat_aos.h:523:12: note: used here
+o    return select( quat0, quat1, boolInVec(select1) );
+o           ^
+o7 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection150"Compile /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.cpp326"CompileC build/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/BULLET_PHYSICS.build/Debug/BulletSoftBodySolvers_OpenCL_Apple.build/Objects-normal/x86_64/btSoftBodySolver_OpenCL.o src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilercbbc193f3e1cb941^a39020413e1cb941^-4594"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.cpp:20:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.h:23:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h:27:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h:188:8: warning: unused variable 'sz' [-Wunused-variable]                        int sz = sizeof(Cell);                            ^/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.cpp:623:2: warning: field 'm_defaultWorkGroupSize' will be initialized after field 'm_bUpdateAnchoredNodePos' [-Wreorder]        m_defaultWorkGroupSize(BT_DEFAULT_WORKGROUPSIZE),        ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.cpp:23:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyInternals.h:425:20: warning: unused function 'ImplicitSolve' [-Wunused-function]static btScalar                         ImplicitSolve(  btSoftBody::ImplicitFn* fn,                                        ^/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyInternals.h:507:17: warning: unused function 'EvaluateMedium' [-Wunused-function]static void                                     EvaluateMedium( const btSoftBodyWorldInfo* wfi,                                                ^/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.cpp:62:20: warning: unused variable 'UpdateConstantsCLString' [-Wunused-variable]static const char* UpdateConstantsCLString =                    ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.cpp:18:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h:11:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vectormath_aos.h:695:39: warning: inline function 'Vectormath::Aos::select' is not defined [-Wundefined-inline]VECTORMATH_FORCE_INLINE const Vector3 select( const Vector3 &vec0, const Vector3 &vec1, const boolInVec &select1 );                                      ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.cpp:18:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h:11:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vectormath_aos.h:2543:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vec_aos.h:681:12: note: used here    return select( vec0, vec1, boolInVec(select1) );           ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.cpp:18:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h:11:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vectormath_aos.h:1648:36: warning: inline function 'Vectormath::Aos::select' is not defined [-Wundefined-inline]VECTORMATH_FORCE_INLINE const Quat select( const Quat &quat0, const Quat &quat1, const boolInVec &select1 );                                   ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.cpp:18:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h:11:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vectormath_aos.h:2544:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/quat_aos.h:523:12: note: used here    return select( quat0, quat1, boolInVec(select1) );           ^7 warnings generated.7(36%IDEClangDiagnosticActivityLogMessage2@20"Unused variable 'sz'-421281344#18446744073709551615#0#3(2@168"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.cpp:20:-421281344#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@149"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.cpp0000000000000000^19#9#19#9#1154#0#21"Apple LLVM 5.0 Notice--2@166"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.h:23:-421281344#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@147"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.h0000000000000000^22#9#22#9#1169#0#21"Apple LLVM 5.0 Notice--2@122"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h:27:-421281344#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@103"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h0000000000000000^26#9#26#9#1352#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@104"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h0000000000000000^187#7#187#7#4360#0#19"Unused Entity Issue--2@89"Field 'm_defaultWorkGroupSize' will be initialized after field 'm_bUpdateAnchoredNodePos'-421281344#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@149"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.cpp0000000000000000^622#1#622#1#23304#0#14"Semantic Issue--2@31"Unused function 'ImplicitSolve'-421281344#18446744073709551615#0#1(2@168"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.cpp:23:-421281344#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@149"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.cpp0000000000000000^22#9#22#9#1290#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@112"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyInternals.h0000000000000000^424#19#424#19#10797#0#19"Unused Entity Issue--2@32"Unused function 'EvaluateMedium'-421281344#18446744073709551615#0#1(2@168"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.cpp:23:-421281344#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@149"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.cpp0000000000000000^22#9#22#9#1290#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@112"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodyInternals.h0000000000000000^506#16#506#16#12662#0#19"Unused Entity Issue--2@41"Unused variable 'UpdateConstantsCLString'-421281344#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@149"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.cpp0000000000000000^61#19#61#19#2565#0#19"Unused Entity Issue--2@56"Inline function 'Vectormath::Aos::select' is not defined-421281344#18446744073709551615#0#3(2@168"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.cpp:18:-421281344#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@149"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.cpp0000000000000000^17#9#17#9#1048#0#21"Apple LLVM 5.0 Notice--2@117"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h:11:-421281344#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@98"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h0000000000000000^10#11#10#11#245#0#21"Apple LLVM 5.0 Notice--2@9"Used here-421281344#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@100"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vec_aos.h0000000000000000^680#11#680#11#21725#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@107"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vectormath_aos.h0000000000000000^694#38#694#38#22736#0#14"Semantic Issue--2@56"Inline function 'Vectormath::Aos::select' is not defined-421281344#18446744073709551615#0#3(2@168"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.cpp:18:-421281344#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@149"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.cpp0000000000000000^17#9#17#9#1048#0#21"Apple LLVM 5.0 Notice--2@117"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h:11:-421281344#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@98"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h0000000000000000^10#11#10#11#245#0#21"Apple LLVM 5.0 Notice--2@9"Used here-421281344#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@101"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/quat_aos.h0000000000000000^522#11#522#11#16169#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@107"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vectormath_aos.h0000000000000000^1647#35#1647#35#56493#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@149"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.cpp0000000000000000^3288"CompileC build/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/BULLET_PHYSICS.build/Debug/BulletSoftBodySolvers_OpenCL_Apple.build/Objects-normal/x86_64/btSoftBodySolver_OpenCL.o src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/Debug/include -I/usr/local/include -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/BULLET_PHYSICS.build/Debug/BulletSoftBodySolvers_OpenCL_Apple.build/DerivedSources/x86_64 -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/BULLET_PHYSICS.build/Debug/BulletSoftBodySolvers_OpenCL_Apple.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/BULLET_PHYSICS.build/Debug/BulletSoftBodySolvers_OpenCL_Apple.build/Objects-normal/x86_64/btSoftBodySolver_OpenCL.d --serialize-diagnostics /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/BULLET_PHYSICS.build/Debug/BulletSoftBodySolvers_OpenCL_Apple.build/Objects-normal/x86_64/btSoftBodySolver_OpenCL.dia -c /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.cpp -o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/BULLET_PHYSICS.build/Debug/BulletSoftBodySolvers_OpenCL_Apple.build/Objects-normal/x86_64/btSoftBodySolver_OpenCL.o36"416CA17B-A6D4-48E6-86B5-4EF4DF228B6C-
+bC1114206-D6D4-40CF-A785-8E40987E65F5
+
+CCompileC build/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/BULLET_PHYSICS.build/Debug/BulletSoftBodySolvers_OpenCL_Apple.build/Objects-normal/x86_64/btSoftBodySolver_OpenCLSIMDAware.o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s421281343.100620
+e421281344.237896
+r1
+xCompileC
+xbuild/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/BULLET_PHYSICS.build/Debug/BulletSoftBodySolvers_OpenCL_Apple.build/Objects-normal/x86_64/btSoftBodySolver_OpenCLSIMDAware.o
+x/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleIndexVertexArray.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btStridingMeshInterface.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btVector3.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btScalar.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMinMax.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedAllocator.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleCallback.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConcaveShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCollisionShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btTransform.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMatrix3x3.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuaternion.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btQuadWord.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btBroadphaseProxy.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAlignedObjectArray.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vectormath_aos.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vecidx_aos.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/floatInVec.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/boolInVec.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vec_aos.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/quat_aos.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/mat_aos.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodySolvers.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btIDebugDraw.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btRigidBody.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionObject.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btMotionState.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btGjkEpa2.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCollisionMargin.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDbvt.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/LinearMath/btAabbUtil2.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolverBuffer_OpenCL.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolverLinkData_OpenCL.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/Shared/btSoftBodySolverData.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolverVertexData_OpenCL.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolverTriangleData_OpenCL.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolverLinkData_OpenCLSIMDAware.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBodySolverVertexBuffer.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCapsuleShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexInternalShape.h
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/UpdatePositionsFromVelocities.cl
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/SolvePositionsSIMDBatched.cl
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/UpdateNodes.cl
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/UpdatePositions.cl
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/UpdateConstants.cl
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/Integrate.cl
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/ApplyForces.cl
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/UpdateFixedVertexPositions.cl
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/UpdateNormals.cl
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/VSolveLinks.cl
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/SolveCollisionsAndUpdateVelocitiesSIMDBatched.cl
+d/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/OpenCLC10/OutputToVertexArray.cl
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp:20:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.h:22:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.h:23:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h:27:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h:188:8: warning: unused variable 'sz' [-Wunused-variable]
+o                        int sz = sizeof(Cell);
+o                            ^
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp:69:2: warning: field 'm_maxBatchesWithinWave' will be initialized after field 'm_maxLinksPerWavefront' [-Wreorder]
+o        m_maxBatchesWithinWave( 0 ),
+o        ^
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp:281:8: warning: unused variable 'maxLinks' [-Wunused-variable]
+o                        int maxLinks = numLinks;
+o                            ^
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp:434:6: warning: unused variable 'numVertices' [-Wunused-variable]
+o        int numVertices = m_vertexData.getNumVertices();
+o            ^
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp:433:6: warning: unused variable 'numLinks' [-Wunused-variable]
+o        int numLinks = m_linkData.getNumLinks();
+o            ^
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp:801:8: warning: unused variable 'linkAddress' [-Wunused-variable]
+o                        int linkAddress = vertex * maxLinksPerVertex + link;
+o                            ^
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp:46:20: warning: unused variable 'UpdateConstantsCLString' [-Wunused-variable]
+ostatic const char* UpdateConstantsCLString = 
+o                   ^
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp:56:20: warning: unused variable 'VSolveLinksCLString' [-Wunused-variable]
+ostatic const char* VSolveLinksCLString = 
+o                   ^
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp:60:20: warning: unused variable 'OutputToVertexArrayCLString' [-Wunused-variable]
+ostatic const char* OutputToVertexArrayCLString =
+o                   ^
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp:600:36: warning: unused function 'toTransform3' [-Wunused-function]
+ostatic Vectormath::Aos::Transform3 toTransform3( const btTransform &transform )
+o                                   ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp:18:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h:11:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vectormath_aos.h:695:39: warning: inline function 'Vectormath::Aos::select' is not defined [-Wundefined-inline]
+oVECTORMATH_FORCE_INLINE const Vector3 select( const Vector3 &vec0, const Vector3 &vec1, const boolInVec &select1 );
+o                                      ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp:18:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h:11:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vectormath_aos.h:2543:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vec_aos.h:681:12: note: used here
+o    return select( vec0, vec1, boolInVec(select1) );
+o           ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp:18:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h:11:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vectormath_aos.h:1648:36: warning: inline function 'Vectormath::Aos::select' is not defined [-Wundefined-inline]
+oVECTORMATH_FORCE_INLINE const Quat select( const Quat &quat0, const Quat &quat1, const boolInVec &select1 );
+o                                   ^
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp:18:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h:11:
+oIn file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vectormath_aos.h:2544:
+o/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/quat_aos.h:523:12: note: used here
+o    return select( quat0, quat1, boolInVec(select1) );
+o           ^
+o12 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection159"Compile /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp344"CompileC build/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/BULLET_PHYSICS.build/Debug/BulletSoftBodySolvers_OpenCL_Apple.build/Objects-normal/x86_64/btSoftBodySolver_OpenCLSIMDAware.o src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler90f4193f3e1cb941^1f8420413e1cb941^-6134"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp:20:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.h:22:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.h:23:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h:27:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h:188:8: warning: unused variable 'sz' [-Wunused-variable]                        int sz = sizeof(Cell);                            ^/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp:69:2: warning: field 'm_maxBatchesWithinWave' will be initialized after field 'm_maxLinksPerWavefront' [-Wreorder]        m_maxBatchesWithinWave( 0 ),        ^/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp:281:8: warning: unused variable 'maxLinks' [-Wunused-variable]                        int maxLinks = numLinks;                            ^/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp:434:6: warning: unused variable 'numVertices' [-Wunused-variable]        int numVertices = m_vertexData.getNumVertices();            ^/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp:433:6: warning: unused variable 'numLinks' [-Wunused-variable]        int numLinks = m_linkData.getNumLinks();            ^/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp:801:8: warning: unused variable 'linkAddress' [-Wunused-variable]                        int linkAddress = vertex * maxLinksPerVertex + link;                            ^/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp:46:20: warning: unused variable 'UpdateConstantsCLString' [-Wunused-variable]static const char* UpdateConstantsCLString =                    ^/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp:56:20: warning: unused variable 'VSolveLinksCLString' [-Wunused-variable]static const char* VSolveLinksCLString =                    ^/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp:60:20: warning: unused variable 'OutputToVertexArrayCLString' [-Wunused-variable]static const char* OutputToVertexArrayCLString =                   ^/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp:600:36: warning: unused function 'toTransform3' [-Wunused-function]static Vectormath::Aos::Transform3 toTransform3( const btTransform &transform )                                   ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp:18:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h:11:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vectormath_aos.h:695:39: warning: inline function 'Vectormath::Aos::select' is not defined [-Wundefined-inline]VECTORMATH_FORCE_INLINE const Vector3 select( const Vector3 &vec0, const Vector3 &vec1, const boolInVec &select1 );                                      ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp:18:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h:11:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vectormath_aos.h:2543:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vec_aos.h:681:12: note: used here    return select( vec0, vec1, boolInVec(select1) );           ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp:18:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h:11:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vectormath_aos.h:1648:36: warning: inline function 'Vectormath::Aos::select' is not defined [-Wundefined-inline]VECTORMATH_FORCE_INLINE const Quat select( const Quat &quat0, const Quat &quat1, const boolInVec &select1 );                                   ^In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp:18:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h:11:In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vectormath_aos.h:2544:/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/quat_aos.h:523:12: note: used here    return select( quat0, quat1, boolInVec(select1) );           ^12 warnings generated.12(36%IDEClangDiagnosticActivityLogMessage2@20"Unused variable 'sz'-421281344#18446744073709551615#0#4(2@177"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp:20:-421281344#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@158"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp0000000000000000^19#9#19#9#1154#0#21"Apple LLVM 5.0 Notice--2@175"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.h:22:-421281344#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@156"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.h0000000000000000^21#9#21#9#1142#0#21"Apple LLVM 5.0 Notice--2@166"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.h:23:-421281344#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@147"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCL.h0000000000000000^22#9#22#9#1169#0#21"Apple LLVM 5.0 Notice--2@122"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h:27:-421281344#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@103"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSoftBody.h0000000000000000^26#9#26#9#1352#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@104"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletSoftBody/btSparseSDF.h0000000000000000^187#7#187#7#4360#0#19"Unused Entity Issue--2@87"Field 'm_maxBatchesWithinWave' will be initialized after field 'm_maxLinksPerWavefront'-421281344#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@158"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp0000000000000000^68#1#68#1#3080#0#14"Semantic Issue--2@26"Unused variable 'maxLinks'-421281344#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@158"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp0000000000000000^280#7#280#7#11705#0#19"Unused Entity Issue--2@29"Unused variable 'numVertices'-421281344#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@158"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp0000000000000000^433#5#433#5#16692#0#19"Unused Entity Issue--2@26"Unused variable 'numLinks'-421281344#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@158"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp0000000000000000^432#5#432#5#16649#0#19"Unused Entity Issue--2@29"Unused variable 'linkAddress'-421281344#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@158"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp0000000000000000^800#7#800#7#33019#0#19"Unused Entity Issue--2@41"Unused variable 'UpdateConstantsCLString'-421281344#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@158"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp0000000000000000^45#19#45#19#2123#0#19"Unused Entity Issue--2@37"Unused variable 'VSolveLinksCLString'-421281344#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@158"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp0000000000000000^55#19#55#19#2561#0#19"Unused Entity Issue--2@45"Unused variable 'OutputToVertexArrayCLString'-421281344#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@158"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp0000000000000000^59#19#59#19#2777#0#19"Unused Entity Issue--2@30"Unused function 'toTransform3'-421281344#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@158"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp0000000000000000^599#35#599#35#25732#0#19"Unused Entity Issue--2@56"Inline function 'Vectormath::Aos::select' is not defined-421281344#18446744073709551615#0#3(2@177"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp:18:-421281344#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@158"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp0000000000000000^17#9#17#9#1048#0#21"Apple LLVM 5.0 Notice--2@117"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h:11:-421281344#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@98"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h0000000000000000^10#11#10#11#245#0#21"Apple LLVM 5.0 Notice--2@9"Used here-421281344#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@100"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vec_aos.h0000000000000000^680#11#680#11#21725#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@107"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vectormath_aos.h0000000000000000^694#38#694#38#22736#0#14"Semantic Issue--2@56"Inline function 'Vectormath::Aos::select' is not defined-421281344#18446744073709551615#0#3(2@177"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp:18:-421281344#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@158"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp0000000000000000^17#9#17#9#1048#0#21"Apple LLVM 5.0 Notice--2@117"In file included from /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h:11:-421281344#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@98"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/vmInclude.h0000000000000000^10#11#10#11#245#0#21"Apple LLVM 5.0 Notice--2@9"Used here-421281344#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@101"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/quat_aos.h0000000000000000^522#11#522#11#16169#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@107"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/vectormath/sse/vectormath_aos.h0000000000000000^1647#35#1647#35#56493#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@158"file:///Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp0000000000000000^3342"CompileC build/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/BULLET_PHYSICS.build/Debug/BulletSoftBodySolvers_OpenCL_Apple.build/Objects-normal/x86_64/btSoftBodySolver_OpenCLSIMDAware.o src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/Debug/include -I/usr/local/include -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/BULLET_PHYSICS.build/Debug/BulletSoftBodySolvers_OpenCL_Apple.build/DerivedSources/x86_64 -I/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/BULLET_PHYSICS.build/Debug/BulletSoftBodySolvers_OpenCL_Apple.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/BULLET_PHYSICS.build/Debug/BulletSoftBodySolvers_OpenCL_Apple.build/Objects-normal/x86_64/btSoftBodySolver_OpenCLSIMDAware.d --serialize-diagnostics /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/BULLET_PHYSICS.build/Debug/BulletSoftBodySolvers_OpenCL_Apple.build/Objects-normal/x86_64/btSoftBodySolver_OpenCLSIMDAware.dia -c /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/btSoftBodySolver_OpenCLSIMDAware.cpp -o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/BULLET_PHYSICS.build/Debug/BulletSoftBodySolvers_OpenCL_Apple.build/Objects-normal/x86_64/btSoftBodySolver_OpenCLSIMDAware.o36"EB058A38-F264-4774-AF8D-4D536D74B910-
+bC1114206-D6D4-40CF-A785-8E40987E65F5
+
+CLibtool /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/Debug/libBulletSoftBodySolvers_OpenCL_Apple.a normal x86_64
+s421281344.368902
+e421281344.376300
+r1
+xLibtool
+x/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/Debug/libBulletSoftBodySolvers_OpenCL_Apple.a
+xnormal
+xx86_64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Libtool build/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/Debug/libBulletSoftBodySolvers_OpenCL_Apple.a normal x86_64129"Libtool build/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/Debug/libBulletSoftBodySolvers_OpenCL_Apple.a normal x86_64af7c5e403e1cb941^799220413e1cb941^---0#0#1#--1065"Libtool build/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/Debug/libBulletSoftBodySolvers_OpenCL_Apple.a normal x86_64    cd /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only x86_64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/Debug -filelist /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/BULLET_PHYSICS.build/Debug/BulletSoftBodySolvers_OpenCL_Apple.build/Objects-normal/x86_64/BulletSoftBodySolvers_OpenCL_Apple.LinkFileList -o /Users/rishig/Neon21/Users/rishi_gupta/Physics/bullet-2.82-r2704/build/src/BulletMultiThreaded/GpuSoftBodySolvers/OpenCL/Apple/Debug/libBulletSoftBodySolvers_OpenCL_Apple.a36"DCF1248E-7795-4381-909D-FF906A493512-
+bC1114206-D6D4-40CF-A785-8E40987E65F5
+
